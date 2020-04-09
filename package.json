@@ -1,6 +1,12 @@
 {
+  "name": "vuepress-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WalkAlone0325/vuepress-notes.git",
+  "author": "独行 <jsw0325@163.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:build": "vuepress build docs"
   }
 }
