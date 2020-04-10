@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>终端工具篇 | 独行的笔记</title>
+    <meta name="description" content="我的个人网站">
+    <meta name="generator" content="VuePress 1.4.0">
+    <link rel="icon" href="/note/img/favicon.ico">
+    
+    <link rel="preload" href="/note/assets/css/0.styles.5dad0dbd.css" as="style"><link rel="preload" href="/note/assets/js/app.d122785e.js" as="script"><link rel="preload" href="/note/assets/js/2.187075d7.js" as="script"><link rel="preload" href="/note/assets/js/20.07efd855.js" as="script"><link rel="prefetch" href="/note/assets/js/10.f859e620.js"><link rel="prefetch" href="/note/assets/js/11.05e1cfff.js"><link rel="prefetch" href="/note/assets/js/12.4f8242c4.js"><link rel="prefetch" href="/note/assets/js/13.eb852efb.js"><link rel="prefetch" href="/note/assets/js/14.7b94d687.js"><link rel="prefetch" href="/note/assets/js/15.77388b3a.js"><link rel="prefetch" href="/note/assets/js/16.0c830aea.js"><link rel="prefetch" href="/note/assets/js/17.8993c28b.js"><link rel="prefetch" href="/note/assets/js/18.2cacbf1e.js"><link rel="prefetch" href="/note/assets/js/19.0390466e.js"><link rel="prefetch" href="/note/assets/js/21.b676099f.js"><link rel="prefetch" href="/note/assets/js/22.ef48a15b.js"><link rel="prefetch" href="/note/assets/js/3.67fa8bd4.js"><link rel="prefetch" href="/note/assets/js/4.4863e84f.js"><link rel="prefetch" href="/note/assets/js/5.69f2b6c1.js"><link rel="prefetch" href="/note/assets/js/6.5832d6f8.js"><link rel="prefetch" href="/note/assets/js/7.4bb47df5.js"><link rel="prefetch" href="/note/assets/js/8.d87aa7f5.js"><link rel="prefetch" href="/note/assets/js/9.9c843eed.js">
+    <link rel="stylesheet" href="/note/assets/css/0.styles.5dad0dbd.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/note/" class="home-link router-link-active"><!----> <span class="site-name">独行的笔记</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/note/base/" class="nav-link">
+  前端基础
+</a></div><div class="nav-item"><a href="/note/utils/" class="nav-link router-link-active">
+  常用工具
+</a></div><div class="nav-item"><a href="/note/frame/" class="nav-link">
+  框架相关
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="Link" class="dropdown-title"><span class="title">Link</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="https://juejin.im/timeline" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  掘金
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="http://www.jsw0.top" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  博客
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li></ul></div></div><div class="nav-item"><a href="https://github.com/WalkAlone0325" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/note/base/" class="nav-link">
+  前端基础
+</a></div><div class="nav-item"><a href="/note/utils/" class="nav-link router-link-active">
+  常用工具
+</a></div><div class="nav-item"><a href="/note/frame/" class="nav-link">
+  框架相关
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="Link" class="dropdown-title"><span class="title">Link</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="https://juejin.im/timeline" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  掘金
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="http://www.jsw0.top" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  博客
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li></ul></div></div><div class="nav-item"><a href="https://github.com/WalkAlone0325" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group collapsable depth-0"><p class="sidebar-heading open"><span>工具</span> <span class="arrow down"></span></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/note/utils/terminal.html" class="active sidebar-link">终端</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/note/utils/terminal.html#安装-windows-terminal" class="sidebar-link">安装 Windows Terminal</a></li><li class="sidebar-sub-header"><a href="/note/utils/terminal.html#美化（安装-oh-my-posh-和-posh-git）" class="sidebar-link">美化（安装 oh-my-posh 和 posh-git）</a></li></ul></li><li><a href="/note/utils/vscode.html" class="sidebar-link">VSCode</a></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="终端工具篇"><a href="#终端工具篇" class="header-anchor">#</a> 终端工具篇</h1> <blockquote><p>在 window10 上，cmd 和 powershell 的命令行很多人都认为不是很好</p></blockquote> <h2 id="安装-windows-terminal"><a href="#安装-windows-terminal" class="header-anchor">#</a> 安装 Windows Terminal</h2> <p>在 w10 的应用商店里可以直接进行安装</p> <p>这里粘贴一份主题的配置</p> <div class="language-json line-numbers-mode"><pre class="language-json"><code><span class="token property">&quot;profiles&quot;</span><span class="token operator">:</span> <span class="token punctuation">[</span>
+  <span class="token punctuation">{</span>
+    <span class="token property">&quot;guid&quot;</span><span class="token operator">:</span> <span class="token string">&quot;{0caa0dad-35be-5f56-a8ff-afceeeaa6154}&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;name&quot;</span><span class="token operator">:</span> <span class="token string">&quot;Powershell Core&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;commandline&quot;</span><span class="token operator">:</span> <span class="token string">&quot;D:\\Tools\\PowerShell\\7\\pwsh.exe&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;hidden&quot;</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;cursorShape&quot;</span><span class="token operator">:</span> <span class="token string">&quot;vintage&quot;</span><span class="token punctuation">,</span>
+    <span class="token comment">// </span><span class="token property">&quot;acrylicOpacity&quot;</span><span class="token operator">:</span> <span class="token number">0.5</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;backgroundImage&quot;</span><span class="token operator">:</span> <span class="token string">&quot;C:\\Users\\Walker\\AppData\\Local\\Terminal\\bg1.jpg&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;icon&quot;</span><span class="token operator">:</span> <span class="token string">&quot;D:\\Tools\\PowerShell\\7\\assets\\Powershell_av_colors.ico&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;backgroundImageOpacity&quot;</span><span class="token operator">:</span> <span class="token number">0.3</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;closeOnExit&quot;</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;colorScheme&quot;</span><span class="token operator">:</span> <span class="token string">&quot;Blue Matrix&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;fontFace&quot;</span><span class="token operator">:</span> <span class="token string">&quot;JetBrains Mono&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;fontSize&quot;</span><span class="token operator">:</span> <span class="token number">14</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;historySize&quot;</span><span class="token operator">:</span> <span class="token number">9001</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;padding&quot;</span><span class="token operator">:</span> <span class="token string">&quot;0, 0, 0, 0&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;tabTitle&quot;</span><span class="token operator">:</span> <span class="token string">&quot;Powershell Core&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;startingDirectory&quot;</span><span class="token operator">:</span> <span class="token string">&quot;./&quot;</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;useAcrylic&quot;</span><span class="token operator">:</span> <span class="token boolean">false</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+<span class="token punctuation">]</span>
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br></div></div><h2 id="美化（安装-oh-my-posh-和-posh-git）"><a href="#美化（安装-oh-my-posh-和-posh-git）" class="header-anchor">#</a> 美化（安装 <code>oh-my-posh</code> 和 <code>posh-git</code>）</h2> <ol><li><p>安装 scoop
+环境要求：
+Windows 版本不低于 Windows 7
+Windows 中的 PowerShell 版本不低于 PowerShell 3
+你能 正常、快速 的访问 GitHub 并下载上面的资源
+你的 Windows 用户名为英文（Windows 用户环境变量中路径值不支持中文字符）</p></li> <li><p>运行 Powershell</p> <div class="language-sh line-numbers-mode"><pre class="language-sh"><code><span class="token comment"># 保证允许本地脚本的执行</span>
+set-executionpolicy remotesigned -scope currentuser
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div></li> <li><p>安装 scoop
+<code>iex (new-object net.webclient).downloadstring('https://get.scoop.sh')</code></p></li> <li><p>安装 <code>oh-my-posh</code></p> <div class="language-sh line-numbers-mode"><pre class="language-sh"><code> <span class="token comment"># 1. 安装 choco</span>
+ Set-ExecutionPolicy Bypass -Scope Process -Force<span class="token punctuation">;</span> iex <span class="token variable"><span class="token punctuation">((</span>New<span class="token operator">-</span>Object System.Net.WebClient<span class="token punctuation">)</span>.DownloadString<span class="token punctuation">(</span>'https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>chocolatey.org<span class="token operator">/</span>install.ps1'<span class="token punctuation">))</span></span>
+
+ <span class="token comment"># 2. 安装ConEmu</span>
+ choco <span class="token function">install</span> ConEmu
+
+ <span class="token comment"># 3. 安装 posh-git 和 oh-my-posh</span>
+ Install-Module posh-git -Scope CurrentUser
+ Install-Module oh-my-posh -Scope CurrentUser
+
+ <span class="token comment"># 4. 设置 Powershell 的 profile</span>
+ <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span><span class="token punctuation">(</span>Test-Path -Path <span class="token variable">$PROFILE</span> <span class="token punctuation">))</span> <span class="token punctuation">{</span> New-Item -Type File -Path <span class="token variable">$PROFILE</span> -Force <span class="token punctuation">}</span>
+ notepad <span class="token variable">$PROFILE</span>
+
+ <span class="token comment"># 5. 粘贴以下内容进 profile 文件</span>
+ Import-Module posh-git
+ Import-Module oh-my-posh
+ Set-Theme Paradox
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br></div></div></li></ol></div> <footer class="page-edit"><!----> <div class="last-updated"><span class="prefix">Last Updated:</span> <span class="time">4/10/2020, 10:24:59 PM</span></div></footer> <div class="page-nav"><p class="inner"><!----> <span class="next"><a href="/note/utils/vscode.html">
+        VSCode
+      </a>
+      →
+    </span></p></div> </main></div><div class="global-ui"></div></div>
+    <script src="/note/assets/js/app.d122785e.js" defer></script><script src="/note/assets/js/2.187075d7.js" defer></script><script src="/note/assets/js/20.07efd855.js" defer></script>
+  </body>
+</html>
