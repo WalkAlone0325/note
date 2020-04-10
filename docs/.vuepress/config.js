@@ -14,6 +14,7 @@ module.exports = {
   themeConfig: {
     nav: [ // 导航栏配置
       { text: '前端基础', link: '/base/' },
+      { text: '常用工具', link: '/utils/' },
       { text: '框架相关', link: '/frame/' },
       // 单项 text：显示文字，link：指向链接
       // 这里的'/' 指的是 docs文件夹路径
@@ -46,6 +47,14 @@ module.exports = {
             ['/base/es6/es6', 'es6'],
           ]
         }
+      ],
+      '/utils/': [
+        {
+          title: '工具', children: [
+            ['/utils/terminal', '终端'],
+            ['/utils/vscode', 'VSCode'],
+          ]
+        },
       ],
       '/frame/': [
         {
