@@ -13,6 +13,12 @@ module.exports = {
   },
   themeConfig: {
     nav: [ // 导航栏配置
+      {
+        text: 'javascript', items: [
+          { text: 'ES6', link: '/es6/' },
+          { text: 'TS', link: '/ts/' },
+        ]
+      },
       { text: '前端基础', link: '/base/' },
       { text: '常用工具', link: '/utils/' },
       { text: '框架相关', link: '/frame/' },
@@ -31,6 +37,15 @@ module.exports = {
     ],
     sidebar: { // 侧边栏配置 
       // 打开 主页链接时生成下面这个菜单
+      '/javascript/': [
+        ['/javascript/', 'javascript'],
+        {
+          title: 'js笔记', children: [
+            ['/javascript/es6', 'ES6'],
+            ['/javascript/ts', 'ts'],
+          ]
+        }
+      ],
       '/base/': [
         ['/base/', '前端基础'],
         {
