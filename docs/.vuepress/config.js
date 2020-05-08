@@ -13,12 +13,6 @@ module.exports = {
   },
   themeConfig: {
     nav: [ // 导航栏配置
-      {
-        text: 'javascript', items: [
-          { text: 'ES6', link: '/es6/' },
-          { text: 'TS', link: '/ts/' },
-        ]
-      },
       { text: '前端基础', link: '/base/' },
       { text: '常用工具', link: '/utils/' },
       { text: '框架相关', link: '/frame/' },
@@ -37,54 +31,60 @@ module.exports = {
     ],
     sidebar: { // 侧边栏配置 
       // 打开 主页链接时生成下面这个菜单
-      '/javascript/': [
-        ['/javascript/', 'javascript'],
-        {
-          title: 'js笔记', children: [
-            ['/javascript/es6', 'ES6'],
-            ['/javascript/ts', 'ts'],
-          ]
-        }
-      ],
       '/base/': [
         ['/base/', '前端基础'],
         {
           title: '基础', children: [
-            ['/base/html/html', 'html'],
-            ['/base/css/css', 'css'],
-            ['/base/js/js', 'javascript'],
-          ]
-        },
-        {
-          title: '深入', children: [
-            ['/base/h5/h5', 'html5'],
-            ['/base/css3/css3', 'css3'],
-            ['/base/es6/es6', 'es6'],
+            ['/base/html/html', 'HTML'],
+            ['/base/css/css', 'CSS'],
+            ['/base/js/js', 'JS'],
           ]
         }
       ],
       '/utils/': [
+        ['/utils/', '常用工具'],
         {
           title: '工具', children: [
-            ['/utils/terminal', '终端'],
+            ['/utils/terminal', '终端（Windows Terminal）'],
             ['/utils/vscode', 'VSCode'],
           ]
         },
       ],
       '/frame/': [
+        ['/frame/', '框架工具'],
         {
-          title: '框架相关',
+          title: 'Vue相关',
           children: [
-            ['/frame/vue/vue', 'Vue'],
-            ['/frame/vue/vue-router', 'VueRouter'],
-            ['/frame/vue/vuex', 'Vuex'],
-            ['/frame/react/react', 'React'],
-            ['/frame/ssr/ssr', 'SSR']
+            ['/frame/vue/Vue', 'Vue'],
+            ['/frame/vue/VueRouter', 'VueRouter'],
+            ['/frame/vue/Vuex', 'Vuex'],
+            ['/frame/vue/Interview', '面试题'],
+          ]
+        },
+        {
+          title: 'React相关',
+          children: [
+            ['/frame/react/React', 'React'],
+            ['/frame/react/Interview', '面试题'],
+          ]
+        },
+        {
+          title: 'Webpack相关',
+          children: [
+            ['/frame/webpack/Webpack', 'Webpack'],
+            ['/frame/webpack/Interview', '面试题'],
+          ]
+        },
+        {
+          title: '小程序相关',
+          children: [
+            ['/frame/applets/Applets', '微信小程序'],
+            ['/frame/applets/Interview', '面试题'],
           ]
         }
       ]
     },
-    sidebarDepth: 4, // 侧边栏显示4级
+    sidebarDepth: 1, // 侧边栏显示
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间,
   }
 };
