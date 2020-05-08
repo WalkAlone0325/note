@@ -249,3 +249,131 @@ import YourComponent from 'components/YourComponent'
 ```
 
 解决方法：将要改变的样式写在 **非 scoped 样式标签** 中。
+
+## 10. 长列表性能优化
+
+我们应该都知道 vue 会通过 object.defineProperty 对数据进行劫持，来实现视图响应数据的变化，然而有些时候我们的组件就是纯粹的数据展示，不会有任何改变，我们就不需要 vue 来劫持我们的数据，在大量数据展示的情况下，这能够很明显的减少组件初始化的时间。
+
+所以，我们可以通过 object.freeze 方法来冻结一个对象，这个对象一旦被冻结，vue 就不会对数据进行劫持了。
+
+```js
+export default {
+  data: () => ({
+    list: [],
+  }),
+  async created() {
+    const list = await axios.get('xxxx')
+    this.list = Object.freeze(list)
+  },
+  methods: {
+    // 此处做的操作都不能改变list的值
+  },
+}
+```
+
+另外需要说明的是，这里只是冻结了 list 的值，引用不会被冻结，当我们需要 reactive 数据的时候，我们可以重新给 list 赋值。
+
+## 11. 内容分发(slot)
+
+插槽 slot，也是组件的一块 HTML 模板，这一块模板显示不显示、以及怎样显示由父组件来决定。实际上，一个 slot 最核心的两个问题在这里就点出来了，是显示不显示和怎样显示。
+
+#### 默认插槽
+
+又名单个插槽、匿名插槽，这类插槽没有具体名字，一个组件只能有一个该类插槽。
+
+```vue
+<!-- 父组件 parent.vue -->
+<template>
+  <div class="parent">
+    <h1>父容器</h1>
+    <child>
+      <div class="tmpl">
+        <span>菜单1</span>
+      </div>
+    </child>
+  </div>
+</template>
+
+<!-- 子组件 child.vue -->
+<template>
+  <div class="child">
+    <h1>子组件</h1>
+    <slot></slot>
+  </div>
+</template>
+```
+
+#### 具名插槽
+
+匿名插槽没有 name 属性，所以叫匿名插槽。那么，插槽加了 name 属性，就变成了具名插槽。具名插槽可以在一个组件中出现 N 次，出现在不同的位置，只需要使用不同的 name 属性区分即可。
+
+```vue
+<!-- 父组件 parent.vue -->
+<template>
+  <div class="parent">
+    <h1>父容器</h1>
+    <child>
+      <div class="tmpl" slot="up">
+        <span>菜单up-1</span>
+      </div>
+      <div class="tmpl" slot="down">
+        <span>菜单down-1</span>
+      </div>
+      <div class="tmpl">
+        <span>菜单->1</span>
+      </div>
+    </child>
+  </div>
+</template>
+
+<!-- 子组件 child.vue -->
+<template>
+  <div class="child">
+    <!-- 具名插槽 -->
+    <slot name="up"></slot>
+    <h3>这里是子组件</h3>
+    <!-- 具名插槽 -->
+    <slot name="down"></slot>
+    <!-- 匿名插槽 -->
+    <slot></slot>
+  </div>
+</template>
+```
+
+#### 作用域插槽
+
+作用域插槽可以是默认插槽，也可以是具名插槽，不一样的地方是，作用域插槽可以为 slot 标签绑定数据，让其父组件可以获取到子组件的数据。
+
+```vue
+<!-- parent.vue -->
+<template>
+  <div class="parent">
+    <h1>这是父组件</h1>
+    <child
+      >>
+      <template slot="default" slot-scope="slotProps">
+        {{ slotProps.user.name }}
+      </template> </child
+    >>
+  </div>
+</template>
+
+<!-- 子组件 child.vue -->
+<template>
+  <div class="child">
+    <h1>这是子组件</h1>
+    <slot :user="user"></slot>
+  </div>
+</template>
+<script>
+  export default {
+    data() {
+      return {
+        user: {
+          name: '小赵'
+        }
+      }
+    }
+  }
+<script>
+```
