@@ -58,6 +58,7 @@ module.exports = {
             ['/frame/vue/Vue', 'Vue'],
             ['/frame/vue/VueRouter', 'VueRouter'],
             ['/frame/vue/Vuex', 'Vuex'],
+            ['/frame/vue/Nuxt', 'Nuxt'],
             ['/frame/vue/Interview', '面试题'],
           ]
         },
