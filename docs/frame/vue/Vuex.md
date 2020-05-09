@@ -9,13 +9,44 @@
 Vuex-mini 实现：
 
 ```js
-import Vue from 'vuex'
+let Vue
+function install(_Vue) {
+  Vue = _Vue
+  function vuexInit() {
+    var options = this.$options
+    // store injection
+    if (options.store) {
+      this.$store =
+        typeof options.store === 'function' ? options.store() : options.store
+    } else if (options.parent && options.parent.$store) {
+      this.$store = options.parent.$store
+    }
+  }
+  Vue.mixin({ beforeCreate: vuexInit })
+}
+
 const Store = function Store(options = {}) {
-  const { state = {}, mutations = {} } = options
+  const { state = {}, mutations = {}, getter = {} } = options
+  const computed = {}
+  const store = this
+  store.getter = {}
+  // getters 缓存
+  for (let [key, fn] of Object.defineProperties(getters)) {
+    computed[key] = function () {
+      return fn(store.state, store.getters)
+    }
+    Object.defineProperty(store.getters, key, {
+      get: function () {
+        return store._vm[key]
+      },
+    })
+  }
+
   this._vm = new Vue({
     data: {
       $$state: state,
     },
+    computed,
   })
   this._mutations = mutations
 }
@@ -31,7 +62,5 @@ Object.defineProperties(Store, prototype, {
     },
   },
 })
-export default { Store }
+export default { Store, install }
 ```
-
-## 2.
