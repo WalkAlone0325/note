@@ -90,8 +90,8 @@ module.exports = {
         {
           title: '数据结构',
           children: [
-            ['/algorithm/stack', '栈'],
-            ['/algorithm/queue', '队列'],
+            ['/algorithm/stack/stack', '栈'],
+            ['/algorithm/queue/queue', '队列'],
           ]
         }
       ]
