@@ -92,6 +92,9 @@ module.exports = {
           children: [
             ['/algorithm/stack/stack', '栈'],
             ['/algorithm/queue/queue', '队列'],
+            ['/algorithm/linked-list/linked-list', '链表'],
+            ['/algorithm/recursive/recursive', '递归'],
+            ['/algorithm/sort/sort', '排序'],
           ]
         }
       ]
