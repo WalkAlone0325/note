@@ -61,6 +61,8 @@ module.exports = {
             ['/frame/vue/Vuex', 'Vuex'],
             ['/frame/vue/Nuxt', 'Nuxt'],
             ['/frame/vue/Interview', '面试题'],
+            ['/frame/vue/Interview2', '面试题2'],
+            ['/frame/vue/vue-admin', 'VUE_ADMIN'],
           ]
         },
         {
