@@ -2,6 +2,8 @@
 
 一天一个数据结构，后续添加算法习题
 
+1. [十大排序的算法思路和代码实现](https://mp.weixin.qq.com/s/2K3UPlEN2f-eo5GA78mwyg)
+
 ## 数据结构
 
 - 栈

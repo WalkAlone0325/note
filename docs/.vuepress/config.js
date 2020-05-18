@@ -39,6 +39,15 @@ module.exports = {
             ['/base/html/html', 'HTML'],
             ['/base/css/css', 'CSS'],
             ['/base/js/js', 'JS'],
+            ['/base/mobile/mobile', 'MOBILE'],
+          ]
+        }
+      ],
+      '/internet/': [
+        ['/internet/', '网络'],
+        {
+          title: '基础', children: [
+            ['/internet/http', 'HTTP'],
           ]
         }
       ],
@@ -62,6 +71,7 @@ module.exports = {
             ['/frame/vue/Nuxt', 'Nuxt'],
             ['/frame/vue/Interview', '面试题'],
             ['/frame/vue/Interview2', '面试题2'],
+            ['/frame/vue/interview-link', '面试题链接'],
             ['/frame/vue/vue-admin', 'VUE_ADMIN'],
           ]
         },
@@ -77,6 +87,12 @@ module.exports = {
           children: [
             ['/frame/webpack/Webpack', 'Webpack'],
             ['/frame/webpack/Interview', '面试题'],
+          ]
+        },
+        {
+          title: 'Nginx相关',
+          children: [
+            ['/frame/nginx/nginx', 'Nginx']
           ]
         },
         {
