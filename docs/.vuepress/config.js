@@ -16,6 +16,7 @@ module.exports = {
       { text: '前端基础', link: '/base/' },
       { text: '常用工具', link: '/utils/' },
       { text: '框架相关', link: '/frame/' },
+      { text: '网络http', link: '/internet/' },
       { text: '算法', link: '/algorithm/' },
       // 单项 text：显示文字，link：指向链接
       // 这里的'/' 指的是 docs文件夹路径
