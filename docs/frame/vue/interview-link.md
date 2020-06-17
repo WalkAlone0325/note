@@ -22,3 +22,6 @@
 22. [Vue 项目性能优化--实践指南](https://mp.weixin.qq.com/s/jvvRNDhc0edlA6wRL72dNw)
 23. [为什么说 Vue 的响应式更新精确到组件级别](https://mp.weixin.qq.com/s/X8Bz8cUY4nUcErGNbpqVpg)
 24. [实现最精简的响应式系统来学习 Vue 的 data、computed、watch 源码](https://mp.weixin.qq.com/s/qvbm8lSwSPFz0MtlLD4CtQ)
+25. [58 道 Vue 常见面试题集锦，涵盖入门到精通，自测 Vue 掌握程度](https://mp.weixin.qq.com/s/JJq3MkVaZZRPkKFWcQNGCQ)
+26. [vue 项目部署的最佳实践](https://mp.weixin.qq.com/s/2TRh9N_jwr77ou7Jo-VOig)
+27. [2 年 vue 项目实战经验汇总](https://mp.weixin.qq.com/s/nl9KphRpfJQRRjaKPbki5Q)
