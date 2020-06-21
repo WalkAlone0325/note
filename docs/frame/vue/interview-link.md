@@ -25,3 +25,6 @@
 25. [58 道 Vue 常见面试题集锦，涵盖入门到精通，自测 Vue 掌握程度](https://mp.weixin.qq.com/s/JJq3MkVaZZRPkKFWcQNGCQ)
 26. [vue 项目部署的最佳实践](https://mp.weixin.qq.com/s/2TRh9N_jwr77ou7Jo-VOig)
 27. [2 年 vue 项目实战经验汇总](https://mp.weixin.qq.com/s/nl9KphRpfJQRRjaKPbki5Q)
+28. [Vue 项目性能优化指南（网上最完整）](https://mp.weixin.qq.com/s/Q7YPgruUsJX_IQATAysQDA)
+29. [Virtual DOM 是如何提升页面渲染效率的](https://mp.weixin.qq.com/s/bS6HnWmCx385LRy9V3k3zg)
+30. [34 道 Vue 面试题系列：Vue 中如何检测数组变化？](https://mp.weixin.qq.com/s/y-Xc4tkMC0ppRevgutWi0A)

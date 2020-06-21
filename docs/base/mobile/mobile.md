@@ -6,3 +6,4 @@
 6. [6 种移动端 1px 解决方案（完整版）](https://mp.weixin.qq.com/s/0eHZPNmt8UyaxSzMNjhS9w)
 7. [大厂是怎么做移动端适配的](https://mp.weixin.qq.com/s/tBq8QsuZdsu-rr_VY1j1jQ)
 8. [蚂蚁金服是怎么优化移动端体验的？](https://mp.weixin.qq.com/s/WpXyFxpaVObtlRf3iQAlRw)
+9. [简单粗暴有效的 Vue/React 项目移动端适配方案](https://mp.weixin.qq.com/s/fq3RKp0VtfShhVGLqM8LRA)

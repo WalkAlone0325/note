@@ -18,3 +18,4 @@
 16. [原生 JavaScript 实现截取视频第一帧作为图片](https://mp.weixin.qq.com/s/dgkINKMAFICYcrNEQfwTAw)
 17. [JavaScript 继承的 6 种方式以及它们的优缺点](https://mp.weixin.qq.com/s/DNReEbl3FfJEuPwp0NfbIw)
 18. [史上最全的 JavaScript 模块化方案和工具](https://mp.weixin.qq.com/s/SGNWsrW0kQWOkz_bvzXQ7A)
+19. [JS 数组奇巧淫技](https://mp.weixin.qq.com/s/RqHlFOlHKp14aTIo3ZBqEw)
