@@ -28,3 +28,6 @@
 28. [Vue 项目性能优化指南（网上最完整）](https://mp.weixin.qq.com/s/Q7YPgruUsJX_IQATAysQDA)
 29. [Virtual DOM 是如何提升页面渲染效率的](https://mp.weixin.qq.com/s/bS6HnWmCx385LRy9V3k3zg)
 30. [34 道 Vue 面试题系列：Vue 中如何检测数组变化？](https://mp.weixin.qq.com/s/y-Xc4tkMC0ppRevgutWi0A)
+31. [【源码解析+代码实现】一篇文章搞定 babel-plugin-import 插件](https://mp.weixin.qq.com/s/KjkIud4-q0Nm-YBLG6D1zg)
+32. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/yH1GN8LfSGgCVdnlxexGTQ)
+33. [从应用场景再谈防抖和节流](https://mp.weixin.qq.com/s/ufQ4pH6-MWOCLQCvnS7wkQ)
