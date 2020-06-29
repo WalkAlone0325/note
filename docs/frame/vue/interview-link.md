@@ -31,3 +31,4 @@
 31. [【源码解析+代码实现】一篇文章搞定 babel-plugin-import 插件](https://mp.weixin.qq.com/s/KjkIud4-q0Nm-YBLG6D1zg)
 32. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/yH1GN8LfSGgCVdnlxexGTQ)
 33. [从应用场景再谈防抖和节流](https://mp.weixin.qq.com/s/ufQ4pH6-MWOCLQCvnS7wkQ)
+34. [vue 中的$attr和$listeners](https://mp.weixin.qq.com/s/_hiczRxZHZAM5E5il1kFNQ)
