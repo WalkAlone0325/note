@@ -32,3 +32,6 @@
 32. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/yH1GN8LfSGgCVdnlxexGTQ)
 33. [从应用场景再谈防抖和节流](https://mp.weixin.qq.com/s/ufQ4pH6-MWOCLQCvnS7wkQ)
 34. [vue 中的$attr和$listeners](https://mp.weixin.qq.com/s/_hiczRxZHZAM5E5il1kFNQ)
+35. [【必看】58 道 Vue 常见面试题集锦，涵盖入门到精通，自测 Vue 掌握程度](https://mp.weixin.qq.com/s/iN6z_vxqGJUkNsOHBHz5zw)
+36. [Vue 开发必须知道的 36 个技巧（长文收藏）](https://mp.weixin.qq.com/s/2xZqov5efvOvugrM4dpdSQ)
+37. [实战技巧，Vue 原来还可以这样写](https://mp.weixin.qq.com/s/ZljPF18MTquQcDY2P4nbTQ)

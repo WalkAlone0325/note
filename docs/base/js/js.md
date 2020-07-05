@@ -19,3 +19,5 @@
 17. [JavaScript 继承的 6 种方式以及它们的优缺点](https://mp.weixin.qq.com/s/DNReEbl3FfJEuPwp0NfbIw)
 18. [史上最全的 JavaScript 模块化方案和工具](https://mp.weixin.qq.com/s/SGNWsrW0kQWOkz_bvzXQ7A)
 19. [JS 数组奇巧淫技](https://mp.weixin.qq.com/s/RqHlFOlHKp14aTIo3ZBqEw)
+20. [这 15 个 reduce 高级用法太香了](https://mp.weixin.qq.com/s/-1tIdRPBb5yfsSiE-7AwTg)
+21. [由浅入深，66 条 JavaScript 面试知识点](https://mp.weixin.qq.com/s/b4Mp4X7TPbhcmFvEbbJYCw)
