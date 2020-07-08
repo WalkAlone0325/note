@@ -35,3 +35,4 @@
 35. [【必看】58 道 Vue 常见面试题集锦，涵盖入门到精通，自测 Vue 掌握程度](https://mp.weixin.qq.com/s/iN6z_vxqGJUkNsOHBHz5zw)
 36. [Vue 开发必须知道的 36 个技巧（长文收藏）](https://mp.weixin.qq.com/s/2xZqov5efvOvugrM4dpdSQ)
 37. [实战技巧，Vue 原来还可以这样写](https://mp.weixin.qq.com/s/ZljPF18MTquQcDY2P4nbTQ)
+38. [Vue3 究竟好在哪里？](https://mp.weixin.qq.com/s/LG3uljrd_lHOR63xhi8CCA)
