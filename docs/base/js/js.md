@@ -22,3 +22,4 @@
 20. [这 15 个 reduce 高级用法太香了](https://mp.weixin.qq.com/s/-1tIdRPBb5yfsSiE-7AwTg)
 21. [由浅入深，66 条 JavaScript 面试知识点](https://mp.weixin.qq.com/s/b4Mp4X7TPbhcmFvEbbJYCw)
 22. [JavaScript 常用 API 合集汇总](https://mp.weixin.qq.com/s/qM2_himGWdcQNp3nJh1JiQ)
+23. [由浅入深，66 条 JavaScript 硬核面试知识点整理](https://mp.weixin.qq.com/s/dDvRjMDVRqjTJ0Ix0tKSRA)
