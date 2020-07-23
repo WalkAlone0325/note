@@ -37,3 +37,4 @@
 37. [实战技巧，Vue 原来还可以这样写](https://mp.weixin.qq.com/s/ZljPF18MTquQcDY2P4nbTQ)
 38. [Vue3 究竟好在哪里？](https://mp.weixin.qq.com/s/LG3uljrd_lHOR63xhi8CCA)
 39. [从 Vue 源码角度深挖 Watch、Computed](https://mp.weixin.qq.com/s/MrdlWhAGaQ-d7on24T63nA)
+40. [Vue 开发之 36 技，优化你的项目代码](https://mp.weixin.qq.com/s/Cg_Z-LmwPktlObMCvrYgSw)
