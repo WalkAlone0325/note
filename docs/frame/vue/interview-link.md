@@ -38,3 +38,5 @@
 38. [Vue3 究竟好在哪里？](https://mp.weixin.qq.com/s/LG3uljrd_lHOR63xhi8CCA)
 39. [从 Vue 源码角度深挖 Watch、Computed](https://mp.weixin.qq.com/s/MrdlWhAGaQ-d7on24T63nA)
 40. [Vue 开发之 36 技，优化你的项目代码](https://mp.weixin.qq.com/s/Cg_Z-LmwPktlObMCvrYgSw)
+41. [vue 项目部署的最佳实践](https://mp.weixin.qq.com/s/8XWvgcjGlZxH-nvO8F9NcA)
+42. [如何开发跨框架的组件](https://mp.weixin.qq.com/s/T4xgdGHmfDq-2NVNi_nKNw)
