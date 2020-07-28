@@ -23,3 +23,5 @@
 21. [由浅入深，66 条 JavaScript 面试知识点](https://mp.weixin.qq.com/s/b4Mp4X7TPbhcmFvEbbJYCw)
 22. [JavaScript 常用 API 合集汇总](https://mp.weixin.qq.com/s/qM2_himGWdcQNp3nJh1JiQ)
 23. [由浅入深，66 条 JavaScript 硬核面试知识点整理](https://mp.weixin.qq.com/s/dDvRjMDVRqjTJ0Ix0tKSRA)
+24. [如何用原生 js 写一个弹窗消息提醒插件](https://mp.weixin.qq.com/s/OweLE83nqUnAIr-8Hzc6jw)
+25. [JS 数组奇巧淫技](https://mp.weixin.qq.com/s/c9jtemK9Do85RG4ub1MORA)

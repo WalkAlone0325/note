@@ -8,3 +8,4 @@
 6. [那些，曾经让你头疼的 class 命名方式](https://mp.weixin.qq.com/s/-QhYp67Y6Obb-II5GqC0jw)
 7. [改善 CSS 的 10 种最佳做法](https://mp.weixin.qq.com/s/ILSqgapaMgipfGjgqM6kqw)
 8. [前端小技巧：边框写三角形](https://mp.weixin.qq.com/s/8vcrfzh5J5aSRGSPRwFASQ)
+9. [20 个 CSS 快速提升技巧](https://mp.weixin.qq.com/s/pG-y7Rvn5ZZIIQPyE7l50g)
