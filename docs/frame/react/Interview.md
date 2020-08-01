@@ -7,3 +7,8 @@
 7. [React 系列三 - 阶段案例练习](https://mp.weixin.qq.com/s/Oh9N5pIwvLND1Err4w3ugg)
 8. [React 系列四 - React 脚手架](https://mp.weixin.qq.com/s/TkjJAY-MX5pU9PrN_Erhkw)
 9. [React 系列五 - 组件化开发（一）](https://mp.weixin.qq.com/s/f6TR7WezefBs971wDIPVkg)
+10. [React 系列六 - 父子组件通信](https://mp.weixin.qq.com/s/33zRuvRGpMmIZ1_hr63sFA)
+11. [React 系列七 - 非父子组件通信](https://mp.weixin.qq.com/s/XRzop1WDCbXqW6Kzv3LxMA)
+12. [React 系列八 - 深入理解 setState](https://mp.weixin.qq.com/s/He3DoAObZafpTN2Yp09N_g)
+13. [React 系列九 - 受控非受控组件](https://mp.weixin.qq.com/s/wBh92ch1DwIp28PEfHCXIg)
+14. [React 系列十 - 高阶组件以及组件补充](https://mp.weixin.qq.com/s/Fgfu2kwLBJJOnGEXoKsvpg)
