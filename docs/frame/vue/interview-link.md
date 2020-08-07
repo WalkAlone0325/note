@@ -41,3 +41,4 @@
 41. [vue 项目部署的最佳实践](https://mp.weixin.qq.com/s/8XWvgcjGlZxH-nvO8F9NcA)
 42. [如何开发跨框架的组件](https://mp.weixin.qq.com/s/T4xgdGHmfDq-2NVNi_nKNw)
 43. [Vue 首屏加载速度优化，我用这几个技巧提升 80%以上](https://mp.weixin.qq.com/s/HIJsi3g6APHWMtB17MPK6g)
+44. [30 行写一个 Vue 图片懒加载指令](https://juejin.im/post/6857359743817220104)

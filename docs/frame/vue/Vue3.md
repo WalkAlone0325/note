@@ -4,3 +4,5 @@
 4. [Vue3 插件开发详解尝鲜版](https://mp.weixin.qq.com/s/6yRYo2EXJ1qsXIr0PwgJmA)
 5. [简明扼要聊聊 Vue3.0 的 Composition API 是啥东东！](https://mp.weixin.qq.com/s/jQ6k2LCTcnaBzWLz8LFGkQ)
 6. [什么是防抖和节流，他们的应用场景有哪些](https://mp.weixin.qq.com/s/ckDxGqXn5rhus_JnwjtQFA)
+7. [Vue3 为何使用 Proxy 实现数据监听](https://juejin.im/post/6857877411913990158)
+8. [TS + Composition-Api 实战体验](https://juejin.im/post/6857950805970911246)
