@@ -42,3 +42,8 @@
 42. [如何开发跨框架的组件](https://mp.weixin.qq.com/s/T4xgdGHmfDq-2NVNi_nKNw)
 43. [Vue 首屏加载速度优化，我用这几个技巧提升 80%以上](https://mp.weixin.qq.com/s/HIJsi3g6APHWMtB17MPK6g)
 44. [30 行写一个 Vue 图片懒加载指令](https://juejin.im/post/6857359743817220104)
+45. [源码篇（一）：手写 vue 版 mini 源码分析框架，优势特性总结，vue-cli 知识点，以及 vue 项目的二次封装，mini 项目源码附送](https://juejin.im/post/6847902225138876424)
+46. [源码篇（二）：手写 react 版 mini 源码分析框架。附送简单版 react 源码。](https://juejin.im/post/6854573212018147342)
+47. [源码篇（三）：手写 webpack 版 mini 源码分析项目构建过程。附送简版 webpack 源码](https://juejin.im/post/6854573219245441038)
+48. [源码篇（四）：手写 jQuery 版 mini 源码分析 jQuery 的优势。附送简版 jQuery 源码](https://juejin.im/post/6854573220356423694)
+49. [源码篇（五）：手写 vuex 版 mini 源码分析 vuex 的执行过程。附送简版 vuex 源码](https://juejin.im/post/6857059183762931720)
