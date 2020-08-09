@@ -47,3 +47,4 @@
 47. [源码篇（三）：手写 webpack 版 mini 源码分析项目构建过程。附送简版 webpack 源码](https://juejin.im/post/6854573219245441038)
 48. [源码篇（四）：手写 jQuery 版 mini 源码分析 jQuery 的优势。附送简版 jQuery 源码](https://juejin.im/post/6854573220356423694)
 49. [源码篇（五）：手写 vuex 版 mini 源码分析 vuex 的执行过程。附送简版 vuex 源码](https://juejin.im/post/6857059183762931720)
+50. [快速上手 Vue+百度地图](https://mp.weixin.qq.com/s/5GkQe9LbPLUU8gJiznZ8RA)

@@ -6,3 +6,4 @@
 6. [什么是防抖和节流，他们的应用场景有哪些](https://mp.weixin.qq.com/s/ckDxGqXn5rhus_JnwjtQFA)
 7. [Vue3 为何使用 Proxy 实现数据监听](https://juejin.im/post/6857877411913990158)
 8. [TS + Composition-Api 实战体验](https://juejin.im/post/6857950805970911246)
+9. [Vue 3 | 自定义指令的新玩法](https://mp.weixin.qq.com/s/wJJz4T7wihCE01yAYRt4Eg)
