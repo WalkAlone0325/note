@@ -48,3 +48,6 @@
 48. [源码篇（四）：手写 jQuery 版 mini 源码分析 jQuery 的优势。附送简版 jQuery 源码](https://juejin.im/post/6854573220356423694)
 49. [源码篇（五）：手写 vuex 版 mini 源码分析 vuex 的执行过程。附送简版 vuex 源码](https://juejin.im/post/6857059183762931720)
 50. [快速上手 Vue+百度地图](https://mp.weixin.qq.com/s/5GkQe9LbPLUU8gJiznZ8RA)
+51. [我在项目中是这样配置 Vue 的](https://mp.weixin.qq.com/s/7oHb18opF-mhAG87Dn8umg)
+52. [你不知道的 Web 安全（6000 字，深度好文）](https://mp.weixin.qq.com/s/HVzqrw8nBUwLynoXYtPzjw)
+53. [几行代码摸清楚上拉加载原理](https://mp.weixin.qq.com/s/mONrWVLFO1cIIOdXITl_yg)
