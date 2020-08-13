@@ -51,3 +51,5 @@
 51. [我在项目中是这样配置 Vue 的](https://mp.weixin.qq.com/s/7oHb18opF-mhAG87Dn8umg)
 52. [你不知道的 Web 安全（6000 字，深度好文）](https://mp.weixin.qq.com/s/HVzqrw8nBUwLynoXYtPzjw)
 53. [几行代码摸清楚上拉加载原理](https://mp.weixin.qq.com/s/mONrWVLFO1cIIOdXITl_yg)
+54. [如何搭建和发布一个 Vue 组件库](https://mp.weixin.qq.com/s/Qf-IRRLGB7VxzXM3X5k0FA)
+55. [深入解析 Vue 的热更新原理，尤大是如何巧用源码中的细节？](https://mp.weixin.qq.com/s/PocE31t4ARNth4XuX3vc3Q)
