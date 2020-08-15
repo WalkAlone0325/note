@@ -53,3 +53,4 @@
 53. [几行代码摸清楚上拉加载原理](https://mp.weixin.qq.com/s/mONrWVLFO1cIIOdXITl_yg)
 54. [如何搭建和发布一个 Vue 组件库](https://mp.weixin.qq.com/s/Qf-IRRLGB7VxzXM3X5k0FA)
 55. [深入解析 Vue 的热更新原理，尤大是如何巧用源码中的细节？](https://mp.weixin.qq.com/s/PocE31t4ARNth4XuX3vc3Q)
+56. [使用 Vue 创建一个分页组件](https://mp.weixin.qq.com/s/lKy0vv392zNs7R5i4gL5hQ)
