@@ -54,3 +54,6 @@
 54. [如何搭建和发布一个 Vue 组件库](https://mp.weixin.qq.com/s/Qf-IRRLGB7VxzXM3X5k0FA)
 55. [深入解析 Vue 的热更新原理，尤大是如何巧用源码中的细节？](https://mp.weixin.qq.com/s/PocE31t4ARNth4XuX3vc3Q)
 56. [使用 Vue 创建一个分页组件](https://mp.weixin.qq.com/s/lKy0vv392zNs7R5i4gL5hQ)
+57. [【万字长文】史上最强 vue 总结，更新版](https://mp.weixin.qq.com/s/OyxPtA0St8RfTBWOqAVLog)
+58. [这 9 种 Vue 技术你掌握了吗？](https://mp.weixin.qq.com/s/Uom7aomOIo4j5EtFIn2YUQ)
+59. [图解 Vue 响应式原理](https://mp.weixin.qq.com/s/ly9b1hGZZGXjcDXwyYKOHg)
