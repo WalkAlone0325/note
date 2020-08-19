@@ -10,3 +10,9 @@
 - 初始化路由实例 `new VueRouter()`
 - 挂载到 `Vue` 实例上
 - 提供一个路由占位，用来挂载 `URL` 匹配到的组件
+
+```js
+obj: {
+  arr: [{ bool: true }, { bool: false }];
+}
+```
