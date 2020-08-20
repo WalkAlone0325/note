@@ -60,3 +60,6 @@
 60. [Vue 源码解析，keep-alive 是如何实现缓存的？](https://juejin.im/post/6862206197877964807)
 61. [Vue 开发中的一些常见套路和技巧（上）](https://juejin.im/post/6859775573837742087)
 62. [Vue 防抖与节流的使用](https://juejin.im/post/6862185275817197582)
+63. [7 个实用的 Vue.js 工具和库](https://mp.weixin.qq.com/s/w1EugKpYnDUr2WjsD9G6TA)
+64. [九种 Vue 组件间通讯方式合集](https://juejin.im/post/6861547167358648327)
+65. [在 Vue 中使用装饰器，我是认真的](https://juejin.im/post/6856517315010232333)
