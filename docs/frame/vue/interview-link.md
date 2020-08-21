@@ -63,3 +63,5 @@
 63. [7 个实用的 Vue.js 工具和库](https://mp.weixin.qq.com/s/w1EugKpYnDUr2WjsD9G6TA)
 64. [九种 Vue 组件间通讯方式合集](https://juejin.im/post/6861547167358648327)
 65. [在 Vue 中使用装饰器，我是认真的](https://juejin.im/post/6856517315010232333)
+66. [Vue 模板编译原理](https://juejin.im/post/6863241580753616903)
+67. [实战技巧，Vue 原来还可以这样写](https://juejin.im/post/6844904196626448391)
