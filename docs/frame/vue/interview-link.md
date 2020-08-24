@@ -65,3 +65,5 @@
 65. [在 Vue 中使用装饰器，我是认真的](https://juejin.im/post/6856517315010232333)
 66. [Vue 模板编译原理](https://juejin.im/post/6863241580753616903)
 67. [实战技巧，Vue 原来还可以这样写](https://juejin.im/post/6844904196626448391)
+68. [Vue 强烈推介的实用技巧](https://mp.weixin.qq.com/s/wsq2CzJe36wYInAE7FwObg)
+69. [10+个很酷的 VueJS 组件，模板和实验示例](https://mp.weixin.qq.com/s/79wyVYUs_DKcsApmC3532Q)
