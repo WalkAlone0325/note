@@ -11,3 +11,4 @@
 11. [学习 Vue3.0,先来了解一下 Proxy](https://juejin.im/post/6861725116389130254)
 12. [vuecli 实现移动端视频类 webAPP-项目搭建](https://juejin.im/post/6861919402872209416)
 13. [全面解析 vue3.0 diff 算法](https://juejin.im/post/6861960532048642061)
+14. [Vue Composition API 陷阱](https://mp.weixin.qq.com/s/EegWu-DP2gtxVMf6pZ60Xg)
