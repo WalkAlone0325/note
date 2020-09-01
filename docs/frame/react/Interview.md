@@ -24,3 +24,4 @@
 24. [React 系列二十 - Hook（一）基本使用](https://mp.weixin.qq.com/s/lD7kGvazAbLoB080Epx6nQ)
 25. [React 系列二十一 - Hook（二）高级使用](https://mp.weixin.qq.com/s/8rzXCEYMpDvxMSUI5wj8bA)
 26. [React 条件渲染最佳实践(7 种方法)](https://mp.weixin.qq.com/s/wBjKh3eBCrC-9Iy5jonIWw)
+27. [React.js 个人作品集项目实践](https://mp.weixin.qq.com/s/JXDB6R5QHUJ8B7J6G_DBTw)
