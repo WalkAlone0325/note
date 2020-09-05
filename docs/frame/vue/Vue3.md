@@ -12,3 +12,4 @@
 12. [vuecli 实现移动端视频类 webAPP-项目搭建](https://juejin.im/post/6861919402872209416)
 13. [全面解析 vue3.0 diff 算法](https://juejin.im/post/6861960532048642061)
 14. [Vue Composition API 陷阱](https://mp.weixin.qq.com/s/EegWu-DP2gtxVMf6pZ60Xg)
+15. [vue3.0 项目构建优化与性能优化](https://juejin.im/post/6868456273684725767)

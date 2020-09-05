@@ -69,3 +69,4 @@
 69. [10+个很酷的 VueJS 组件，模板和实验示例](https://mp.weixin.qq.com/s/79wyVYUs_DKcsApmC3532Q)
 70. [10+个很酷的 VueJS 组件，模板和实验示例](https://mp.weixin.qq.com/s/QRccznbvyuhbM6ovag7y1g)
 71. [完全理解 Vue 的渲染 watcher、computed 和 user watcher](https://mp.weixin.qq.com/s/Hurz3XC0x-2VACxYfYAyRw)
+72. [实现一个 mini-vue](https://juejin.im/post/6868257054676090887)
