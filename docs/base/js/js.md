@@ -25,3 +25,4 @@
 23. [由浅入深，66 条 JavaScript 硬核面试知识点整理](https://mp.weixin.qq.com/s/dDvRjMDVRqjTJ0Ix0tKSRA)
 24. [如何用原生 js 写一个弹窗消息提醒插件](https://mp.weixin.qq.com/s/OweLE83nqUnAIr-8Hzc6jw)
 25. [JS 数组奇巧淫技](https://mp.weixin.qq.com/s/c9jtemK9Do85RG4ub1MORA)
+26. [Jest 单元测试快速上手指南](https://mp.weixin.qq.com/s/18U60ybjvp9nqOqKrpqv2A)
