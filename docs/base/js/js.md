@@ -26,3 +26,4 @@
 24. [如何用原生 js 写一个弹窗消息提醒插件](https://mp.weixin.qq.com/s/OweLE83nqUnAIr-8Hzc6jw)
 25. [JS 数组奇巧淫技](https://mp.weixin.qq.com/s/c9jtemK9Do85RG4ub1MORA)
 26. [Jest 单元测试快速上手指南](https://mp.weixin.qq.com/s/18U60ybjvp9nqOqKrpqv2A)
+27. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/d1RNx53PZisr7vpg8rGp2w)
