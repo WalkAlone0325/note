@@ -14,3 +14,5 @@
 14. [Vue Composition API 陷阱](https://mp.weixin.qq.com/s/EegWu-DP2gtxVMf6pZ60Xg)
 15. [vue3.0 项目构建优化与性能优化](https://juejin.im/post/6868456273684725767)
 16. [为什么采用 Proxy 重构响应系统 | Vue3 源码系列](https://mp.weixin.qq.com/s/AKEKQ32WWfiIt5Bdq3N4bg)
+17. [vue3.0 新特性初体验（一）](https://mp.weixin.qq.com/s/iruFkKBSt37wY0J1noZHOQ)
+18. [vue3.0 新特性初体验（二）](https://mp.weixin.qq.com/s/mefdAo-HsXifQ_6pcmxUYw)
