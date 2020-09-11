@@ -29,3 +29,4 @@
 29. [如何制定企业级代码规范与检查](https://mp.weixin.qq.com/s/zI48_TJQFPDtqshVcp2czg)
 30. [写 React Hooks 前必读](https://mp.weixin.qq.com/s/bUcsqBYdK0DHhvbJ_yTyqQ)
 31. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/ppfMy1_RkdNh8eDU5Vz9xA)
+32. [Next.js + TypeScript 搭建一个简易的博客系统](https://mp.weixin.qq.com/s/fJRtEqjem7cA9x-FS1ud4w)

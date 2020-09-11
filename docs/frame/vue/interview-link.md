@@ -70,3 +70,7 @@
 70. [10+个很酷的 VueJS 组件，模板和实验示例](https://mp.weixin.qq.com/s/QRccznbvyuhbM6ovag7y1g)
 71. [完全理解 Vue 的渲染 watcher、computed 和 user watcher](https://mp.weixin.qq.com/s/Hurz3XC0x-2VACxYfYAyRw)
 72. [实现一个 mini-vue](https://juejin.im/post/6868257054676090887)
+73. [vue.config.js 的优化配置（element-ui, echarts, lodash 按需加载 ）](https://mp.weixin.qq.com/s/-m6ZCfVaBE3Gwh1HVp_zyw)
+74. [淘心窝分享 VUE+ElementUI 后台管理项目经验与技巧，金九银十跳槽必看](https://mp.weixin.qq.com/s/IXOb8YlqqoACcIaq_Z_3vA)
+75. [为你的 Vue.js 单页应用提速](https://mp.weixin.qq.com/s/YDb-**XYbTB46kuws88EGnYw)
+76. [一步步从头搭建 Vue 开发环境](https://mp.weixin.qq.com/s/Cx9bjOcoPqqPVGD6h-iPbQ)
