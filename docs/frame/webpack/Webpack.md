@@ -2,3 +2,5 @@
 2. [再来一打 Webpack 面试题](https://mp.weixin.qq.com/s/f1ON5SiLR9lpmbdcjVTI_Q)
 3. [【干货】webpack 不可错过的打包优化方法](https://mp.weixin.qq.com/s/hN2yTtFLyFBWmOrKF-E8lQ)
 4. [由浅入深配置 webpack4](https://mp.weixin.qq.com/s/EjlvrHD2hoodi1uc4ORFvw)
+5. [使用 require.context，实现去路由中心化管理](https://mp.weixin.qq.com/s/wqUMpufrt5pbFuBZ6KZzzw)
+6. [是什么尤大选择放弃 Webpack？面向未来的前端构建工具 Vite](https://mp.weixin.qq.com/s/tHfp5JBqv0vW8tccPKS2lg)
