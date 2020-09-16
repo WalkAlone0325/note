@@ -74,3 +74,5 @@
 74. [淘心窝分享 VUE+ElementUI 后台管理项目经验与技巧，金九银十跳槽必看](https://mp.weixin.qq.com/s/IXOb8YlqqoACcIaq_Z_3vA)
 75. [为你的 Vue.js 单页应用提速](https://mp.weixin.qq.com/s/YDb-**XYbTB46kuws88EGnYw)
 76. [一步步从头搭建 Vue 开发环境](https://mp.weixin.qq.com/s/Cx9bjOcoPqqPVGD6h-iPbQ)
+77. [Vue进阶面试必问，异步更新机制和nextTick原理](https://mp.weixin.qq.com/s/49SX3NkGiEuuRxHtf6ODzg)
+78. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/vv0uPWv2EQsTf1PfSAHj0g)
