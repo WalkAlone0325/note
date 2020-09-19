@@ -17,3 +17,4 @@
 17. [vue3.0 新特性初体验（一）](https://mp.weixin.qq.com/s/iruFkKBSt37wY0J1noZHOQ)
 18. [vue3.0 新特性初体验（二）](https://mp.weixin.qq.com/s/mefdAo-HsXifQ_6pcmxUYw)
 19. [基于 vue 3.0.0-beta.x 写的第一个组件](https://mp.weixin.qq.com/s/jPGnWjln2zj4IGmfUdAfUg)
+20. [Vue 3.0 发布！](https://mp.weixin.qq.com/s/PxfBjZwufnhtHYWxRl2TJA)

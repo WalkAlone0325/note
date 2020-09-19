@@ -77,3 +77,4 @@
 77. [Vue 进阶面试必问，异步更新机制和 nextTick 原理](https://mp.weixin.qq.com/s/49SX3NkGiEuuRxHtf6ODzg)
 78. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/vv0uPWv2EQsTf1PfSAHj0g)
 79. [Vue 项目中各种痛点问题及方案](https://mp.weixin.qq.com/s/nhvtZ9s7QGe7YxoSnM2wbw)
+80. [Vue 项目中各种痛点问题及方案](https://mp.weixin.qq.com/s/nhvtZ9s7QGe7YxoSnM2wbw)

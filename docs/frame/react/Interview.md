@@ -31,3 +31,4 @@
 31. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/ppfMy1_RkdNh8eDU5Vz9xA)
 32. [Next.js + TypeScript 搭建一个简易的博客系统](https://mp.weixin.qq.com/s/fJRtEqjem7cA9x-FS1ud4w)
 33. [React.js 个人作品集项目实践](https://mp.weixin.qq.com/s/JXDB6R5QHUJ8B7J6G_DBTw)
+34. [React 开发要知道的 34 个技巧](https://mp.weixin.qq.com/s/_9yiEofqKYNWw1qqrRJhJg)
