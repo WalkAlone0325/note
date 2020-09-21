@@ -78,3 +78,4 @@
 78. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/vv0uPWv2EQsTf1PfSAHj0g)
 79. [Vue 项目中各种痛点问题及方案](https://mp.weixin.qq.com/s/nhvtZ9s7QGe7YxoSnM2wbw)
 80. [Vue 项目中各种痛点问题及方案](https://mp.weixin.qq.com/s/nhvtZ9s7QGe7YxoSnM2wbw)
+81. [Vue 最全知识点](https://mp.weixin.qq.com/s/-qxMMQ-R-0xJe4s1O6R9EA)
