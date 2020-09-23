@@ -32,3 +32,5 @@
 32. [Next.js + TypeScript 搭建一个简易的博客系统](https://mp.weixin.qq.com/s/fJRtEqjem7cA9x-FS1ud4w)
 33. [React.js 个人作品集项目实践](https://mp.weixin.qq.com/s/JXDB6R5QHUJ8B7J6G_DBTw)
 34. [React 开发要知道的 34 个技巧](https://mp.weixin.qq.com/s/_9yiEofqKYNWw1qqrRJhJg)
+35. [React 项目实践——创建一个聊天机器人](https://mp.weixin.qq.com/s/7tGGG7E8IWBP808cZDMtxQ)
+36. [2020 年你应该知道的 React 库](https://mp.weixin.qq.com/s/EpGSAqNY6nZue8L0rqK90g)

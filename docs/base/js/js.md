@@ -27,3 +27,4 @@
 25. [JS 数组奇巧淫技](https://mp.weixin.qq.com/s/c9jtemK9Do85RG4ub1MORA)
 26. [Jest 单元测试快速上手指南](https://mp.weixin.qq.com/s/18U60ybjvp9nqOqKrpqv2A)
 27. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/d1RNx53PZisr7vpg8rGp2w)
+28. [全面分析 toString 与 valueOf，并随手解决掉几道大厂必备面试题](https://mp.weixin.qq.com/s/znprvU9dreSS8WXUHCQnvQ)
