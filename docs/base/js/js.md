@@ -28,3 +28,6 @@
 26. [Jest 单元测试快速上手指南](https://mp.weixin.qq.com/s/18U60ybjvp9nqOqKrpqv2A)
 27. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/d1RNx53PZisr7vpg8rGp2w)
 28. [全面分析 toString 与 valueOf，并随手解决掉几道大厂必备面试题](https://mp.weixin.qq.com/s/znprvU9dreSS8WXUHCQnvQ)
+29. [前端需要掌握的设计模式](https://mp.weixin.qq.com/s/IJqUJ9nCa-DiIv0u3Da37Q)
+30. [从一道面试题谈谈对 EventLoop 的理解](https://mp.weixin.qq.com/s/ahIxhHWz4xTEEgEfdp_Pnw)\
+31. [15 个非常实用的 JavaScript 表单验证库](https://mp.weixin.qq.com/s/ot1AiIjUd-YNoy7-Bk2wkw)
