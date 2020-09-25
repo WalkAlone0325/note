@@ -31,3 +31,5 @@
 29. [前端需要掌握的设计模式](https://mp.weixin.qq.com/s/IJqUJ9nCa-DiIv0u3Da37Q)
 30. [从一道面试题谈谈对 EventLoop 的理解](https://mp.weixin.qq.com/s/ahIxhHWz4xTEEgEfdp_Pnw)\
 31. [15 个非常实用的 JavaScript 表单验证库](https://mp.weixin.qq.com/s/ot1AiIjUd-YNoy7-Bk2wkw)
+32. [JavaScrpit AST 实战](https://mp.weixin.qq.com/s/QW2V8ISaF5LhbzmzGfNR6g)
+33. [DOM 事件机制](https://mp.weixin.qq.com/s/OMQchYjoS1LFZpGEOUpoUA)

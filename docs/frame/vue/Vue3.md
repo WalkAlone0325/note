@@ -19,3 +19,4 @@
 19. [基于 vue 3.0.0-beta.x 写的第一个组件](https://mp.weixin.qq.com/s/jPGnWjln2zj4IGmfUdAfUg)
 20. [Vue 3.0 发布！](https://mp.weixin.qq.com/s/PxfBjZwufnhtHYWxRl2TJA)
 21. [学习 Vue3.0，先从搭建环境开始](https://mp.weixin.qq.com/s/Bmul8_LUzKBCDKsaP3i_Cg)
+22. [@vue/composition-api 速成课（通俗易懂版）](https://mp.weixin.qq.com/s/PYOq1RUVvQXR3F7bnH453A)
