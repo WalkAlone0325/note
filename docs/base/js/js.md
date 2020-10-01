@@ -33,3 +33,4 @@
 31. [15 个非常实用的 JavaScript 表单验证库](https://mp.weixin.qq.com/s/ot1AiIjUd-YNoy7-Bk2wkw)
 32. [JavaScrpit AST 实战](https://mp.weixin.qq.com/s/QW2V8ISaF5LhbzmzGfNR6g)
 33. [DOM 事件机制](https://mp.weixin.qq.com/s/OMQchYjoS1LFZpGEOUpoUA)
+34. [ES2020 中 JavaScript 10 个你应该知道的新功能](https://mp.weixin.qq.com/s/91lkRraazaMg5ld120E6Gg)
