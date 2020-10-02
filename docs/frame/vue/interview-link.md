@@ -80,3 +80,5 @@
 80. [Vue 项目中各种痛点问题及方案](https://mp.weixin.qq.com/s/nhvtZ9s7QGe7YxoSnM2wbw)
 81. [Vue 最全知识点](https://mp.weixin.qq.com/s/-qxMMQ-R-0xJe4s1O6R9EA)
 82. [Vue 项目中各种痛点问题及方案](https://mp.weixin.qq.com/s/4pAkbI3BV6oJENx33rKsHw)
+83. [34 条我能告诉你的 Vue 之实操篇](https://mp.weixin.qq.com/s/clg-s9Kvwc6QHIgCxGzcVw)
+84. [Vue 项目部署的最佳实践，试一下才知道多厉害](https://mp.weixin.qq.com/s/lTe2TFrYnx5ZU3JwRLBInQ)

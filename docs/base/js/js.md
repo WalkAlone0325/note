@@ -34,3 +34,4 @@
 32. [JavaScrpit AST 实战](https://mp.weixin.qq.com/s/QW2V8ISaF5LhbzmzGfNR6g)
 33. [DOM 事件机制](https://mp.weixin.qq.com/s/OMQchYjoS1LFZpGEOUpoUA)
 34. [ES2020 中 JavaScript 10 个你应该知道的新功能](https://mp.weixin.qq.com/s/91lkRraazaMg5ld120E6Gg)
+35. [32 个手撕 JS，彻底摆脱初级前端（面试高频）](https://mp.weixin.qq.com/s/lu9-w5TPXKwGvSqhkzYqpw)
