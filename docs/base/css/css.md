@@ -16,3 +16,4 @@
 14. [48 张小图带你领略 Flex 布局之美](https://mp.weixin.qq.com/s/LjWMxWuGHhVJr71m1EzTkA)
 15. [响应式布局新方案](https://mp.weixin.qq.com/s/hCDW0xUX0oow3UUrnVECMA)
 16. [保持页脚在底部:Flexbox vs Grid](https://mp.weixin.qq.com/s/HqVmW5cyb3mVFUOt2KObDA)
+17. [收藏！40 个 CSS 布局技巧](https://mp.weixin.qq.com/s/RvOK7PQIDslsjky9RDWJNA)
