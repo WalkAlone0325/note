@@ -21,3 +21,4 @@
 21. [学习 Vue3.0，先从搭建环境开始](https://mp.weixin.qq.com/s/Bmul8_LUzKBCDKsaP3i_Cg)
 22. [@vue/composition-api 速成课（通俗易懂版）](https://mp.weixin.qq.com/s/PYOq1RUVvQXR3F7bnH453A)
 23. [一篇干货，轻松上手 Vue.js 3.0](https://mp.weixin.qq.com/s/WCfHdXCTnM71UT9K3LaiVA)
+24. [让构建单页面应用变得易如反掌- Vue3 中的 router](https://mp.weixin.qq.com/s/J6wezaXQHGH_E_ZJT1PRPQ)
