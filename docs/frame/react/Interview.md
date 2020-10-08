@@ -34,3 +34,6 @@
 34. [React 开发要知道的 34 个技巧](https://mp.weixin.qq.com/s/_9yiEofqKYNWw1qqrRJhJg)
 35. [React 项目实践——创建一个聊天机器人](https://mp.weixin.qq.com/s/7tGGG7E8IWBP808cZDMtxQ)
 36. [2020 年你应该知道的 React 库](https://mp.weixin.qq.com/s/EpGSAqNY6nZue8L0rqK90g)
+37. [新手学习 react 迷惑的点(完整版)](https://mp.weixin.qq.com/s/VoZpdK8DO6LaQ9XgP1_RGg)
+38. [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/OwYW9v4FooE2IK2AJQePpA)
+39. [在 React 中实现 keep alive](https://mp.weixin.qq.com/s/ojRp-xJjSssWZxH6N-1Skg)

@@ -22,3 +22,5 @@
 22. [@vue/composition-api 速成课（通俗易懂版）](https://mp.weixin.qq.com/s/PYOq1RUVvQXR3F7bnH453A)
 23. [一篇干货，轻松上手 Vue.js 3.0](https://mp.weixin.qq.com/s/WCfHdXCTnM71UT9K3LaiVA)
 24. [让构建单页面应用变得易如反掌- Vue3 中的 router](https://mp.weixin.qq.com/s/J6wezaXQHGH_E_ZJT1PRPQ)
+25. [陪尤雨溪一起，实现 Vuex 无限层级类型推断。（TS 4.1 新特性）](https://mp.weixin.qq.com/s/MeGj7bD8m3VvXDMrMXNUHw)
+26. [从 0 到 1，带你彻底搞懂 vite 中的 HMR 原理](https://mp.weixin.qq.com/s/ptFnSP8eE4aH4KddJTqvlw)
