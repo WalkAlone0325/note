@@ -37,3 +37,4 @@
 35. [32 个手撕 JS，彻底摆脱初级前端（面试高频）](https://mp.weixin.qq.com/s/lu9-w5TPXKwGvSqhkzYqpw)
 36. [你不知道的 TypeScript 泛型（万字长文，建议收藏）](https://mp.weixin.qq.com/s/bNn3D-O2ZJbYZCCfqHGKxw)
 37. [5000 字！带你零距离接触 websocket！](https://mp.weixin.qq.com/s/W88RpA-do6OybCH-bBvQIg)
+38. [JavaScript 事件循环：从起源到浏览器再到 Node.js](https://mp.weixin.qq.com/s/IhaHIh-G1wQg8Tdc0nxP4Q)

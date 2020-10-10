@@ -37,3 +37,4 @@
 37. [新手学习 react 迷惑的点(完整版)](https://mp.weixin.qq.com/s/VoZpdK8DO6LaQ9XgP1_RGg)
 38. [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/OwYW9v4FooE2IK2AJQePpA)
 39. [在 React 中实现 keep alive](https://mp.weixin.qq.com/s/ojRp-xJjSssWZxH6N-1Skg)
+40. [适合 Vue 用户的 React 教程，你值得拥有](https://mp.weixin.qq.com/s/VT14SIHcwiqpx7yYTXRLOw)
