@@ -14,3 +14,4 @@
 14. [前端需要了解的计算机网络知识](https://mp.weixin.qq.com/s/5hsue5rm1VubroQzP2r8lw)
 15. [HTTP 灵魂之问，巩固你的 HTTP 知识体系](https://mp.weixin.qq.com/s/zpOvPM3YE5Myujh-bQNtKg)
 16. [前端缓存最佳实践](https://mp.weixin.qq.com/s/quyuJfrS2V2DrM8qiGuLzw)
+17. [那些年与面试官交手过的 HTTP 问题](https://mp.weixin.qq.com/s/Ho4R06PtohbuEoQ559YTkQ)

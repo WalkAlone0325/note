@@ -25,3 +25,4 @@
 25. [陪尤雨溪一起，实现 Vuex 无限层级类型推断。（TS 4.1 新特性）](https://mp.weixin.qq.com/s/MeGj7bD8m3VvXDMrMXNUHw)
 26. [从 0 到 1，带你彻底搞懂 vite 中的 HMR 原理](https://mp.weixin.qq.com/s/ptFnSP8eE4aH4KddJTqvlw)
 27. [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://mp.weixin.qq.com/s/vhwWl4T5xuI-0_r_X4lMBQ)
+28. [Vue3 DOM Diff 核心算法解析](https://mp.weixin.qq.com/s/u3WUQ6Nn1nBHM6WbdWFgPQ)
