@@ -86,3 +86,6 @@
 86. [vue 中 Axios 的封装和 API 接口的管理](https://mp.weixin.qq.com/s/IKCSVS5BvvarzXZesOP-DQ)
 87. [如何设计组件还不会吗？简单谈论下组件化思想](https://mp.weixin.qq.com/s/aUwRmiaOTHJ8-VCt6So-tg)
 88. [Vue SPA 性能优化，看这一篇就够了](https://juejin.im/post/68841651311153315)
+89. [研究 Vue 源码时发现的一些好玩函数](https://mp.weixin.qq.com/s/bNkRQ_z9TPQ7B7ck4BqUIg)
+90. [Vue 中 Axios 的封装和 API 接口的管理](https://mp.weixin.qq.com/s/Kj1PGSBlxBLGheghTALr_g)
+91. [框架篇-Vue 面试题 5-怎么提高首屏渲染以及性能优化](https://mp.weixin.qq.com/s/ag_XGfjh1swOqguCBE2bEw)

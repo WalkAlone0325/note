@@ -38,3 +38,8 @@
 36. [你不知道的 TypeScript 泛型（万字长文，建议收藏）](https://mp.weixin.qq.com/s/bNn3D-O2ZJbYZCCfqHGKxw)
 37. [5000 字！带你零距离接触 websocket！](https://mp.weixin.qq.com/s/W88RpA-do6OybCH-bBvQIg)
 38. [JavaScript 事件循环：从起源到浏览器再到 Node.js](https://mp.weixin.qq.com/s/IhaHIh-G1wQg8Tdc0nxP4Q)
+39. [24 道面试题详解，先抓住眼前的](https://mp.weixin.qq.com/s/EWNKWHTWcDSfcSSPxJOfBA)
+40. [66 个 JavaScript 面试知识点，附上完整解析！](https://mp.weixin.qq.com/s/colqFYFJVb1ayP6F77wnrg)
+41. [一份【超级全面】的前端工程师的自检清单](https://mp.weixin.qq.com/s/_mRxIwIESsuXasMun1Ff5A)
+42. [Javascript 中的事件循环和宏微任务](https://zhuanlan.zhihu.com/p/150682354?utm_source=wechat_session&utm_medium=social&utm_oi=26922281074688&utm_content=group3_article&utm_campaign=shareopn)
+43. [新来的小姐姐今天让我教她「HTML5」FileAPI](https://mp.weixin.qq.com/s/zoctRMVyiy6_yDak_sePwQ)
