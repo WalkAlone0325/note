@@ -17,3 +17,6 @@
 15. [响应式布局新方案](https://mp.weixin.qq.com/s/hCDW0xUX0oow3UUrnVECMA)
 16. [保持页脚在底部:Flexbox vs Grid](https://mp.weixin.qq.com/s/HqVmW5cyb3mVFUOt2KObDA)
 17. [收藏！40 个 CSS 布局技巧](https://mp.weixin.qq.com/s/RvOK7PQIDslsjky9RDWJNA)
+18. [8 种纯 CSS 实现的炫酷 HOVER 效果，你应该在网站中尝试使用](https://mp.weixin.qq.com/s/I3EQEDFVLXjACT-AoCGsfw)
+19. [探索 CSS 属性\*-gradient 的实用价值](https://mp.weixin.qq.com/s/J1isZCJu7MFf4KHZfigixw)
+20. [收藏！40 个 CSS 布局技巧](https://mp.weixin.qq.com/s/Uk1cEJmqvuMbKY9VxrDoSA)

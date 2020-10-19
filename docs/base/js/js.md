@@ -43,3 +43,4 @@
 41. [一份【超级全面】的前端工程师的自检清单](https://mp.weixin.qq.com/s/_mRxIwIESsuXasMun1Ff5A)
 42. [Javascript 中的事件循环和宏微任务](https://zhuanlan.zhihu.com/p/150682354?utm_source=wechat_session&utm_medium=social&utm_oi=26922281074688&utm_content=group3_article&utm_campaign=shareopn)
 43. [新来的小姐姐今天让我教她「HTML5」FileAPI](https://mp.weixin.qq.com/s/zoctRMVyiy6_yDak_sePwQ)
+44. [万字长文深入掌握 JS 数组用法 - 浅析 V8 源码 array.js](https://mp.weixin.qq.com/s/4yFqof8_q7kLzo6WSD5Mrw)
