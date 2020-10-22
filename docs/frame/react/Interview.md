@@ -38,3 +38,4 @@
 38. [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/OwYW9v4FooE2IK2AJQePpA)
 39. [在 React 中实现 keep alive](https://mp.weixin.qq.com/s/ojRp-xJjSssWZxH6N-1Skg)
 40. [适合 Vue 用户的 React 教程，你值得拥有](https://mp.weixin.qq.com/s/VT14SIHcwiqpx7yYTXRLOw)
+41. [如何在 React 中实现 keep alive](https://mp.weixin.qq.com/s/1zUvJv_Av0BbcNWsdNNjHg)
