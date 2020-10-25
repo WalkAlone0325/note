@@ -46,3 +46,5 @@
 44. [万字长文深入掌握 JS 数组用法 - 浅析 V8 源码 array.js](https://mp.weixin.qq.com/s/4yFqof8_q7kLzo6WSD5Mrw)
 45. [20 个你不得不知道的数组 reduce 高级用法](https://mp.weixin.qq.com/s/ogzcJ3KFlkPzLaCjJXheFQ)
 46. [这次彻底搞懂 Promise(手写源码多注释篇)](https://mp.weixin.qq.com/s/ze4ZeSPiB_WJTOVHntK5Zg)
+47. [32 个手写 JS，巩固你的 JS 基础（面试高频）](https://mp.weixin.qq.com/s/xpe8Ch-KIsvuDPjB-_2W8A)
+48. [前端实现一个小说分页的功能](https://mp.weixin.qq.com/s/ipGzFoAXK3_54DPXTama9Q)
