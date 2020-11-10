@@ -6,3 +6,5 @@
 6. [是什么尤大选择放弃 Webpack？面向未来的前端构建工具 Vite](https://mp.weixin.qq.com/s/tHfp5JBqv0vW8tccPKS2lg)
 7. [有没有必要上？带你 Webpack5 快速开箱！](https://mp.weixin.qq.com/s/HWPqwzKUgd6XQVamOQAJaw)
 8. [五种工具可视化分析 webpack 打包性能瓶颈](https://mp.weixin.qq.com/s/9_KwuxbyAoaGZ-pqvXyHBw)
+9. [手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s/FLi4gUnIYIh3Ttk1ygklWA)
+10. [前端工程师不可不知的 Nginx 知识](https://mp.weixin.qq.com/s/FKOBT1E2SyOoj-tTchbSrg)

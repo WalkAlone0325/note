@@ -48,3 +48,5 @@
 46. [这次彻底搞懂 Promise(手写源码多注释篇)](https://mp.weixin.qq.com/s/ze4ZeSPiB_WJTOVHntK5Zg)
 47. [32 个手写 JS，巩固你的 JS 基础（面试高频）](https://mp.weixin.qq.com/s/xpe8Ch-KIsvuDPjB-_2W8A)
 48. [前端实现一个小说分页的功能](https://mp.weixin.qq.com/s/ipGzFoAXK3_54DPXTama9Q)
+49. [前端性能优化 24 条建议（2020）](https://mp.weixin.qq.com/s/IIlJBGmUSImFZ_8K6vVBGw)
+50. [初中级前端 JavaScript 自测清单（2）](https://mp.weixin.qq.com/s/hMaEGZCnkjVZf9ATBNuFXQ)
