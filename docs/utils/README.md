@@ -15,3 +15,5 @@
 9. Snipaste
 10. PDF 阅读器
 11. Ubuntu
+
+12. [使用 ohmyzsh 打造 windows、ubuntu、mac 系统高效终端命令行工具](https://mp.weixin.qq.com/s/MHngeDABRV3z2HmN5DRrEw)
