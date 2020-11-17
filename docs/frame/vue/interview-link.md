@@ -90,3 +90,4 @@
 90. [Vue 中 Axios 的封装和 API 接口的管理](https://mp.weixin.qq.com/s/Kj1PGSBlxBLGheghTALr_g)
 91. [框架篇-Vue 面试题 5-怎么提高首屏渲染以及性能优化](https://mp.weixin.qq.com/s/ag_XGfjh1swOqguCBE2bEw)
 92. [Vue 最全知识点（基础到进阶，覆盖 vue3.0）](https://mp.weixin.qq.com/s/y9olkntgR-9DFJVrmZsrsw)
+93. [Vue 项目棘手问题的解决方案](https://mp.weixin.qq.com/s/bKriNlZjv0VtnV-QjOUueA)

@@ -27,3 +27,4 @@
 27. [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://mp.weixin.qq.com/s/vhwWl4T5xuI-0_r_X4lMBQ)
 28. [Vue3 DOM Diff 核心算法解析](https://mp.weixin.qq.com/s/u3WUQ6Nn1nBHM6WbdWFgPQ)
 29. [Vue.js 3.0 组件是如何渲染为 DOM 的？](https://mp.weixin.qq.com/s/t1pSDeQ6bHcZ0ZVooE5ZKA)
+30. [Vue2 和 Vue3 使用层面上的区别总结](https://mp.weixin.qq.com/s/eFThwN40C_3vCymJzN-x2w)
