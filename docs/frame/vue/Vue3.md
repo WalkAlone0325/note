@@ -28,3 +28,4 @@
 28. [Vue3 DOM Diff 核心算法解析](https://mp.weixin.qq.com/s/u3WUQ6Nn1nBHM6WbdWFgPQ)
 29. [Vue.js 3.0 组件是如何渲染为 DOM 的？](https://mp.weixin.qq.com/s/t1pSDeQ6bHcZ0ZVooE5ZKA)
 30. [Vue2 和 Vue3 使用层面上的区别总结](https://mp.weixin.qq.com/s/eFThwN40C_3vCymJzN-x2w)
+31. [Vue3 中 router 带来了哪些变化？](https://mp.weixin.qq.com/s/Rxildst8QsY7Wp41pKg_Ew)
