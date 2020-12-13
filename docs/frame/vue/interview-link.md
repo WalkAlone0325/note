@@ -92,3 +92,5 @@
 92. [Vue 最全知识点（基础到进阶，覆盖 vue3.0）](https://mp.weixin.qq.com/s/y9olkntgR-9DFJVrmZsrsw)
 93. [Vue 项目棘手问题的解决方案](https://mp.weixin.qq.com/s/bKriNlZjv0VtnV-QjOUueA)
 94. [https://mp.weixin.qq.com/s/W-APJwaY8r0-fXp5iGMWEA](https://mp.weixin.qq.com/s/W-APJwaY8r0-fXp5iGMWEA)
+95. [Vue + sentry 实现生产环境前端代码错误监控](https://mp.weixin.qq.com/s/sP9XeRDwvtn-cf3Nf5fH8Q)
+96. [深入理解 vue 响应式原理 8000 字](https://mp.weixin.qq.com/s/ulPalk08RwNYejfJHlP4-w)
