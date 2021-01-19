@@ -29,3 +29,9 @@
 29. [Vue.js 3.0 组件是如何渲染为 DOM 的？](https://mp.weixin.qq.com/s/t1pSDeQ6bHcZ0ZVooE5ZKA)
 30. [Vue2 和 Vue3 使用层面上的区别总结](https://mp.weixin.qq.com/s/eFThwN40C_3vCymJzN-x2w)
 31. [Vue3 中 router 带来了哪些变化？](https://mp.weixin.qq.com/s/Rxildst8QsY7Wp41pKg_Ew)
+32. [Vue 3 项目实战总结](https://mp.weixin.qq.com/s/60Dz-NAC5nSp9RAoKYoe8w)\
+33. [我在 vue3.0 团队内部的分享](https://mp.weixin.qq.com/s/X6LzmFb1W8uCVSJgYN6Ugw)
+34. [我在 Vue 项目团队开发的基本配置封装分享](https://mp.weixin.qq.com/s/mZMH8BUJ_oBhPy2-meAj1w)
+35. [Vue3.0 高频出现的几道面试题](https://mp.weixin.qq.com/s/SPjfaxI0IKXd6nogO61p8A)
+36. [Vue3.0 系列：vue3.x 自定义美化滚动条组件](https://mp.weixin.qq.com/s/QHKmxM7ijl31-3XwPS7fyQ)
+37. [面试官：Vue 要做权限管理该怎么做？控制到按钮级别的权限怎么做？](https://mp.weixin.qq.com/s/MyRhh7W4m1GaoE--HqpFpQ)
