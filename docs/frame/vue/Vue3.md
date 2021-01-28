@@ -36,3 +36,5 @@
 36. [Vue3.0 系列：vue3.x 自定义美化滚动条组件](https://mp.weixin.qq.com/s/QHKmxM7ijl31-3XwPS7fyQ)
 37. [面试官：Vue 要做权限管理该怎么做？控制到按钮级别的权限怎么做？](https://mp.weixin.qq.com/s/MyRhh7W4m1GaoE--HqpFpQ)
 38. [面试官：Vue3.0 性能提升主要是通过哪几方面体现的？](https://mp.weixin.qq.com/s/Uu7cBHzAdhZU6pSkwVzkOA)
+39. [Vue3.0 高频出现的几道面试题](https://mp.weixin.qq.com/s/ncMa0r54m5nqEvjsH9_3Cg)
+40. [揭秘 Vue.js 九个性能优化技巧](https://mp.weixin.qq.com/s/7u3hHp4zT7aTQTvQ6JjM-w)
