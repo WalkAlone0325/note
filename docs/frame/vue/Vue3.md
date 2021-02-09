@@ -38,3 +38,5 @@
 38. [面试官：Vue3.0 性能提升主要是通过哪几方面体现的？](https://mp.weixin.qq.com/s/Uu7cBHzAdhZU6pSkwVzkOA)
 39. [Vue3.0 高频出现的几道面试题](https://mp.weixin.qq.com/s/ncMa0r54m5nqEvjsH9_3Cg)
 40. [揭秘 Vue.js 九个性能优化技巧](https://mp.weixin.qq.com/s/7u3hHp4zT7aTQTvQ6JjM-w)
+41. [Vue3 全家桶 + Element Plus + Vite + TypeScript + Eslint 项目配置最佳实践](https://mp.weixin.qq.com/s/I2DLsqsNlgLIClrHV7NpNw)
+42. [Vue3.0 高频出现的几道面试题](https://mp.weixin.qq.com/s/ncMa0r54m5nqEvjsH9_3Cg)
