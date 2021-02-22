@@ -41,3 +41,4 @@
 41. [Vue3 全家桶 + Element Plus + Vite + TypeScript + Eslint 项目配置最佳实践](https://mp.weixin.qq.com/s/I2DLsqsNlgLIClrHV7NpNw)
 42. [Vue3.0 高频出现的几道面试题](https://mp.weixin.qq.com/s/ncMa0r54m5nqEvjsH9_3Cg)
 43. [Vue 3.0 进阶之指令探秘](https://mp.weixin.qq.com/s/LAcejIgEs6hI71Eqx_PmDQ)
+44. [vite2.0+vue3 移动端项目实战](https://mp.weixin.qq.com/s/DcBOiOhXv5OhxAaxC5d9rQ)
