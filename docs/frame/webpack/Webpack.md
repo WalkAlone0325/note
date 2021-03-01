@@ -11,3 +11,4 @@
 11. [Vue 3 和 Webpack 5 来了，手动搭建的知识该更新了](https://mp.weixin.qq.com/s/ulfuXoP4D4OA1QKy55fZVA)
 12. [手写一个合格的前端脚手架](https://mp.weixin.qq.com/s/AH9fQdZnwMUcuczIVLOLVQ)
 13. [深入对比 Webpack、Parcel、Rollup 打包工具](https://mp.weixin.qq.com/s/EpWvHlXYq_S5zUvIZerj9g)
+14. [Vite 和 Webpack 的核心差异](https://mp.weixin.qq.com/s/eI0O8HueT36WQO1yyDfYsA)

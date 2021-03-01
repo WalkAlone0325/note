@@ -50,3 +50,5 @@
 48. [前端实现一个小说分页的功能](https://mp.weixin.qq.com/s/ipGzFoAXK3_54DPXTama9Q)
 49. [前端性能优化 24 条建议（2020）](https://mp.weixin.qq.com/s/IIlJBGmUSImFZ_8K6vVBGw)
 50. [初中级前端 JavaScript 自测清单（2）](https://mp.weixin.qq.com/s/hMaEGZCnkjVZf9ATBNuFXQ)
+51. [JS 语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12 新特性](https://mp.weixin.qq.com/s/gZGS73sXgie2ZFCNWLeCFw)
+52. [一份开源的编码规范：代码整洁的 JavaScript](https://mp.weixin.qq.com/s/CTqUDkwBrb8k06RNzAgcVA)
