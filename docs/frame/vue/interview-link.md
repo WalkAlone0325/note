@@ -94,3 +94,5 @@
 94. [https://mp.weixin.qq.com/s/W-APJwaY8r0-fXp5iGMWEA](https://mp.weixin.qq.com/s/W-APJwaY8r0-fXp5iGMWEA)
 95. [Vue + sentry 实现生产环境前端代码错误监控](https://mp.weixin.qq.com/s/sP9XeRDwvtn-cf3Nf5fH8Q)
 96. [深入理解 vue 响应式原理 8000 字](https://mp.weixin.qq.com/s/ulPalk08RwNYejfJHlP4-w)
+97. [前端权限管理，你知道的和不知道的（干货！）](https://mp.weixin.qq.com/s/u8gcINHOrrc8XfRqyjPiag)
+98. [30 道 Vue 面试题，自测 Vue 掌握程度 | 内含详细讲解](https://mp.weixin.qq.com/s/4nhhr3fpJnKjdYxP3VoUuw)

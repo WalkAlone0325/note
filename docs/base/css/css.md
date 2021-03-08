@@ -21,3 +21,4 @@
 19. [探索 CSS 属性\*-gradient 的实用价值](https://mp.weixin.qq.com/s/J1isZCJu7MFf4KHZfigixw)
 20. [收藏！40 个 CSS 布局技巧](https://mp.weixin.qq.com/s/Uk1cEJmqvuMbKY9VxrDoSA)
 21. [8 种纯 CSS 实现的炫酷 HOVER 效果](https://mp.weixin.qq.com/s/I3EQEDFVLXjACT-AoCGsfw)
+22. [字节跳动最爱考的前端面试题：CSS 基础](https://mp.weixin.qq.com/s/xeJrqJHD5PwP_hdxChx2_Q)

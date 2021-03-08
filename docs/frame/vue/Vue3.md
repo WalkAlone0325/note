@@ -42,3 +42,5 @@
 42. [Vue3.0 高频出现的几道面试题](https://mp.weixin.qq.com/s/ncMa0r54m5nqEvjsH9_3Cg)
 43. [Vue 3.0 进阶之指令探秘](https://mp.weixin.qq.com/s/LAcejIgEs6hI71Eqx_PmDQ)
 44. [vite2.0+vue3 移动端项目实战](https://mp.weixin.qq.com/s/DcBOiOhXv5OhxAaxC5d9rQ)
+45. [如何充分利用 Composition API 对 Vue3 项目进行代码抽离](https://mp.weixin.qq.com/s/X4bThRdLjEh06clNmmuQTQ)
+46. [面试官：用 Vue3.0 写过组件吗？如果想实现一个 Modal 你会怎么设计](https://mp.weixin.qq.com/s/YI6wGYTNiKXkc045WAlhfw)

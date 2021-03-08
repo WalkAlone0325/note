@@ -22,16 +22,7 @@
 16. [CommonJS 和 ES6 模块的区别](https://mp.weixin.qq.com/s/eMC2ZQrFpuHbgQooQdv4xg)
 17. [微信小程序自定义日历组件及 flex 布局最后一行对齐问题分析](https://mp.weixin.qq.com/s/tFPhL91UKPor21S5ABE6mg)
 18. [发布一个 npm 包你不得不知道的 npm 命令](https://juejin.im/post/6884091030837133320)
-
-    ::: tip 提示
-    待开发。。。
-    :::
-    ::: warning 注意
-    this is a tip
-    :::
-
-::: danger 警告
-this is a tip
-:::
+19. [新鲜出炉的大厂面试题、面试技巧汇总及简历编写（附简历模版下载）](https://mp.weixin.qq.com/s/hxQJv4ediEpELGexLZrPjQ)
+20. [高频前端开发面试问题](https://mp.weixin.qq.com/s/h-mAfwXFL9vaJ-ImU6slSg)
 
 :tada: :100: :bamboo: :gift_heart: :fire:

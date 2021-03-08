@@ -52,3 +52,8 @@
 50. [初中级前端 JavaScript 自测清单（2）](https://mp.weixin.qq.com/s/hMaEGZCnkjVZf9ATBNuFXQ)
 51. [JS 语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12 新特性](https://mp.weixin.qq.com/s/gZGS73sXgie2ZFCNWLeCFw)
 52. [一份开源的编码规范：代码整洁的 JavaScript](https://mp.weixin.qq.com/s/CTqUDkwBrb8k06RNzAgcVA)
+53. [深入浅出前端本地储存](https://mp.weixin.qq.com/s/UU_LfPMexCsZP-YrPoEyBw)
+54. [实用的 bash 自定义脚本，快速提效工作流程](https://mp.weixin.qq.com/s/qUouzBlwGcnAa7bxjKkc2A)
+55. [19 个 JavaScript 数组常用方法总结](https://mp.weixin.qq.com/s/kjVMtC7956dZWpGjrL3ntg)
+56. [阿里、腾讯最爱考的 JavaScript 基础手写题](https://mp.weixin.qq.com/s/0387MQFTvK4FthqoVvlnqg)
+57. [开发中经常遇到的 JavaScript 问题整理(超实用)](https://mp.weixin.qq.com/s/u2mM-GvWObd6JI4I9oWg2w)

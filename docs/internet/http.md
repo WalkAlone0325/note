@@ -16,3 +16,5 @@
 16. [前端缓存最佳实践](https://mp.weixin.qq.com/s/quyuJfrS2V2DrM8qiGuLzw)
 17. [那些年与面试官交手过的 HTTP 问题](https://mp.weixin.qq.com/s/Ho4R06PtohbuEoQ559YTkQ)
 18. [前端 api 请求缓存的 5 种方案](https://mp.weixin.qq.com/s/dciQIZSiuInRBb6n8x3_FA)
+19. [详解重定向（HTTP 状态码 301/302/303/307/308）附案例](https://mp.weixin.qq.com/s/Ut5Nl3hhtG-UvXUoXvZeaw)
+20. [封装 axios 取消重复请求](https://mp.weixin.qq.com/s/fPuBTZGYQISwVtGxPZYYrQ)
