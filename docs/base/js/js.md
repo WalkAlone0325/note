@@ -57,3 +57,4 @@
 55. [19 个 JavaScript 数组常用方法总结](https://mp.weixin.qq.com/s/kjVMtC7956dZWpGjrL3ntg)
 56. [阿里、腾讯最爱考的 JavaScript 基础手写题](https://mp.weixin.qq.com/s/0387MQFTvK4FthqoVvlnqg)
 57. [开发中经常遇到的 JavaScript 问题整理(超实用)](https://mp.weixin.qq.com/s/u2mM-GvWObd6JI4I9oWg2w)
+58. [常用的前端 JavaScript 方法封装](https://mp.weixin.qq.com/s/ARS1K9CxseRXxPB0-6h4Vg)

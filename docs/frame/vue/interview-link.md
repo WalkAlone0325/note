@@ -96,3 +96,4 @@
 96. [深入理解 vue 响应式原理 8000 字](https://mp.weixin.qq.com/s/ulPalk08RwNYejfJHlP4-w)
 97. [前端权限管理，你知道的和不知道的（干货！）](https://mp.weixin.qq.com/s/u8gcINHOrrc8XfRqyjPiag)
 98. [30 道 Vue 面试题，自测 Vue 掌握程度 | 内含详细讲解](https://mp.weixin.qq.com/s/4nhhr3fpJnKjdYxP3VoUuw)
+99. [手写 LRU 缓存策略，了解 Vue 的 keep-alive 实现](https://mp.weixin.qq.com/s/kT2F9ZPs6qt_9RCfkVY78Q)
