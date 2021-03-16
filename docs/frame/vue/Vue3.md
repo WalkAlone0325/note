@@ -44,3 +44,4 @@
 44. [vite2.0+vue3 移动端项目实战](https://mp.weixin.qq.com/s/DcBOiOhXv5OhxAaxC5d9rQ)
 45. [如何充分利用 Composition API 对 Vue3 项目进行代码抽离](https://mp.weixin.qq.com/s/X4bThRdLjEh06clNmmuQTQ)
 46. [面试官：用 Vue3.0 写过组件吗？如果想实现一个 Modal 你会怎么设计](https://mp.weixin.qq.com/s/YI6wGYTNiKXkc045WAlhfw)
+47. [Vue3 文档【Vue2 迁移 Vue3】](https://mp.weixin.qq.com/s/iM0HtHLcSIfMwLNLKmTGAw)
