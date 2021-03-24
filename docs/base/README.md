@@ -24,5 +24,6 @@
 18. [发布一个 npm 包你不得不知道的 npm 命令](https://juejin.im/post/6884091030837133320)
 19. [新鲜出炉的大厂面试题、面试技巧汇总及简历编写（附简历模版下载）](https://mp.weixin.qq.com/s/hxQJv4ediEpELGexLZrPjQ)
 20. [高频前端开发面试问题](https://mp.weixin.qq.com/s/h-mAfwXFL9vaJ-ImU6slSg)
+21. [21 道关于性能优化的面试题(附答案)](https://mp.weixin.qq.com/s/865N_bQ1IxE5mkmvkLEsWQ)
 
 :tada: :100: :bamboo: :gift_heart: :fire:

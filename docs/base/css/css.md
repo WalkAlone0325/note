@@ -22,3 +22,5 @@
 20. [收藏！40 个 CSS 布局技巧](https://mp.weixin.qq.com/s/Uk1cEJmqvuMbKY9VxrDoSA)
 21. [8 种纯 CSS 实现的炫酷 HOVER 效果](https://mp.weixin.qq.com/s/I3EQEDFVLXjACT-AoCGsfw)
 22. [字节跳动最爱考的前端面试题：CSS 基础](https://mp.weixin.qq.com/s/xeJrqJHD5PwP_hdxChx2_Q)
+23. [最强大的 CSS 布局 —— Grid 布局](https://mp.weixin.qq.com/s/ksMdfb4IeybLAylANuHENw)
+24. [十几个 CSS 高级常见技巧汇总（虚线框、三角形、优惠券卡券、滚动条、多行溢出...）](https://mp.weixin.qq.com/s/WkCjMAsQ5gS80XrAGHkUzg)

@@ -58,3 +58,6 @@
 56. [阿里、腾讯最爱考的 JavaScript 基础手写题](https://mp.weixin.qq.com/s/0387MQFTvK4FthqoVvlnqg)
 57. [开发中经常遇到的 JavaScript 问题整理(超实用)](https://mp.weixin.qq.com/s/u2mM-GvWObd6JI4I9oWg2w)
 58. [常用的前端 JavaScript 方法封装](https://mp.weixin.qq.com/s/ARS1K9CxseRXxPB0-6h4Vg)
+59. [前端面试 js 高频手写大全](https://mp.weixin.qq.com/s/29KbZCjorcZNmny0p0fPHg)
+60. [JS 基础进阶- 同步异步编程和 EventLoop 底层机制](https://mp.weixin.qq.com/s/1JCgd1aKXDEdd5GHozGRzA)
+61. [介绍 setTimeout 实现机制与原理，手写一个实现](https://mp.weixin.qq.com/s/KCxEUUNR2PHlAAEq-IkFeA)

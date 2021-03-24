@@ -13,3 +13,7 @@
 13. [深入对比 Webpack、Parcel、Rollup 打包工具](https://mp.weixin.qq.com/s/EpWvHlXYq_S5zUvIZerj9g)
 14. [Vite 和 Webpack 的核心差异](https://mp.weixin.qq.com/s/eI0O8HueT36WQO1yyDfYsA)
 15. [如何有效提升 webpack 编译速度(从 50S 到 7S）](https://mp.weixin.qq.com/s/ub5THbfRekXq39oE4hsFvw)
+16. [webpack 的异步加载原理及分包策略](https://mp.weixin.qq.com/s/HbXkbNpo8R0sKFHKe45rGg)
+17. [分享 12 个 Webpack 中常用的 Loader](https://mp.weixin.qq.com/s/ugX3l5fIqpkROAh2RmBYoQ)
+18. [总结 18 个 webpack 插件，总会有你想要的！](https://mp.weixin.qq.com/s/Zl22Jht-EU2dj3mY6rvWsA)
+19. [手写一个 webpack，看看 AST 怎么用](https://mp.weixin.qq.com/s/RCYrKuN0E2wBHl5sGMCjUQ)

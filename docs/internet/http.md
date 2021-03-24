@@ -18,3 +18,6 @@
 18. [前端 api 请求缓存的 5 种方案](https://mp.weixin.qq.com/s/dciQIZSiuInRBb6n8x3_FA)
 19. [详解重定向（HTTP 状态码 301/302/303/307/308）附案例](https://mp.weixin.qq.com/s/Ut5Nl3hhtG-UvXUoXvZeaw)
 20. [封装 axios 取消重复请求](https://mp.weixin.qq.com/s/fPuBTZGYQISwVtGxPZYYrQ)
+21. [CORS 完全手册之 CORS 详解](https://mp.weixin.qq.com/s/AeZPqgU9Y6yXbwVbUrRdWw)
+22. [CORS 完全手冊之跨来源的安全性问题](https://mp.weixin.qq.com/s/VKgWT5KEw3o6613abuiDRw)
+23. [前端网络请求都有哪些方式？webSocket 是什么？](https://mp.weixin.qq.com/s/q2WvipFrCR-XPnadCxK2rg)
