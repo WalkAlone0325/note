@@ -61,3 +61,4 @@
 59. [前端面试 js 高频手写大全](https://mp.weixin.qq.com/s/29KbZCjorcZNmny0p0fPHg)
 60. [JS 基础进阶- 同步异步编程和 EventLoop 底层机制](https://mp.weixin.qq.com/s/1JCgd1aKXDEdd5GHozGRzA)
 61. [介绍 setTimeout 实现机制与原理，手写一个实现](https://mp.weixin.qq.com/s/KCxEUUNR2PHlAAEq-IkFeA)
+62. [为何面向手写代码常被吐槽，但其仍未动摇？](https://mp.weixin.qq.com/s/5AugujEJ4W1__sx7KMB30w)

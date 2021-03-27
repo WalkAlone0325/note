@@ -2,3 +2,4 @@
 2. [process.env 前端环境变量配置教程](https://mp.weixin.qq.com/s/mfgzMgDhm1C-vuX6alDJSw)
 3. [前端的 Nginx 知识梳理](https://mp.weixin.qq.com/s/dte9oRimIWlZp0pd-ZF-WQ)
 4. [实用的 nginx Web Gui 工具推荐](https://mp.weixin.qq.com/s/rkqW0wEYWipsMkemaPpOcw)
+5. [Nginx 极简教程 — 帮助新手快速入门](https://mp.weixin.qq.com/s/91ZMqBEg0aIRI59ppUKAoQ)
