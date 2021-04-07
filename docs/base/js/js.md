@@ -62,3 +62,5 @@
 60. [JS 基础进阶- 同步异步编程和 EventLoop 底层机制](https://mp.weixin.qq.com/s/1JCgd1aKXDEdd5GHozGRzA)
 61. [介绍 setTimeout 实现机制与原理，手写一个实现](https://mp.weixin.qq.com/s/KCxEUUNR2PHlAAEq-IkFeA)
 62. [为何面向手写代码常被吐槽，但其仍未动摇？](https://mp.weixin.qq.com/s/5AugujEJ4W1__sx7KMB30w)
+63. [字节跳动最爱考的 64 道算法题（JS 版）](https://mp.weixin.qq.com/s/HsZo757NDNV-3xnGQjPtAQ)
+64. [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/By-iXlONjSZLKFG2Xd7rpg)

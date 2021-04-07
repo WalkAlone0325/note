@@ -45,3 +45,5 @@
 45. [React Hooks 使用一年后，个人使用心得！](https://mp.weixin.qq.com/s/zHktkKunS7-5mxwZuyKYwQ)
 46. [React 性能优化完全指南](https://mp.weixin.qq.com/s/-dVGGoVA8kpv9PaSNMoMSg)
 47. [图解 React-router 源码](https://mp.weixin.qq.com/s/NonhHvCg6trpmkNpGpqnow)
+48. [React 合集：深入理解 JSX](https://mp.weixin.qq.com/s/cC3o5jHgbLeqYN4jgI7Hag)
+49. [精读《DOM diff 原理详解》](https://mp.weixin.qq.com/s/KCX8xwY563qCAJqaK2H2EA)
