@@ -24,3 +24,5 @@
 22. [字节跳动最爱考的前端面试题：CSS 基础](https://mp.weixin.qq.com/s/xeJrqJHD5PwP_hdxChx2_Q)
 23. [最强大的 CSS 布局 —— Grid 布局](https://mp.weixin.qq.com/s/ksMdfb4IeybLAylANuHENw)
 24. [十几个 CSS 高级常见技巧汇总（虚线框、三角形、优惠券卡券、滚动条、多行溢出...）](https://mp.weixin.qq.com/s/WkCjMAsQ5gS80XrAGHkUzg)
+25. [《CSS 揭秘》实用技巧总结](https://mp.weixin.qq.com/s/DO8WApPu2sYCvlyz_TS6Hw)
+26. [让 CSS flex 布局最后一行列表左对齐的 N 种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/)
