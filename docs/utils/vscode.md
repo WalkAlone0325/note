@@ -340,3 +340,133 @@
   }
 }
 ```
+
+## 最新
+
+```json
+{
+  "workbench.colorTheme": "GitHub Dark Classic", // 主题
+  "workbench.iconTheme": "material-icon-theme", // 图标
+  "window.menuBarVisibility": "toggle",
+  "files.autoSave": "onWindowChange", // 窗口失焦自动保存
+  "files.eol": "\n", // vscode 编辑器使用 lf
+  // 字体缩进
+  "editor.formatOnPaste": true, // 格式化
+  "editor.formatOnType": true, // 键入一行后自动格式化该行
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Fira Code,Cascadia Code,JetBrains Mono,Source Code Pro,Consolas,Courier New, monospace",
+  "editor.fontLigatures": true, // 连体字
+  "editor.fontSize": 16,
+  "editor.letterSpacing": 0.6,
+  "editor.quickSuggestions": {
+    //开启自动显示建议
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.linkedEditing": true,
+  "editor.formatOnSave": true, // 在保存时格式化文件
+  // git命令行相关
+  "git.path": "D:/Tools/Git/cmd/git.exe",
+  "git.autofetch": true,
+  "gitlens.views.repositories.files.layout": "tree",
+  "terminal.integrated.tabs.enabled": true,
+  // "terminal.integrated.automationShell.windows": "D:/Tools/Git/bin/bash.exe",
+  "terminal.integrated.shell.windows": "D:/Tools/Git/bin/bash.exe",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 2,
+  "terminal.integrated.cursorBlinking": true,
+  // "terminal.integrated.shellArgs.windows": [
+  //   "-l",
+  //   "-i"
+  // ], // 加载.bash_profile文件
+  "explorer.confirmDelete": false, // 文件删除到废纸篓时进行确认
+  "svg.preview.mode": "svg",
+  "javascript.updateImportsOnFileMove.enabled": "always", // 始终自动更新路径
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": false, //让函数(名)和后面的括号之间加个空格
+  "explorer.confirmDragAndDrop": false, // 拖放移动文件或文件夹时不进行确认
+  "todo-tree.tree.showScanModeButton": false,
+  // eslint
+  "eslint.validate": ["javascript", "javascriptreact", "vue", "typescript", "typescriptreact"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.fixAll.stylelint": true
+  }, // 在保存时运行的代码操作类型
+  // prettier
+  "prettier.printWidth": 100, // 每行输入宽度
+  "prettier.semi": false, // 分号
+  "prettier.singleQuote": true, // 单引号
+  "prettier.quoteProps": "as-needed", // 对象的 key 仅在必要时用引号
+  "prettier.trailingComma": "all", // 尾随逗号
+  "prettier.bracketSpacing": true, // 大括号内的首尾需要空格
+  "prettier.jsxBracketSameLine": true, // jsx > 紧跟
+  "prettier.arrowParens": "avoid", // 箭头函数一个参数时的括号
+  "prettier.proseWrap": "preserve", // 使用默认的折行标准
+  "prettier.htmlWhitespaceSensitivity": "ignore", // 根据显示样式决定 html 要不要折行
+  "prettier.vueIndentScriptAndStyle": false, // vue 文件中的 script 和 style 内不用缩进
+  "prettier.endOfLine": "lf", // 换行符使用 lf
+  "prettier.embeddedLanguageFormatting": "auto", // 格式化嵌入的内容
+  "vetur.format.enable": false, // vetur 格式化
+  "typescript.preferences.quoteStyle": "single", // 用于快速修复的首选引用样式: single (单引号)
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+    // "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.js": "javascript" // 配置语言的文件关联
+  },
+  "remote.SSH.remotePlatform": {
+    "47.104.81.222": "linux"
+  },
+  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]"],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)"
+  // "path-intellisense.mappings": {
+  //     "@": "${workspaceRoot}/src"
+  // },
+  // "git.ignoreLegacyWarning": true, // 旧版git警告
+  // "sync.gist": "9686c6181ebf8bdd6a0f631ffe73ac1e", // 远程拷贝
+}
+// {
+//   "compilerOptions": {
+//     "target": "ES6",
+//     "module": "commonjs",
+//     "allowSyntheticDefaultImports": true,
+//     "baseUrl": "./",
+//     "paths": {
+//       "@/*": [
+//         "src/*"
+//       ]
+//     }
+//   },
+//   "exclude": [
+//     "node_modules"
+//   ]
+// }
+```
