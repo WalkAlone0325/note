@@ -17,3 +17,4 @@
 17. [分享 12 个 Webpack 中常用的 Loader](https://mp.weixin.qq.com/s/ugX3l5fIqpkROAh2RmBYoQ)
 18. [总结 18 个 webpack 插件，总会有你想要的！](https://mp.weixin.qq.com/s/Zl22Jht-EU2dj3mY6rvWsA)
 19. [手写一个 webpack，看看 AST 怎么用](https://mp.weixin.qq.com/s/RCYrKuN0E2wBHl5sGMCjUQ)
+20. [使用 Webpack5 创建 Vue3 + TS 项目](https://mp.weixin.qq.com/s/UD-HZh8aGyaw0nnvAGffXA)
