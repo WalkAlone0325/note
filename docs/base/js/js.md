@@ -65,3 +65,4 @@
 63. [字节跳动最爱考的 64 道算法题（JS 版）](https://mp.weixin.qq.com/s/HsZo757NDNV-3xnGQjPtAQ)
 64. [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/By-iXlONjSZLKFG2Xd7rpg)
 65. [90% 的前端都会使用 ES6 来简化代码，你都用过哪些？](https://mp.weixin.qq.com/s/X3GrjgGvvQVdr4Xv_XbqPw)
+66. [JavaScript 开发者需要了解的 15 个 DevTools 技巧](https://mp.weixin.qq.com/s/Aqw8zlZOv2eXiWlvZlB3WA)
