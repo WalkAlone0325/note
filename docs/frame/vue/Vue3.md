@@ -46,3 +46,4 @@
 46. [面试官：用 Vue3.0 写过组件吗？如果想实现一个 Modal 你会怎么设计](https://mp.weixin.qq.com/s/YI6wGYTNiKXkc045WAlhfw)
 47. [Vue3 文档【Vue2 迁移 Vue3】](https://mp.weixin.qq.com/s/iM0HtHLcSIfMwLNLKmTGAw)
 48. [Vue3 + TypeScript 复盘总结](https://mp.weixin.qq.com/s/S_MdSUdlflC9bs7KU4Fz-g)
+49. [一些你可能还不知事件技巧– Vue3 更新](https://mp.weixin.qq.com/s/gyY0zw5-P588-odLniNN6w)
