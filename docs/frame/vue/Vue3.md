@@ -47,3 +47,5 @@
 47. [Vue3 文档【Vue2 迁移 Vue3】](https://mp.weixin.qq.com/s/iM0HtHLcSIfMwLNLKmTGAw)
 48. [Vue3 + TypeScript 复盘总结](https://mp.weixin.qq.com/s/S_MdSUdlflC9bs7KU4Fz-g)
 49. [一些你可能还不知事件技巧– Vue3 更新](https://mp.weixin.qq.com/s/gyY0zw5-P588-odLniNN6w)
+50. [在 Vue 3 中使用 JSX](https://mp.weixin.qq.com/s/qyA2dsxirr8T6AcQLvBTNQ)
+51. [手写 Vue3 的响应式原理吗](https://mp.weixin.qq.com/s/Z8vN5b8oP1ezkcohdV9BDw)
