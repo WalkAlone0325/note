@@ -49,3 +49,5 @@
 49. [一些你可能还不知事件技巧– Vue3 更新](https://mp.weixin.qq.com/s/gyY0zw5-P588-odLniNN6w)
 50. [在 Vue 3 中使用 JSX](https://mp.weixin.qq.com/s/qyA2dsxirr8T6AcQLvBTNQ)
 51. [手写 Vue3 的响应式原理吗](https://mp.weixin.qq.com/s/Z8vN5b8oP1ezkcohdV9BDw)
+52. [可组合的 Vue](https://mp.weixin.qq.com/s/cIWJzbAwjOSJnHK4OsLtYg)
+53. [探索 Vue 3 中的 JSX](https://mp.weixin.qq.com/s/DQcZZKAn7gzFjX6UR7qqtg)
