@@ -51,3 +51,5 @@
 51. [手写 Vue3 的响应式原理吗](https://mp.weixin.qq.com/s/Z8vN5b8oP1ezkcohdV9BDw)
 52. [可组合的 Vue](https://mp.weixin.qq.com/s/cIWJzbAwjOSJnHK4OsLtYg)
 53. [探索 Vue 3 中的 JSX](https://mp.weixin.qq.com/s/DQcZZKAn7gzFjX6UR7qqtg)
+54. [来聊聊 Vue 中使用 Render 函数和 JSX](https://mp.weixin.qq.com/s/A9fFPxYRSwwr7mIky__Cxw)
+55. [7 个使 vue 开发如虎添翼的 VS Code 扩展](https://mp.weixin.qq.com/s/c1dEpuk3HEdIpZM2P8-oog)
