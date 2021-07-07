@@ -48,3 +48,5 @@
 48. [React 合集：深入理解 JSX](https://mp.weixin.qq.com/s/cC3o5jHgbLeqYN4jgI7Hag)
 49. [精读《DOM diff 原理详解》](https://mp.weixin.qq.com/s/KCX8xwY563qCAJqaK2H2EA)
 50. [React 深入 useEffect](https://mp.weixin.qq.com/s/FIAHW7naELwOQfd65nqfbA)
+51. [一名 Vue 程序员总结的 React 基础](https://mp.weixin.qq.com/s/X7XkSj5k9pY5tp_ctrjnvA)
+52. [React + TypeScript 实践](https://mp.weixin.qq.com/s/PRs9IsNeqS7JYILuOEEXIw)
