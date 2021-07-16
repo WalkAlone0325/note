@@ -19,3 +19,4 @@
 19. [手写一个 webpack，看看 AST 怎么用](https://mp.weixin.qq.com/s/RCYrKuN0E2wBHl5sGMCjUQ)
 20. [使用 Webpack5 创建 Vue3 + TS 项目](https://mp.weixin.qq.com/s/UD-HZh8aGyaw0nnvAGffXA)
 21. [Webpack5 新特性业务落地实战](https://mp.weixin.qq.com/s/lXFcireMhCiCMTNZBHxZ7g)
+22. [Webpack5 搭建 Vue3 + TS 项目](https://mp.weixin.qq.com/s/eR-Rn1RKXZ8frz0RSZ87Ww)

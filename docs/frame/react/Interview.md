@@ -51,3 +51,5 @@
 51. [一名 Vue 程序员总结的 React 基础](https://mp.weixin.qq.com/s/X7XkSj5k9pY5tp_ctrjnvA)
 52. [React + TypeScript 实践](https://mp.weixin.qq.com/s/PRs9IsNeqS7JYILuOEEXIw)
 53. [换个角度思考 React Hooks](https://mp.weixin.qq.com/s/jiG7J_TfoTkyWp4e-1f9Kw)
+54. [你不知道的 React Virtual DOM](https://mp.weixin.qq.com/s/ixouNzFB-E54_4GTngCBuQ)
+55. [React 18 批量更新减少渲染次数](https://mp.weixin.qq.com/s/pd64iWBSeYJE2b_rrR5DiQ)
