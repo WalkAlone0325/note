@@ -53,3 +53,4 @@
 53. [换个角度思考 React Hooks](https://mp.weixin.qq.com/s/jiG7J_TfoTkyWp4e-1f9Kw)
 54. [你不知道的 React Virtual DOM](https://mp.weixin.qq.com/s/ixouNzFB-E54_4GTngCBuQ)
 55. [React 18 批量更新减少渲染次数](https://mp.weixin.qq.com/s/pd64iWBSeYJE2b_rrR5DiQ)
+56. [Vite + React + Typescript 构建实战](https://mp.weixin.qq.com/s/eXHUnwCuuVQsyOsts2Aahw)
