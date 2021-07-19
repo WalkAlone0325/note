@@ -67,3 +67,5 @@
 65. [90% 的前端都会使用 ES6 来简化代码，你都用过哪些？](https://mp.weixin.qq.com/s/X3GrjgGvvQVdr4Xv_XbqPw)
 66. [JavaScript 开发者需要了解的 15 个 DevTools 技巧](https://mp.weixin.qq.com/s/Aqw8zlZOv2eXiWlvZlB3WA)
 67. [你会用到的 15 个前端小知识](https://mp.weixin.qq.com/s/q0g2hLklPzdan1qOrW4q2A)
+68. [15 个书写 JavaScript 代码的整洁之道](https://mp.weixin.qq.com/s/0sV11QKutiApVwYWrIsOsQ)
+69. [49 个常用 JavaScript 方法封装](https://mp.weixin.qq.com/s/VvyTEhPlSbuQWIrIjoCWEA)
