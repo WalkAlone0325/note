@@ -57,3 +57,4 @@
 57. [一步一步实现 Vue 3 Reactivity](https://mp.weixin.qq.com/s/X13OevWClrErh_NZ6MvgPw)
 58. [Composition API 详解](https://mp.weixin.qq.com/s/_D8HkCDgWgCYnvUYkELMuA)
 59. [来吧，解锁 vue3 全家桶+Ts 的正确姿势](https://mp.weixin.qq.com/s/9JbH3nVEY0NZ-406RWdttQ)
+60. [Vue3 源码解析 — 数据监听篇](https://mp.weixin.qq.com/s/lI3r-pTP1f-Fh3S4RSG_vA)
