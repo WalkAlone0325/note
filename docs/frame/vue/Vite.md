@@ -9,3 +9,4 @@
 5. [当我们谈论 vite 时，我们在谈论什么](https://mp.weixin.qq.com/s/ZsXoXoPGl0ELrpu-pNOoaQ)
 6. [一杯茶的时间，上手 Koa2 + MySQL 开发](https://mp.weixin.qq.com/s/-89DJuqLwyjQt1HjW6ED3g)
 7. [Vite + React + Typescript 构建实战](https://mp.weixin.qq.com/s/eXHUnwCuuVQsyOsts2Aahw)
+8. [Vite 2.x 源码级分析](https://mp.weixin.qq.com/s/XHz-2OG7W2cg23fMTkaaZQ)
