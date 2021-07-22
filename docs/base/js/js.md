@@ -69,3 +69,4 @@
 67. [你会用到的 15 个前端小知识](https://mp.weixin.qq.com/s/q0g2hLklPzdan1qOrW4q2A)
 68. [15 个书写 JavaScript 代码的整洁之道](https://mp.weixin.qq.com/s/0sV11QKutiApVwYWrIsOsQ)
 69. [49 个常用 JavaScript 方法封装](https://mp.weixin.qq.com/s/VvyTEhPlSbuQWIrIjoCWEA)
+70. [前端常用的 59 个工具类](https://mp.weixin.qq.com/s/_kW-F6D1GqadvI1L_itypA)
