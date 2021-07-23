@@ -10,3 +10,5 @@
 6. [一杯茶的时间，上手 Koa2 + MySQL 开发](https://mp.weixin.qq.com/s/-89DJuqLwyjQt1HjW6ED3g)
 7. [Vite + React + Typescript 构建实战](https://mp.weixin.qq.com/s/eXHUnwCuuVQsyOsts2Aahw)
 8. [Vite 2.x 源码级分析](https://mp.weixin.qq.com/s/XHz-2OG7W2cg23fMTkaaZQ)
+9. [vite —— 一种新的、更快地 web 开发工具](https://mp.weixin.qq.com/s/Rx_TKEMTBua8uz_mp5fqmQ)
+10. [vite2.0+vue3 移动端项目实战](https://mp.weixin.qq.com/s/lEBHGDcumt9JkITfMxOZyg)
