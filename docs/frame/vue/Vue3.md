@@ -59,3 +59,6 @@
 59. [来吧，解锁 vue3 全家桶+Ts 的正确姿势](https://mp.weixin.qq.com/s/9JbH3nVEY0NZ-406RWdttQ)
 60. [Vue3 源码解析 — 数据监听篇](https://mp.weixin.qq.com/s/lI3r-pTP1f-Fh3S4RSG_vA)
 61. [手把手撸一个 Vue3 + Ts + ElementPlus 后台管理模板](https://mp.weixin.qq.com/s/9B6YLjdMDt6zZ7DmmQKUvg)
+62. [Vue3 糟糕透顶 Api——Reactivity](https://mp.weixin.qq.com/s/_zOh_RZhgpYpsl4AHXtZpQ)
+63. [5 个可以加速开发的 VueUse 库函数](https://mp.weixin.qq.com/s/-DlDw7bEaNVp07kLIa7TlQ)
+64. [vite+Vue3+ts 搭建通用后台管理系统](https://mp.weixin.qq.com/s/byoTnPfhgw-l4FWfPTNI6w)
