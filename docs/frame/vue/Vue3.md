@@ -62,3 +62,5 @@
 62. [Vue3 糟糕透顶 Api——Reactivity](https://mp.weixin.qq.com/s/_zOh_RZhgpYpsl4AHXtZpQ)
 63. [5 个可以加速开发的 VueUse 库函数](https://mp.weixin.qq.com/s/-DlDw7bEaNVp07kLIa7TlQ)
 64. [vite+Vue3+ts 搭建通用后台管理系统](https://mp.weixin.qq.com/s/byoTnPfhgw-l4FWfPTNI6w)
+65. [在 Vue3 项目中拥抱 TypeScript 的正确姿势](https://mp.weixin.qq.com/s/o4FVkbDEpN6ITaxbNsloog)
+66. [细说 Vue.js 3.2 关于响应式部分的优化](https://mp.weixin.qq.com/s/V-Yqv00hZvhlHVO9eHcrhw)
