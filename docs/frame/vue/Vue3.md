@@ -64,3 +64,4 @@
 64. [vite+Vue3+ts 搭建通用后台管理系统](https://mp.weixin.qq.com/s/byoTnPfhgw-l4FWfPTNI6w)
 65. [在 Vue3 项目中拥抱 TypeScript 的正确姿势](https://mp.weixin.qq.com/s/o4FVkbDEpN6ITaxbNsloog)
 66. [细说 Vue.js 3.2 关于响应式部分的优化](https://mp.weixin.qq.com/s/V-Yqv00hZvhlHVO9eHcrhw)
+67. [Vue2 与 Vue3 组件通信方式总结](https://mp.weixin.qq.com/s/aJRC3YmmWwlcEZccYFIr2g)
