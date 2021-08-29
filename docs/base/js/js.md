@@ -71,3 +71,4 @@
 69. [49 个常用 JavaScript 方法封装](https://mp.weixin.qq.com/s/VvyTEhPlSbuQWIrIjoCWEA)
 70. [前端常用的 59 个工具类](https://mp.weixin.qq.com/s/_kW-F6D1GqadvI1L_itypA)
 71. [TypeScript- TS 中的函数类型](https://mp.weixin.qq.com/s/ZlW4ohpaRPdW6wW1zUdGYQ)
+72. [TypeScript 高级类型入门手册](https://mp.weixin.qq.com/s/LcGEGSLVxvOIXO25QzINdw)

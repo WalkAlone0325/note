@@ -20,3 +20,6 @@
 20. [使用 Webpack5 创建 Vue3 + TS 项目](https://mp.weixin.qq.com/s/UD-HZh8aGyaw0nnvAGffXA)
 21. [Webpack5 新特性业务落地实战](https://mp.weixin.qq.com/s/lXFcireMhCiCMTNZBHxZ7g)
 22. [Webpack5 搭建 Vue3 + TS 项目](https://mp.weixin.qq.com/s/eR-Rn1RKXZ8frz0RSZ87Ww)
+23. [学习 Webpack5 之路（基础篇）](https://mp.weixin.qq.com/s/OCjf0LKSs4Qf2moYlyHQvw)
+24. [学习 Webpack5 之路（实践篇）](https://mp.weixin.qq.com/s/QgwyUAlL1p82zVdhEyZDfQ)
+25. [学习 Webpack5 之路（优化篇）](https://mp.weixin.qq.com/s/uAMN-b6I47b_kZAUOw9hoA)
