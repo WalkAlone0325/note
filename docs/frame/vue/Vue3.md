@@ -65,3 +65,5 @@
 65. [在 Vue3 项目中拥抱 TypeScript 的正确姿势](https://mp.weixin.qq.com/s/o4FVkbDEpN6ITaxbNsloog)
 66. [细说 Vue.js 3.2 关于响应式部分的优化](https://mp.weixin.qq.com/s/V-Yqv00hZvhlHVO9eHcrhw)
 67. [Vue2 与 Vue3 组件通信方式总结](https://mp.weixin.qq.com/s/aJRC3YmmWwlcEZccYFIr2g)
+68. [再聊 Vue.js 3.2 关于 vnode 部分的优化](https://mp.weixin.qq.com/s/z2ZCUFfFzp3c1ly4IQrrMA)
+69. [​大概几集下饭剧时间就能懂的VUE3原理](https://mp.weixin.qq.com/s/fsyqkj5FhjHxzMLw9MgjZQ)
