@@ -72,3 +72,6 @@
 70. [前端常用的 59 个工具类](https://mp.weixin.qq.com/s/_kW-F6D1GqadvI1L_itypA)
 71. [TypeScript- TS 中的函数类型](https://mp.weixin.qq.com/s/ZlW4ohpaRPdW6wW1zUdGYQ)
 72. [TypeScript 高级类型入门手册](https://mp.weixin.qq.com/s/LcGEGSLVxvOIXO25QzINdw)
+73. [彻底搞懂 Jest 单元测试框架](https://mp.weixin.qq.com/s/az-qAkIca7jl4GqUp1Relw)
+74. [教你写出最惊艳的 Markdown 高级用法](https://mp.weixin.qq.com/s/AFhm61AicqMmiABjxiQH8A)
+75. [推荐几个不错的字符串处理库](https://mp.weixin.qq.com/s/0pUNtyU2HOdXvVhialNvXQ)
