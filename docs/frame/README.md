@@ -16,6 +16,14 @@
 2. [2020 前端性能优化清单（二）](https://mp.weixin.qq.com/s/7NJv21Dz7eGFFt-c3qitWw)
 3. [2020 前端性能优化清单（三）](https://mp.weixin.qq.com/s/vJsDn7jc9MBR-DbW_BGDDA)
 
+## git
+
+1. [git commit 规范和如何在 commit 里使用 emoji](https://mp.weixin.qq.com/s/EYjuN4S-F1XwaMHGgnVvtQ)
+
+## 格式化
+
+1. [Prettier 完全指南，以及和 Git、VSCode、ESLint 整合，让你的代码变美丽](https://mp.weixin.qq.com/s/2QXEeOr6JXQ7B5pyuKbHyw)
+
 ## 涵盖
 
 1. React
