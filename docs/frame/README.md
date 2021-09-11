@@ -24,6 +24,10 @@
 
 1. [Prettier 完全指南，以及和 Git、VSCode、ESLint 整合，让你的代码变美丽](https://mp.weixin.qq.com/s/2QXEeOr6JXQ7B5pyuKbHyw)
 
+## MySQL
+
+1. [MySQL 从入门到实践，万字详解！](https://mp.weixin.qq.com/s/JWU3yOxZnZRuMUpDP46dCQ)
+
 ## 涵盖
 
 1. React
