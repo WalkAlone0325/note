@@ -14,3 +14,4 @@
 10. [vite2.0+vue3 移动端项目实战](https://mp.weixin.qq.com/s/lEBHGDcumt9JkITfMxOZyg)
 11. [通过 Vite 的 create-app 学习如何实现一个简易版 CLI](https://mp.weixin.qq.com/s/w8-4eE89tH1c5pyd8FY0Kw)
 12. [下一代前端构建工具 - Vite 2.x 源码级分析](https://mp.weixin.qq.com/s/XHz-2OG7W2cg23fMTkaaZQ)
+13. [前端“新秀”Vite 构建实战](https://mp.weixin.qq.com/s/Kbck0V9EXPo0zJtS3j1rUQ)
