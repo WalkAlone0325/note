@@ -75,3 +75,4 @@
 73. [彻底搞懂 Jest 单元测试框架](https://mp.weixin.qq.com/s/az-qAkIca7jl4GqUp1Relw)
 74. [教你写出最惊艳的 Markdown 高级用法](https://mp.weixin.qq.com/s/AFhm61AicqMmiABjxiQH8A)
 75. [推荐几个不错的字符串处理库](https://mp.weixin.qq.com/s/0pUNtyU2HOdXvVhialNvXQ)
+76. [细数我们日常开发中那些常用的 Object 操作方法](https://mp.weixin.qq.com/s/fVqoPMwPhkbbhGTjBQVxhQ)
