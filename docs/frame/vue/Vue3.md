@@ -68,3 +68,5 @@
 68. [再聊 Vue.js 3.2 关于 vnode 部分的优化](https://mp.weixin.qq.com/s/z2ZCUFfFzp3c1ly4IQrrMA)
 69. [​ 大概几集下饭剧时间就能懂的 VUE3 原理](https://mp.weixin.qq.com/s/fsyqkj5FhjHxzMLw9MgjZQ)
 70. [从零开始撸一个 Vue3.0 组件库](https://mp.weixin.qq.com/s/nzGtozyGjuCl_fz5g1zi8w)
+71. [基于 Vue3 和 TypeScript 项目大量实践后的思考](https://mp.weixin.qq.com/s/aLRx6IepC0kIlV3VPvXA2A)
+72. [做好这 16 个方向，逐步搭建出团队的 vue3 前端架构](https://mp.weixin.qq.com/s/oXnfm4nXYgwYmns3xR0rRw)
