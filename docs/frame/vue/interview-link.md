@@ -109,3 +109,4 @@
 109. [Node.js + Vue 实现 Excel 导出与保存](https://mp.weixin.qq.com/s/VgeT5xSjbVGraSoqwsrzIw)
 110. [一份 ElementUI 问题清单](https://mp.weixin.qq.com/s/Wjlo4RObwDGUKXxZ0DTv7w)
 111. [8 张脑图快速了解 Vue 组件](https://mp.weixin.qq.com/s/Iht1CFhOP90iVpWS5ZHOJw)
+112. [关于 Vue 项目打包部署知识点总结](https://mp.weixin.qq.com/s/SLpxrBabIQGvzyfGKWQ0EQ)
