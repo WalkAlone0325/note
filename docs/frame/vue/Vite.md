@@ -19,3 +19,4 @@
 15. [Vue 发布新版脚手架工具，300 行代码轻盈新生！](https://mp.weixin.qq.com/s/Yacb4TlHvtKeLJf9-q4PRA)
 16. [@vue/composition-api 与 Vue3 的前生今世](https://mp.weixin.qq.com/s/HGS5_EViY42OtuM4qr49tw)
 17. [vue-cli 将被 create-vue 替代？初始化基于 vite 的 vue3 项目为何如此简单？](https://mp.weixin.qq.com/s/e6jW9VZ1X8_ErzMRazLceA)
+18. [三分钟实现 Vite + Vue3多入口项目开发](https://juejin.cn/post/7017636195567927333?share_token=99119f91-f067-44a1-83a1-840972bde4be)
