@@ -70,3 +70,4 @@
 70. [从零开始撸一个 Vue3.0 组件库](https://mp.weixin.qq.com/s/nzGtozyGjuCl_fz5g1zi8w)
 71. [基于 Vue3 和 TypeScript 项目大量实践后的思考](https://mp.weixin.qq.com/s/aLRx6IepC0kIlV3VPvXA2A)
 72. [做好这 16 个方向，逐步搭建出团队的 vue3 前端架构](https://mp.weixin.qq.com/s/oXnfm4nXYgwYmns3xR0rRw)
+73. [基于 Vue3 和 TS4 项目大量实践后的总结](https://mp.weixin.qq.com/s/5tWOqRHUhhkGntvu6JzJNA)
