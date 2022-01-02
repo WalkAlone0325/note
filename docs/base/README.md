@@ -27,3 +27,7 @@
 21. [21 道关于性能优化的面试题(附答案)](https://mp.weixin.qq.com/s/865N_bQ1IxE5mkmvkLEsWQ)
 
 :tada: :100: :bamboo: :gift_heart: :fire:
+
+1. [【前端 MOCK 数据】这么好的工具为啥不用啊？](https://mp.weixin.qq.com/s/RJ32EUb6Tj3GAv8eioi3nA)
+2. [使用 Docker Compose、Nginx、SSH 和 Github Actions 实现前端自动化部署测试机](https://mp.weixin.qq.com/s/jECtvNKMoYcO1O_73UlSng)
+3. [基于 Vite 的组件文档编写神器](https://mp.weixin.qq.com/s/aUbmFsx5bxeyf78XqSWJ7g)
