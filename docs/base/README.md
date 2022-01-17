@@ -33,3 +33,4 @@
 3. [基于 Vite 的组件文档编写神器](https://mp.weixin.qq.com/s/aUbmFsx5bxeyf78XqSWJ7g)
 4. [前端架构师神技，三招统一团队代码风格](https://mp.weixin.qq.com/s/Y2n453r1-nGdhkSe0V8dSA)
 5. [基于 pnpm + lerna + typescript 的最佳项目实践 - 理论篇](https://mp.weixin.qq.com/s/qZuJpCJeCoG7JhjyJhSkCw)
+6. [统一路由、菜单、面包屑和权限配置](https://mp.weixin.qq.com/s/wYpX9eLRR0WWHwbD_XHxBw)
