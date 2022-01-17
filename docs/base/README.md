@@ -31,3 +31,5 @@
 1. [【前端 MOCK 数据】这么好的工具为啥不用啊？](https://mp.weixin.qq.com/s/RJ32EUb6Tj3GAv8eioi3nA)
 2. [使用 Docker Compose、Nginx、SSH 和 Github Actions 实现前端自动化部署测试机](https://mp.weixin.qq.com/s/jECtvNKMoYcO1O_73UlSng)
 3. [基于 Vite 的组件文档编写神器](https://mp.weixin.qq.com/s/aUbmFsx5bxeyf78XqSWJ7g)
+4. [前端架构师神技，三招统一团队代码风格](https://mp.weixin.qq.com/s/Y2n453r1-nGdhkSe0V8dSA)
+5. [基于 pnpm + lerna + typescript 的最佳项目实践 - 理论篇](https://mp.weixin.qq.com/s/qZuJpCJeCoG7JhjyJhSkCw)
