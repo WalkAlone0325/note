@@ -72,3 +72,4 @@
 72. [做好这 16 个方向，逐步搭建出团队的 vue3 前端架构](https://mp.weixin.qq.com/s/oXnfm4nXYgwYmns3xR0rRw)
 73. [基于 Vue3 和 TS4 项目大量实践后的总结](https://mp.weixin.qq.com/s/5tWOqRHUhhkGntvu6JzJNA)
 74. [如何做到修改 node_module 中的包，却不受重新安装的影响](https://mp.weixin.qq.com/s/oOXssGmNA6vYLJhv7oQq5g)
+75. [Vue3 <script setup lang="ts"> 使用指南](https://mp.weixin.qq.com/s/Mvc16II45cr4LwBNQSBPOg)
