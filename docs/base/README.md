@@ -36,3 +36,4 @@
 6. [统一路由、菜单、面包屑和权限配置](https://mp.weixin.qq.com/s/wYpX9eLRR0WWHwbD_XHxBw)
 7. [六千字详解！讲透 Vue3 响应式是如何实现的](https://mp.weixin.qq.com/s/j-ttHkcOboT_M1byNU_YVw)
 8. [Vue3 <script setup lang="ts"> 使用指南](https://mp.weixin.qq.com/s/Mvc16II45cr4LwBNQSBPOg)
+9. [一个参数验证，学会 Nest.js 的两大机制：Pipe、ExceptionFilter](https://mp.weixin.qq.com/s/MvYESCdTGnfegUn9WuSowA)
