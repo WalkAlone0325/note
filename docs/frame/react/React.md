@@ -4,3 +4,4 @@
 4. [50 天用 react.js 重写 50 个 web 项目，我学到了什么？](https://mp.weixin.qq.com/s/ob6A1KzMBFQvnXeNHEKxug)
 5. [之前写的 JSX 的条件语句竟然存在那么多 Bug？](https://mp.weixin.qq.com/s/C11ZEW08tqLDYNrNk3Mefg)
 6. [基于 pnpm + lerna + typescript 的最佳项目实践 - 理论篇](https://mp.weixin.qq.com/s/qZuJpCJeCoG7JhjyJhSkCw)
+7. [重点：React 模式（中文版）](https://reactpatterns.cn/)
