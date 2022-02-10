@@ -74,3 +74,4 @@
 74. [如何做到修改 node_module 中的包，却不受重新安装的影响](https://mp.weixin.qq.com/s/oOXssGmNA6vYLJhv7oQq5g)
 75. [Vue3 <script setup lang="ts"> 使用指南](https://mp.weixin.qq.com/s/Mvc16II45cr4LwBNQSBPOg)
 76. [3k 字，从 0 开始了解 16 个 Vue 指令到手动封装自定义指令](https://mp.weixin.qq.com/s/IXtsqY1t72liZ7rDIbyaIQ)
+77. [梳理 Vue3 相比于 Vue2 的有哪些 “与众不同” ？](https://mp.weixin.qq.com/s/PdG6YYi4_QkUXA0PC_I5JQ)
