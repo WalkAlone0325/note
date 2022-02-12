@@ -21,3 +21,4 @@
 17. [vue-cli 将被 create-vue 替代？初始化基于 vite 的 vue3 项目为何如此简单？](https://mp.weixin.qq.com/s/e6jW9VZ1X8_ErzMRazLceA)
 18. [三分钟实现 Vite + Vue3 多入口项目开发](https://juejin.cn/post/7017636195567927333?share_token=99119f91-f067-44a1-83a1-840972bde4be)
 19. [做好这 16 个方向，逐步搭建出团队的 vue3 前端架构](https://mp.weixin.qq.com/s/9_CLYyhxGCw5MCUSAEE5Sw)
+20. [基于 vite 的组件文档编写神器，又快又省心](https://mp.weixin.qq.com/s/3YWg226icxoEEh223pmbFw)
