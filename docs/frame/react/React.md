@@ -5,3 +5,6 @@
 5. [之前写的 JSX 的条件语句竟然存在那么多 Bug？](https://mp.weixin.qq.com/s/C11ZEW08tqLDYNrNk3Mefg)
 6. [基于 pnpm + lerna + typescript 的最佳项目实践 - 理论篇](https://mp.weixin.qq.com/s/qZuJpCJeCoG7JhjyJhSkCw)
 7. [重点：React 模式（中文版）](https://reactpatterns.cn/)
+8. [jekins+docker 构建部署 react 项目实战](https://mp.weixin.qq.com/s/3v8L3-hyXFO3nJ-Pfy4_yg)
+9. [使用 React hooks 监听系统的暗黑模式](https://mp.weixin.qq.com/s/2T4oA2HHZTn9lBWQZqKxZQ)
+10. [面试必考之 React 合成事件原理[视频+源码解析]](https://mp.weixin.qq.com/s/A1oV--p5NpiKjtdFv9ODBQ)
