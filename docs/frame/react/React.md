@@ -10,3 +10,4 @@
 10. [面试必考之 React 合成事件原理[视频+源码解析]](https://mp.weixin.qq.com/s/A1oV--p5NpiKjtdFv9ODBQ)
 11. [详解虚拟 DOM 与 Diff 算法](https://mp.weixin.qq.com/s/52tqVq9FxeHGbE-WDd6hKw)
 12. [GitLab CI 从入门到实践](https://mp.weixin.qq.com/s/FiQeW0fUNmWZecEZ8iOmAw)
+13. [手写 Promise 全部 API 教程](https://mp.weixin.qq.com/s/DAEkSjKE8ykaBWhBAaYkQg)
