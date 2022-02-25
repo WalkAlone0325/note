@@ -75,3 +75,4 @@
 75. [Vue3 <script setup lang="ts"> 使用指南](https://mp.weixin.qq.com/s/Mvc16II45cr4LwBNQSBPOg)
 76. [3k 字，从 0 开始了解 16 个 Vue 指令到手动封装自定义指令](https://mp.weixin.qq.com/s/IXtsqY1t72liZ7rDIbyaIQ)
 77. [梳理 Vue3 相比于 Vue2 的有哪些 “与众不同” ？](https://mp.weixin.qq.com/s/PdG6YYi4_QkUXA0PC_I5JQ)
+78. [Vue 组件递归——组件化开发的必备技能！](https://mp.weixin.qq.com/s/6cVW03HrjpVt0fY6D2rqNQ)
