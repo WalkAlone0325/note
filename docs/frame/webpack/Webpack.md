@@ -24,3 +24,4 @@
 24. [学习 Webpack5 之路（实践篇）](https://mp.weixin.qq.com/s/QgwyUAlL1p82zVdhEyZDfQ)
 25. [学习 Webpack5 之路（优化篇）](https://mp.weixin.qq.com/s/uAMN-b6I47b_kZAUOw9hoA)
 26. [Webapck5 核心打包原理全流程解析，看这一篇就够了](https://mp.weixin.qq.com/s/e2wbtkfg1yh_yBQCK_KcCg)
+27. [前端组件/库打包利器 rollup 使用与配置实战](https://mp.weixin.qq.com/s/ba1XxnsvqnDgjAL0IaOY-w)
