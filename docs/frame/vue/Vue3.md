@@ -77,3 +77,4 @@
 77. [梳理 Vue3 相比于 Vue2 的有哪些 “与众不同” ？](https://mp.weixin.qq.com/s/PdG6YYi4_QkUXA0PC_I5JQ)
 78. [Vue 组件递归——组件化开发的必备技能！](https://mp.weixin.qq.com/s/6cVW03HrjpVt0fY6D2rqNQ)
 79. [Vue3！ElementPlus！更加优雅的使用 Icon](https://mp.weixin.qq.com/s/6bXFQssq_R0xCxB4AlsKyw)
+80. [面试官：如何中断已发出去的请求？](https://mp.weixin.qq.com/s/OvipsKTx1786wqrc7bEObg)
