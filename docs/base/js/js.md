@@ -81,3 +81,4 @@
 79. [基于 Nest.js+TypeORM 实战，项目已开源，推荐！](https://mp.weixin.qq.com/s/V54XLHnXenTZLsVCYBM92A)
 80. [你真的懂 JavaScript 闭包与高阶函数吗？](https://mp.weixin.qq.com/s/_-gW-1yxLHxfxeymCVFLlQ)
 81. [听说你还在用 rem 做移动端适配？](https://mp.weixin.qq.com/s/QIQKrSh62AjJHbZCRgDSiQ)
+82. [Nest.js 是如何实现 AOP 架构的？](https://mp.weixin.qq.com/s/fs7EPC8lzOABHhj3ayS0Jw)
