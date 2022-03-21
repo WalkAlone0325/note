@@ -81,3 +81,4 @@
 81. [我把 Vue3 项目中的 Vuex 去除了，改用 Pinia](https://mp.weixin.qq.com/s/FpI3H8RFKqVMKNS-iDYDFw)
 82. [虚拟列表：你有勇气就给我 10 万，我就有本事展示给你看](https://mp.weixin.qq.com/s/Yv0maL17UxkbE_7h97-7tQ)
 83. [都 2022 年了,你总不能还只会 npm i 吧?](https://mp.weixin.qq.com/s/1XRE2bLYtkaDheyq4M1dVQ)
+84. [【第 2563 期】Vue 响应式原理剖析 —— 从实例化、渲染到数据更新（下）](https://mp.weixin.qq.com/s/AtS3M9LZNtcp2_jvdgOVYQ)
