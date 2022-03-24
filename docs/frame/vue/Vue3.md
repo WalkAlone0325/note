@@ -83,3 +83,4 @@
 83. [都 2022 年了,你总不能还只会 npm i 吧?](https://mp.weixin.qq.com/s/1XRE2bLYtkaDheyq4M1dVQ)
 84. [【第 2563 期】Vue 响应式原理剖析 —— 从实例化、渲染到数据更新（下）](https://mp.weixin.qq.com/s/AtS3M9LZNtcp2_jvdgOVYQ)
 85. [Node.js 动态表格大文件下载实践](https://mp.weixin.qq.com/s/iXhcaW0OOiP2WAPDWP9zlw)
+86. [手摸手教你封装几个 Vue3 中很有用的组合式 API](https://mp.weixin.qq.com/s/vRDZvGbBsBQDcWBXuGWkSA)
