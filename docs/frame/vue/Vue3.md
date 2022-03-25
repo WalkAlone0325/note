@@ -84,3 +84,4 @@
 84. [【第 2563 期】Vue 响应式原理剖析 —— 从实例化、渲染到数据更新（下）](https://mp.weixin.qq.com/s/AtS3M9LZNtcp2_jvdgOVYQ)
 85. [Node.js 动态表格大文件下载实践](https://mp.weixin.qq.com/s/iXhcaW0OOiP2WAPDWP9zlw)
 86. [手摸手教你封装几个 Vue3 中很有用的组合式 API](https://mp.weixin.qq.com/s/vRDZvGbBsBQDcWBXuGWkSA)
+87. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/41JQTZs6J2WlLq-y-JinSg)
