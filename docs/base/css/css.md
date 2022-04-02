@@ -30,3 +30,4 @@
 28. [CSS 垂直居中的正确打开方式](https://mp.weixin.qq.com/s/68CXAR8F5CCkTD5Xyg4oHQ)
 29. [响应式布局，你需要知道的一切](https://mp.weixin.qq.com/s/Mrg1m7cyw9lzdQxkMA9k2w)
 30. [我是如何让公司后台管理系统焕然一新的](https://mp.weixin.qq.com/s/6Ziy-US2m6ynxUPxvAzvOw)
+31. [Three.js 实现 3D 开放世界小游戏：阿狸的多元宇宙](https://mp.weixin.qq.com/s/TgXJNPWPHxAZT1Z8-zT_Ag)
