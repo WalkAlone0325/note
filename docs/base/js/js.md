@@ -83,3 +83,4 @@
 81. [听说你还在用 rem 做移动端适配？](https://mp.weixin.qq.com/s/QIQKrSh62AjJHbZCRgDSiQ)
 82. [Nest.js 是如何实现 AOP 架构的？](https://mp.weixin.qq.com/s/fs7EPC8lzOABHhj3ayS0Jw)
 83. [Websocket 被玩出了多种花样！](https://mp.weixin.qq.com/s/L-0Npn-4z8RlEQZcZKvjeA)
+84. [TypeScript 泛型中的 K、T、V 等到底是个啥](https://mp.weixin.qq.com/s/d5XUpAA_hG4TL8sBTCPlog)
