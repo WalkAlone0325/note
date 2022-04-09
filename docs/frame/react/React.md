@@ -13,3 +13,4 @@
 13. [手写 Promise 全部 API 教程](https://mp.weixin.qq.com/s/DAEkSjKE8ykaBWhBAaYkQg)
 14. [React-router v6 该怎么用？](https://mp.weixin.qq.com/s/asIhw2wAkjO_Xs4YrVXh-w)
 15. [React 状态管理 - useState/useReducer + useContext 实现全局状态管理](https://mp.weixin.qq.com/s/7mt13uwS4EmguMGTrmbICw)
+16. [MobX 实现原理揭秘](https://mp.weixin.qq.com/s/KnlRBGr0iS2BBrsVB4oUsw)
