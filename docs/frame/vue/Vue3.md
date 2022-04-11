@@ -85,3 +85,4 @@
 85. [Node.js 动态表格大文件下载实践](https://mp.weixin.qq.com/s/iXhcaW0OOiP2WAPDWP9zlw)
 86. [手摸手教你封装几个 Vue3 中很有用的组合式 API](https://mp.weixin.qq.com/s/vRDZvGbBsBQDcWBXuGWkSA)
 87. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/41JQTZs6J2WlLq-y-JinSg)
+88. [用 Vue3 全家桶开发了几个项目，分享 15 个避坑经验](https://mp.weixin.qq.com/s/8DPaBEbaXhuduOrmg5UPzQ)
