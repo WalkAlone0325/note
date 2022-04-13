@@ -87,3 +87,4 @@
 87. [Vue.js 组件复用和扩展之道](https://mp.weixin.qq.com/s/41JQTZs6J2WlLq-y-JinSg)
 88. [用 Vue3 全家桶开发了几个项目，分享 15 个避坑经验](https://mp.weixin.qq.com/s/8DPaBEbaXhuduOrmg5UPzQ)
 89. [教你一步步搭建 vue3 前端架构](https://mp.weixin.qq.com/s/nxlz6_hxGb2_Hify9cQW0Q)
+90. [你不知道的 setup](https://mp.weixin.qq.com/s/kSNweTAyj5Ud51lA8xx4Pw)
