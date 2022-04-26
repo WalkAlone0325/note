@@ -18,3 +18,4 @@
 18. [React 18 全览](https://mp.weixin.qq.com/s/85eqJOUa7-NSxVokd4fuNg)
 19. [React Hooks 初学者指南](https://mp.weixin.qq.com/s/BRt7YnG3PofTDGjQ5MlE3A)
 20. [React 绝地反杀之万字长文彻底搞懂渲染更新流程](https://mp.weixin.qq.com/s/BEpiqOmH3SXXuZdVN1fudg)
+21. [MobX 的实现原理是？](https://mp.weixin.qq.com/s/zWp-qSVeOjzHKiOYLi2s0g)
