@@ -33,3 +33,4 @@
 31. [Three.js 实现 3D 开放世界小游戏：阿狸的多元宇宙](https://mp.weixin.qq.com/s/TgXJNPWPHxAZT1Z8-zT_Ag)
 32. [秒啊！答好这 5 个问题，就入门 Docker 了](https://mp.weixin.qq.com/s/P74IVf1lOoT4n5UJNm2Bfg)
 33. [CSS 自定义属性与前端页面的主题切换](https://mp.weixin.qq.com/s/xAOda1qe9EoeHy-ygxJ2jg`)
+34. [SCSS 中这些技巧，你可能还不知道！](https://mp.weixin.qq.com/s/OEtv_F4hMFKqujAhWy3mfg)
