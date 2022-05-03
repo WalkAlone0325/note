@@ -93,3 +93,4 @@
 93. [一文搞懂 Vue3.0 为什么采用 Proxy](https://mp.weixin.qq.com/s/CBzacJZwmEH9rTNwFqJI9A)
 94. [基于 Apify+node+react/vue 搭建一个有点意思的爬虫平台](https://mp.weixin.qq.com/s/SiBF0xAb4lB-K4p4qsbwRA)
 95. [vue 项目你一定会用到的性能优化！](https://mp.weixin.qq.com/s/QEEU0yU9jm4hBaQxA_uHiw)
+96. [『一起读书』Vue.js 设计与实现 18-KeepAlive 的原理与实现](https://mp.weixin.qq.com/s/o7z03iQHwDolVQfPZ2b5kQ)
