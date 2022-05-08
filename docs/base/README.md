@@ -37,3 +37,4 @@
 7. [六千字详解！讲透 Vue3 响应式是如何实现的](https://mp.weixin.qq.com/s/j-ttHkcOboT_M1byNU_YVw)
 8. [Vue3 <script setup lang="ts"> 使用指南](https://mp.weixin.qq.com/s/Mvc16II45cr4LwBNQSBPOg)
 9. [一个参数验证，学会 Nest.js 的两大机制：Pipe、ExceptionFilter](https://mp.weixin.qq.com/s/MvYESCdTGnfegUn9WuSowA)
+10. [远程办公参与开源项目如何协作？](https://mp.weixin.qq.com/s/kNullP8P3_plKjEsL5XT0Q)
