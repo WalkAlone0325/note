@@ -87,3 +87,4 @@
 85. [将伪数组转换为数组的 N 种方案](https://mp.weixin.qq.com/s/sLpeul77GG6hLdV_x1FTpg)
 86. [看完就懂的前端拖拽那些事](https://mp.weixin.qq.com/s/RO2Ha9J2Bc9LVN3M80Nqsw)
 87. [同事看完这几道题，发现 TS 交叉类型竟还没入门！](https://mp.weixin.qq.com/s/PstmI4ydk6q6NSywLIsIPg)
+88. [TypeScript 内置工具详谈](https://mp.weixin.qq.com/s/nrkf2ajyshgnjXMTDMvT5w)
