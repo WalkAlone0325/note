@@ -94,3 +94,4 @@
 92. [[调研报告] 新一代前端构建工具汇总](https://mp.weixin.qq.com/s/kk2Zrc3beiePPOwYpYyUyg)
 93. [我是如何带领团队从零到一建立前端规范的？](https://mp.weixin.qq.com/s/S1bV6S6vvB0cFN7Rsi0bzg)
 94. [【零基础】充分理解 WebGL（一）](https://mp.weixin.qq.com/s/r8DRhHsySIAjGB4Ij6l4WA)
+95. [教你如何让 Axios 更加灵活可复用](https://mp.weixin.qq.com/s/CbViWzu8Bl26yMm8WDUSaQ)
