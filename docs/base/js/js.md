@@ -100,3 +100,4 @@
 98. [为什么会存在 1px 问题？怎么解决？](https://mp.weixin.qq.com/s/CHSD_JTKqBV7qH79Md6MTg)
 99. [减少 TS 重复代码，Omit 用起来真香！](https://mp.weixin.qq.com/s/sty4oaMCCbmjWAcrAOAJmA)
 100. [夜深人静，不如来学学 Node.js 性能优化吧](https://mp.weixin.qq.com/s/EqOoDQRpz5vn_wTm6mDraA)
+101. [36 个接口设计锦囊，马住！](https://mp.weixin.qq.com/s/wtF_cj1Y8r3NGoBAY6NzSQ)
