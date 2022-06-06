@@ -106,3 +106,4 @@
 104. [作为前端，你必须要知道的 meta 标签知识](https://mp.weixin.qq.com/s/X7fHx-XNiJDkfrHn3tcEVg)
 105. [现代 Monorepo 技术选型完全指南，架构必备](https://mp.weixin.qq.com/s/qtIu-NHml_8wT3APDyuzXg)
 106. [前端工程化：保姆级教学 Jenkins 部署前端项目](https://mp.weixin.qq.com/s/7kUKR-vv3w68Bv9GOKRaTg)
+107. [Es6 你用过哪些惊艳的写法？](https://mp.weixin.qq.com/s/8mNjnJjtaorcqAbXqequKw)
