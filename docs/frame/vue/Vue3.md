@@ -97,3 +97,4 @@
 97. [面试写：请解释下 Vue 中 slot 和 slot-scope 两者的区别](https://mp.weixin.qq.com/s/FnfcATrm9j5InUxS1bYW2A)
 98. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/J0_PLrbVZMRAiwjWK2WDrw)
 99. [Vue3 生命周期 Hooks 的原理及其与调度器(Scheduler)的关系](https://mp.weixin.qq.com/s/bGLJupVrng2Sdayktxwepw)
+100. [手摸手教你封装几个Vue3中很有用的组合式API](https://mp.weixin.qq.com/s/K0Qmx7hBDgHEQ5liW3n2vA)
