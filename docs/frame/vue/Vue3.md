@@ -98,3 +98,4 @@
 98. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/J0_PLrbVZMRAiwjWK2WDrw)
 99. [Vue3 生命周期 Hooks 的原理及其与调度器(Scheduler)的关系](https://mp.weixin.qq.com/s/bGLJupVrng2Sdayktxwepw)
 100. [手摸手教你封装几个Vue3中很有用的组合式API](https://mp.weixin.qq.com/s/K0Qmx7hBDgHEQ5liW3n2vA)
+101. [Threejs中预置的几何体、如何创造几何体 |](https://mp.weixin.qq.com/s/F03Mb-z5C57MI7CEIchhfg)
