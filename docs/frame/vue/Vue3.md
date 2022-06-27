@@ -100,3 +100,4 @@
 100. [手摸手教你封装几个Vue3中很有用的组合式API](https://mp.weixin.qq.com/s/K0Qmx7hBDgHEQ5liW3n2vA)
 101. [Threejs中预置的几何体、如何创造几何体 |](https://mp.weixin.qq.com/s/F03Mb-z5C57MI7CEIchhfg)
 102. [看了就会的 Node.js 常用三方工具包](https://mp.weixin.qq.com/s/cDXD3D5pe9viRkAyBmsfUQ)
+103. [用 TypeScript 这样封装 axios ，真的好用！](https://mp.weixin.qq.com/s/Td-j97uf155G8-kZuQjxRg)
