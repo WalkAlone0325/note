@@ -62,3 +62,4 @@
 62. [2021 年 TypeScript + React 前端工程化开发指北](https://mp.weixin.qq.com/s/G7Q52AyNKBxx9SghU6T6vw)
 63. [聊聊 React 中的权限组件设计](https://mp.weixin.qq.com/s/N4OrKkxBHb6ggVICUpLM8g)
 64. [React 18 超全升级指南](https://mp.weixin.qq.com/s/83Ykc1e8tuStTMhXYrp8Mg)
+65. [React + TypeScript 常用类型汇总](https://mp.weixin.qq.com/s/6v4ggklkEgKzNUQtTusLDw)
