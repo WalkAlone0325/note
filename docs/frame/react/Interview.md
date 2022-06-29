@@ -63,3 +63,4 @@
 63. [聊聊 React 中的权限组件设计](https://mp.weixin.qq.com/s/N4OrKkxBHb6ggVICUpLM8g)
 64. [React 18 超全升级指南](https://mp.weixin.qq.com/s/83Ykc1e8tuStTMhXYrp8Mg)
 65. [React + TypeScript 常用类型汇总](https://mp.weixin.qq.com/s/6v4ggklkEgKzNUQtTusLDw)
+66. [前端框架源码解读之Vite](https://mp.weixin.qq.com/s/mObQH7SfzDJOl9QlnMKkVg)
