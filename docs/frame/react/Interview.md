@@ -64,3 +64,4 @@
 64. [React 18 超全升级指南](https://mp.weixin.qq.com/s/83Ykc1e8tuStTMhXYrp8Mg)
 65. [React + TypeScript 常用类型汇总](https://mp.weixin.qq.com/s/6v4ggklkEgKzNUQtTusLDw)
 66. [前端框架源码解读之Vite](https://mp.weixin.qq.com/s/mObQH7SfzDJOl9QlnMKkVg)
+67. [从零到一建立一套完整的前端规范](https://mp.weixin.qq.com/s/lnj1QF2erRrPJ3h2WZ8REA)
