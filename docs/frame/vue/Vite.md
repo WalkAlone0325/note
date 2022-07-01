@@ -26,3 +26,4 @@
 22. [webpack5 持久化缓存实践](https://mp.weixin.qq.com/s/f8ztD2UplfgWUyMhB9w83g)
 23. [Vite 约定式路由的最佳实践](https://mp.weixin.qq.com/s/zgl59dbLiR8CNg1ON6Yqbw)
 24. [详解从零搭建企业级 vue3 + vite2+ ts4 框架全过程](https://mp.weixin.qq.com/s/YzI6lGmzDHUtqDEf1g5RBg)
+25. [前端框架源码解读之Vite](https://mp.weixin.qq.com/s/mObQH7SfzDJOl9QlnMKkVg)
