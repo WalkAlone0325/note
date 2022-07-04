@@ -115,3 +115,4 @@
 113. [教你如何让 Axios 更加灵活可复用](https://mp.weixin.qq.com/s/tJ9M_JZPKJXm7CqeaT0OVQ)
 114. [分享 15 个 vue3 全家桶开发的避坑经验](https://mp.weixin.qq.com/s/Bg9uybSAS85FEbzxiMw9iQ)
 115. [认识下浏览器的 5 种观察器 API](https://mp.weixin.qq.com/s/AhgeezXk3k0-qXNNvjspJQ)
+116. [比你想象中更强大的 reduce 以及对敲码的思考](https://mp.weixin.qq.com/s/cloph6Hmm6uxJ2T6Gc8fig)
