@@ -24,3 +24,4 @@
 24. [重点来了，useEffect](https://mp.weixin.qq.com/s/1G3zbUCCpbmaDYFupM7xPw)
 25. [如何在 React 中正确的使用 socket.io 客户端？](https://mp.weixin.qq.com/s/UMNt2oVhR7-IGbPGbU_K_A)
 26. [搞懂这12个Hooks，保证让你玩转React](https://mp.weixin.qq.com/s/oY6vlNjeMA6xja_iUEul8g)
+27. [精读《Promise.all, Replace, Type Lookup...》](https://mp.weixin.qq.com/s/E-hqs56B_8mPzjgdXc-mHw)
