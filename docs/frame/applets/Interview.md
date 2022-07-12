@@ -2,3 +2,4 @@
 2. [2022，VSCode 前端插件推荐](https://mp.weixin.qq.com/s/bTEnwwnkKS-LUbfdA6yzfQ)
 3. [Websocket 被玩出了多种花样！](https://mp.weixin.qq.com/s/0nbbgOZIqbeNjcldFh2dEA)
 4. [超越 Xshell，号称下一代 Terminal 终端神器！](https://mp.weixin.qq.com/s/caGkxhBInbYAcnYjspwHSQ)
+5. [用 Rollup 写一个“专业”的开源包](https://mp.weixin.qq.com/s/Pldme3MCVVLsDOCXVUVRMw)
