@@ -3,3 +3,4 @@
 3. [Websocket 被玩出了多种花样！](https://mp.weixin.qq.com/s/0nbbgOZIqbeNjcldFh2dEA)
 4. [超越 Xshell，号称下一代 Terminal 终端神器！](https://mp.weixin.qq.com/s/caGkxhBInbYAcnYjspwHSQ)
 5. [用 Rollup 写一个“专业”的开源包](https://mp.weixin.qq.com/s/Pldme3MCVVLsDOCXVUVRMw)
+6. [我们是如何记录图片的？](https://mp.weixin.qq.com/s/-PwlhscXSK0MbSzQ74_FdQ)
