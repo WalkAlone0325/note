@@ -29,3 +29,4 @@
 25. [前端框架源码解读之Vite](https://mp.weixin.qq.com/s/mObQH7SfzDJOl9QlnMKkVg)
 26. [浅析eslint原理](https://mp.weixin.qq.com/s/cyNTdF9sVEcIYwssqM_DKQ)
 27. [如何在 React 中正确的使用 socket.io 客户端？](https://mp.weixin.qq.com/s/UMNt2oVhR7-IGbPGbU_K_A)
+28. [Vite 3.0 正式发布，下一代前端工具链！](https://mp.weixin.qq.com/s/WkHsxOiEJeZSO_jQi02YZQ)
