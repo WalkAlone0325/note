@@ -4,3 +4,4 @@
 4. [实用的 nginx Web Gui 工具推荐](https://mp.weixin.qq.com/s/rkqW0wEYWipsMkemaPpOcw)
 5. [Nginx 极简教程 — 帮助新手快速入门](https://mp.weixin.qq.com/s/91ZMqBEg0aIRI59ppUKAoQ)
 6. [看完这篇保姆级教程，彻底掌握 Nginx](https://mp.weixin.qq.com/s/1SjzSYZqWMDoBrYsFVoCZg)
+7. [看完这篇保姆级教程，彻底掌握 Nginx](https://mp.weixin.qq.com/s/1SjzSYZqWMDoBrYsFVoCZg)
