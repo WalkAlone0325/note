@@ -117,4 +117,5 @@
 115. [认识下浏览器的 5 种观察器 API](https://mp.weixin.qq.com/s/AhgeezXk3k0-qXNNvjspJQ)
 116. [比你想象中更强大的 reduce 以及对敲码的思考](https://mp.weixin.qq.com/s/cloph6Hmm6uxJ2T6Gc8fig)
 117. [localStorage 的高阶用法](https://mp.weixin.qq.com/s/VBTAWVMAUq822dwNA1A2kg)
-118. [一篇让你完全够用的TS指南](https://mp.weixin.qq.com/s/JmdjSv3LR_9JATxI4QUGbQ)
+118. [一篇让你完全够用的 TS 指南](https://mp.weixin.qq.com/s/JmdjSv3LR_9JATxI4QUGbQ)
+119. [16 个有用的 TypeScript 和 JavaScript 技巧](https://mp.weixin.qq.com/s/1XdYtccYt7mqLsE0qiSFoA)
