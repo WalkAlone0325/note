@@ -31,3 +31,4 @@
 27. [如何在 React 中正确的使用 socket.io 客户端？](https://mp.weixin.qq.com/s/UMNt2oVhR7-IGbPGbU_K_A)
 28. [Vite 3.0 正式发布，下一代前端工具链！](https://mp.weixin.qq.com/s/WkHsxOiEJeZSO_jQi02YZQ)
 29. [【实战篇】使用 Vue3 + Ts + Egg 开发一个ProTable(包含接口实现)](https://mp.weixin.qq.com/s/5PeMlCTyxLcwdS0XtvlEcw)
+30. [详解 Vite 依赖预构建流程](https://mp.weixin.qq.com/s/2zZcjo9Wfg7wZBjsyCnT_w)
