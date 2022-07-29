@@ -40,3 +40,4 @@
 10. [远程办公参与开源项目如何协作？](https://mp.weixin.qq.com/s/kNullP8P3_plKjEsL5XT0Q)
 11. [一个简洁、强大、可扩展的前端项目架构是什么样的？](https://mp.weixin.qq.com/s/vctWciAp1-AMtiMMUOz_xg)
 12. [轻松搞懂git各指令的本质，提升git 内功](https://mp.weixin.qq.com/s/VvYd0lpPVYg1MFwxSfd9Hw)
+13. [Git基础教程(必学)](https://mp.weixin.qq.com/s/0mGBRiG-kOa9rNL3qn9vVQ)
