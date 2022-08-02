@@ -32,3 +32,4 @@
 28. [Vite 3.0 正式发布，下一代前端工具链！](https://mp.weixin.qq.com/s/WkHsxOiEJeZSO_jQi02YZQ)
 29. [【实战篇】使用 Vue3 + Ts + Egg 开发一个ProTable(包含接口实现)](https://mp.weixin.qq.com/s/5PeMlCTyxLcwdS0XtvlEcw)
 30. [详解 Vite 依赖预构建流程](https://mp.weixin.qq.com/s/2zZcjo9Wfg7wZBjsyCnT_w)
+31. [中杯超大杯中间的新选择—— Vue2.7 + Vite + TS 实践](https://mp.weixin.qq.com/s/UEtXpC4_8zX7s0Q8ZxZ71Q)
