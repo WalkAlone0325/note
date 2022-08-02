@@ -42,3 +42,4 @@
 12. [轻松搞懂git各指令的本质，提升git 内功](https://mp.weixin.qq.com/s/VvYd0lpPVYg1MFwxSfd9Hw)
 13. [Git基础教程(必学)](https://mp.weixin.qq.com/s/0mGBRiG-kOa9rNL3qn9vVQ)
 14. [前端工程师都应该掌握的抓包神器工具](https://mp.weixin.qq.com/s/95Hr68i9bmZV-X-F7oZ0rQ)
+15. [rollup 最佳实践！可调试、编译的小型开源项目思路](https://mp.weixin.qq.com/s/nnZFbNpLnrgfcsi1_y3rrA)
