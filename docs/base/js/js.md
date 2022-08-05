@@ -119,3 +119,4 @@
 117. [localStorage 的高阶用法](https://mp.weixin.qq.com/s/VBTAWVMAUq822dwNA1A2kg)
 118. [一篇让你完全够用的 TS 指南](https://mp.weixin.qq.com/s/JmdjSv3LR_9JATxI4QUGbQ)
 119. [16 个有用的 TypeScript 和 JavaScript 技巧](https://mp.weixin.qq.com/s/1XdYtccYt7mqLsE0qiSFoA)
+120. [判断对象是否具有属性的 5 种方法](https://mp.weixin.qq.com/s/Zw7cLwUwoDJodARArz5QwA)
