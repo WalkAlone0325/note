@@ -26,3 +26,4 @@
 26. [搞懂这12个Hooks，保证让你玩转React](https://mp.weixin.qq.com/s/oY6vlNjeMA6xja_iUEul8g)
 27. [精读《Promise.all, Replace, Type Lookup...》](https://mp.weixin.qq.com/s/E-hqs56B_8mPzjgdXc-mHw)
 28. [有哪些值得学习的大型 React 开源项目](https://mp.weixin.qq.com/s/k1kDqffdABiJKnUdm1W_mA)
+29. [前端主题切换方案(react+antd)](https://mp.weixin.qq.com/s/o3CFCMTI5JM_3BSiurzt-A)
