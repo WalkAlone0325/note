@@ -120,3 +120,4 @@
 118. [一篇让你完全够用的 TS 指南](https://mp.weixin.qq.com/s/JmdjSv3LR_9JATxI4QUGbQ)
 119. [16 个有用的 TypeScript 和 JavaScript 技巧](https://mp.weixin.qq.com/s/1XdYtccYt7mqLsE0qiSFoA)
 120. [判断对象是否具有属性的 5 种方法](https://mp.weixin.qq.com/s/Zw7cLwUwoDJodARArz5QwA)
+121. [11 个 ES2022（ES13)中惊人的 JavaScript 新特性](https://mp.weixin.qq.com/s/NeeAIfvNcOP4D1r5a87I-Q)
