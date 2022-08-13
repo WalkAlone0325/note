@@ -23,3 +23,4 @@
 23. [前端网络请求都有哪些方式？webSocket 是什么？](https://mp.weixin.qq.com/s/q2WvipFrCR-XPnadCxK2rg)
 24. [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/GlSpsx3KY6oPLzS3HzGXPw)
 25. [HTTP & WebSocket 有什么区别？](https://mp.weixin.qq.com/s/Tpo0PKqNscern_fRLUI3dg)
+26. [HTTP史记 - 从HTTP/1到HTTP/3](https://mp.weixin.qq.com/s/flE9uokIzzuBDLET6FmCWQ)
