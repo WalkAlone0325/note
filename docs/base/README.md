@@ -26,6 +26,7 @@
 20. [高频前端开发面试问题](https://mp.weixin.qq.com/s/h-mAfwXFL9vaJ-ImU6slSg)
 21. [21 道关于性能优化的面试题(附答案)](https://mp.weixin.qq.com/s/865N_bQ1IxE5mkmvkLEsWQ)
 22. [基于 qiankun 的微前端最佳实践（万字长文） - 从 0 到 1 篇](https://mp.weixin.qq.com/s/89fRCtAddCnY7V60kg3byw)
+23. [如何不基于构建工具优雅的实现模块导入？](https://mp.weixin.qq.com/s/2oZnoANqCz9DfD8PDx8nRA)
 
 :tada: :100: :bamboo: :gift_heart: :fire:
 
