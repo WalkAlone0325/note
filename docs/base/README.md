@@ -29,6 +29,7 @@
 23. [如何不基于构建工具优雅的实现模块导入？](https://mp.weixin.qq.com/s/2oZnoANqCz9DfD8PDx8nRA)
 24. [超全面的前端工程化配置指南](https://mp.weixin.qq.com/s/GZxHT7t7_SzdimF8iHXVxw)
 25. [Git实战进阶教程](https://mp.weixin.qq.com/s/e9bu75kyIap-uHeoHji2SA)
+26. [测试中如何处理 Http 请求？](https://mp.weixin.qq.com/s/EnjOpW6YwQ3Sksm0jx04Gw)
 
 :tada: :100: :bamboo: :gift_heart: :fire:
 
