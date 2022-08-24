@@ -30,6 +30,7 @@
 24. [超全面的前端工程化配置指南](https://mp.weixin.qq.com/s/GZxHT7t7_SzdimF8iHXVxw)
 25. [Git实战进阶教程](https://mp.weixin.qq.com/s/e9bu75kyIap-uHeoHji2SA)
 26. [测试中如何处理 Http 请求？](https://mp.weixin.qq.com/s/EnjOpW6YwQ3Sksm0jx04Gw)
+27. [一个简洁、强大、可扩展的前端项目架构是什么样的？](https://mp.weixin.qq.com/s/vctWciAp1-**AMtiMMUOz_xg)
 
 :tada: :100: :bamboo: :gift_heart: :fire:
 
