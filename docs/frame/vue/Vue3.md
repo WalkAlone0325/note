@@ -108,4 +108,5 @@
 108. [手写实现Vue内置组件component(Vue进阶)](https://mp.weixin.qq.com/s/qi4l_wWtSNwX8df_AIv7gA)
 109. [在 Vue3 中实现 React 原生 Hooks（useState、useEffect），深入理解 React Hooks 的](https://mp.weixin.qq.com/s/xSnAwG8fDsVo_taLFtI_Lw)
 110. [vue组件及逻辑复用](https://mp.weixin.qq.com/s/GXGCxz3Y1rSO4zfedMyLhQ)
+111. [定制一个 Vue 3 模板 - 集成 Vite, Pinia, Vue Router 与 Tailwind CSS](https://mp.weixin.qq.com/s/KGSynseMg_cx07s_LiaQqQ)
 ~~~~
