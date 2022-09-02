@@ -123,3 +123,4 @@
 121. [11 个 ES2022（ES13)中惊人的 JavaScript 新特性](https://mp.weixin.qq.com/s/NeeAIfvNcOP4D1r5a87I-Q)
 122. [2022年了，这些ES7-ES12的知识点你都掌握了嘛？](https://mp.weixin.qq.com/s/josaMwI15sYwFXcXh07Jaw)
 123. [Typescript 类型编程，从入门到念头通达](https://mp.weixin.qq.com/s/uoTFX_1VVyEgLQ8z6PkACA)
+124. [JavaScript 代码优化之道](https://mp.weixin.qq.com/s/XPn7PKO8f55hIox_MzAo5A)
