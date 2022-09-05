@@ -125,3 +125,4 @@
 123. [Typescript 类型编程，从入门到念头通达](https://mp.weixin.qq.com/s/uoTFX_1VVyEgLQ8z6PkACA)
 124. [JavaScript 代码优化之道](https://mp.weixin.qq.com/s/XPn7PKO8f55hIox_MzAo5A)
 125. [一文讲懂什么是函数柯里化，柯里化的目的及其代码实现](https://mp.weixin.qq.com/s/6--P-M5nYC052SxjK77hHQ)
+126. [都2022年了，实时更新数据你还只会用短轮询?](https://juejin.cn/post/7139684620777291807)
