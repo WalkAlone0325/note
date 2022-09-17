@@ -128,3 +128,4 @@
 126. [都2022年了，实时更新数据你还只会用短轮询?](https://juejin.cn/post/7139684620777291807)
 127. [面试官：请使用 JS 完成一个 LRU 缓存？](https://mp.weixin.qq.com/s/wPSapKIomcU_xFVE4YOUbQs)
 128. [一文详聊前端异常原理](https://mp.weixin.qq.com/s/FhJNh1v0hWurFPTbr0b1Qw)
+129. [前端经典面试题 ( 60道前端面试题包含 JS、CSS、React、网络、浏览器、程序题等)](https://mp.weixin.qq.com/s/nIsgmwWIUmUpG8IG97DOGg)
