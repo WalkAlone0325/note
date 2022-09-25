@@ -66,3 +66,4 @@
 66. [前端框架源码解读之Vite](https://mp.weixin.qq.com/s/mObQH7SfzDJOl9QlnMKkVg)
 67. [从零到一建立一套完整的前端规范](https://mp.weixin.qq.com/s/lnj1QF2erRrPJ3h2WZ8REA)
 68. [「React 进阶」 React 全部 Hooks 使用大全 （包含 React v18 版本 ）](https://mp.weixin.qq.com/s/TWaGu218rdiEDytjEA_ikA)
+69. [如何在 React 应用中使用 Hooks、Redux 等管理状态](https://mp.weixin.qq.com/s/lPndIOUmLA_X_9C06uod8w)
