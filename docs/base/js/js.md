@@ -131,3 +131,4 @@
 129. [前端经典面试题 ( 60道前端面试题包含 JS、CSS、React、网络、浏览器、程序题等)](https://mp.weixin.qq.com/s/nIsgmwWIUmUpG8IG97DOGg)
 130. [前端基于husky通过eslint检测提交代码](https://mp.weixin.qq.com/s/**zbyhThUxq_tmdTpoe6Qgxw**)
 131. [可以实现一个前端的 Excel 导入和导出功能吗？](https://mp.weixin.qq.com/s/-T-**GO3JgPjPl_te9LgvKMw**)
+132. [历时8个月，10w字！前端知识体系+大厂面试总结（基础知识篇）](https://mp.weixin.qq.com/s/eJgoS_IW5iSgVC76uWBvLQ)
