@@ -9,6 +9,7 @@
 ## Nodejs
 
 1. [2021 年 Node.js 开发人员学习路线图](https://mp.weixin.qq.com/s/GATnSzGCBWIPPE3P1uJ2Nw)
+2. [最全面的 Node.js 资源汇总推荐](https://mp.weixin.qq.com/s/muJKVzMSLXOy0Et48zHj9Q)
 
 ## 优化（还不知道往哪放）
 
