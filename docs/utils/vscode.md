@@ -1,5 +1,8 @@
 # vscode
 
+1. [VSCode中值得推荐的常用的33个高效前端插件「效率篇」（一）](https://juejin.cn/post/7113538515614302244)
+2. [VSCode中值得推荐的常用的33个高效前端插件「效率篇」（二）](https://juejin.cn/post/7113541157019189284)
+
 ## 最新版 prettier 配置：
 
 ```json
