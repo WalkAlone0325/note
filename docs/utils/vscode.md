@@ -1,7 +1,8 @@
 # vscode
 
-1. [VSCode中值得推荐的常用的33个高效前端插件「效率篇」（一）](https://juejin.cn/post/7113538515614302244)
-2. [VSCode中值得推荐的常用的33个高效前端插件「效率篇」（二）](https://juejin.cn/post/7113541157019189284)
+1. [VSCode 中值得推荐的常用的 33 个高效前端插件「效率篇」（一）](https://juejin.cn/post/7113538515614302244)
+2. [VSCode 中值得推荐的常用的 33 个高效前端插件「效率篇」（二）](https://juejin.cn/post/7113541157019189284)
+3. [vscode 上有什么浅色主题插件推荐？](https://www.zhihu.com/question/278251189/answer/2673592076?utm_campaign=shareopn&utm_medium=social&utm_oi=956439569311240192&utm_psn=1561072673332862976&utm_source=wechat_session)
 
 ## 最新版 prettier 配置：
 
@@ -60,7 +61,13 @@
   // 格式化相关
   "editor.formatOnSave": true,
   "eslint.format.enable": false,
-  "eslint.validate": ["javascript", "javascriptreact", "vue", "typescript", "typescriptreact"],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "vue",
+    "typescript",
+    "typescriptreact"
+  ],
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
     "source.fixAll.eslint": true,
@@ -391,7 +398,13 @@
   "explorer.confirmDragAndDrop": false, // 拖放移动文件或文件夹时不进行确认
   "todo-tree.tree.showScanModeButton": false,
   // eslint
-  "eslint.validate": ["javascript", "javascriptreact", "vue", "typescript", "typescriptreact"],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "vue",
+    "typescript",
+    "typescriptreact"
+  ],
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
     "source.fixAll.eslint": true,
@@ -448,7 +461,15 @@
   "remote.SSH.remotePlatform": {
     "47.104.81.222": "linux"
   },
-  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]"],
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
   "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)"
   // "path-intellisense.mappings": {
   //     "@": "${workspaceRoot}/src"
