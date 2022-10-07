@@ -113,4 +113,5 @@
 113. [25 个 Vue 技巧,学了这么久才知道还能这么用](https://mp.weixin.qq.com/s/q15HMH879Z0c5myxZ69F2A)
 114. [深入了解前端路由 hash 与 history 差异](https://mp.weixin.qq.com/s/ghynjGp62oS6QvPGxNltjw)
 115. [对国际化 i18n 项目的一点思考](https://mp.weixin.qq.com/s/XRQw06XL7oA35TnhoEYVIw)
-116. [vue项目-开启 “ 微信分享踩坑” 之旅](https://mp.weixin.qq.com/s/ItfXaeECjGy9SbaOwoSHEA)
+116. [vue 项目-开启 “ 微信分享踩坑” 之旅](https://mp.weixin.qq.com/s/ItfXaeECjGy9SbaOwoSHEA)
+117. [Vite 也许没那么快，但 Vue2.7 是真的香——Vite+Vue2.7 使用纪实](https://juejin.cn/post/7148780187029602312)
