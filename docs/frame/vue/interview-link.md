@@ -115,3 +115,4 @@
 115. [对国际化 i18n 项目的一点思考](https://mp.weixin.qq.com/s/XRQw06XL7oA35TnhoEYVIw)
 116. [vue 项目-开启 “ 微信分享踩坑” 之旅](https://mp.weixin.qq.com/s/ItfXaeECjGy9SbaOwoSHEA)
 117. [Vite 也许没那么快，但 Vue2.7 是真的香——Vite+Vue2.7 使用纪实](https://juejin.cn/post/7148780187029602312)
+118. [我用Vue实现了--可视化大屏适配插件](https://mp.weixin.qq.com/s/rO7EtyafLwYG9PrRJmdmxA)
