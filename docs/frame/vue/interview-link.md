@@ -117,3 +117,4 @@
 117. [Vite 也许没那么快，但 Vue2.7 是真的香——Vite+Vue2.7 使用纪实](https://juejin.cn/post/7148780187029602312)
 118. [我用Vue实现了--可视化大屏适配插件](https://mp.weixin.qq.com/s/rO7EtyafLwYG9PrRJmdmxA)
 119. [Vue超全资源，收藏！](https://mp.weixin.qq.com/s/jsscIOb0IFbI69tq6wTHLg)
+120. [专为Element UI搭配的富文本编辑器](https://mp.weixin.qq.com/s/XwUTbh4TmuM7Xlp5uZ9klg)
