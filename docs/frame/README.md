@@ -16,6 +16,8 @@
 1. [2020 前端性能优化清单（一）](https://mp.weixin.qq.com/s/d9J-_aF9K8QTUtemol-EfQ)
 2. [2020 前端性能优化清单（二）](https://mp.weixin.qq.com/s/7NJv21Dz7eGFFt-c3qitWw)
 3. [2020 前端性能优化清单（三）](https://mp.weixin.qq.com/s/vJsDn7jc9MBR-DbW_BGDDA)
+4. [前端性能优化到底该怎么做（上）— 开门见山](https://juejin.cn/post/7137058832592666655)
+5. [前端性能优化到底该怎么做（下）— 直捣黄龙](https://juejin.cn/post/7139661845182300191)
 
 ## git
 
