@@ -18,6 +18,7 @@
 3. [2020 前端性能优化清单（三）](https://mp.weixin.qq.com/s/vJsDn7jc9MBR-DbW_BGDDA)
 4. [前端性能优化到底该怎么做（上）— 开门见山](https://juejin.cn/post/7137058832592666655)
 5. [前端性能优化到底该怎么做（下）— 直捣黄龙](https://juejin.cn/post/7139661845182300191)
+6. [🤣 省钱 90%！我是这样优化网站图片的](https://mp.weixin.qq.com/s/aJ0KdpDkEHM7q-O2ELlI6A)
 
 ## git
 
