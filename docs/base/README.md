@@ -2,6 +2,8 @@
 
 ## 待开发。。。
 
+1. [会写 TypeScript 但你真的会 TS 编译配置吗？](https://mp.weixin.qq.com/s/qKjshvVnMmEfN1Mj1rsfqg)
+
 ## 面试题外链合集
 
 1. [2 万字！90 个前端开发面试必问基础大总结](https://mp.weixin.qq.com/s/anrtDgzYhEAmaQ3kXzcqkw)
