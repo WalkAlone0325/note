@@ -118,3 +118,4 @@
 118. [我用Vue实现了--可视化大屏适配插件](https://mp.weixin.qq.com/s/rO7EtyafLwYG9PrRJmdmxA)
 119. [Vue超全资源，收藏！](https://mp.weixin.qq.com/s/jsscIOb0IFbI69tq6wTHLg)
 120. [专为Element UI搭配的富文本编辑器](https://mp.weixin.qq.com/s/XwUTbh4TmuM7Xlp5uZ9klg)
+121. [我是怎么调试 Element UI 源码的](https://mp.weixin.qq.com/s/J_ePb4DlZed0j7AqyDBlBw)
