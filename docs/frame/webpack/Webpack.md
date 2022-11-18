@@ -30,3 +30,4 @@
 30. [彻底搞懂 Webpack 的 sourcemap 配置原理](https://mp.weixin.qq.com/s/0Sq9Z0i9Q3N0likFlZB0rQ)
 31. [【包真】我的第一次webpack优化，首屏渲染从9s到1s](https://mp.weixin.qq.com/s/GXO_dQVKj8DWoO3cEiz3og)
 32. [10w字！前端知识体系+大厂面试笔记（框架篇）](https://mp.weixin.qq.com/s/LGRS00ayaHS4CCXhLFVQNg)
+33. [从零实现一个迷你 Webpack](https://mp.weixin.qq.com/s/jy6tZfecEZ_7-GRLf9qU0g)
