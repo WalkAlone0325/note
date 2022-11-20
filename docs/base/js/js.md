@@ -141,3 +141,4 @@
 139. [从搭建一个简易画板，来入门 Canvas](https://mp.weixin.qq.com/s/**R1O4wj9sMVZ1q1fbDtgENA)
 140. [图文结合简单易学的 npm 包的发布流程](https://mp.weixin.qq.com/s/Omn48Jd9v6qltTFW3hxpCA)
 141. [抓包理解 DNS 流程和 CDN 原理](https://mp.weixin.qq.com/s/ywg7J8sZm6elkuNQ7WKfJw)
+142. [如何通过 Git 和 Husky 添加提交钩子并实现代码任务自动化](https://mp.weixin.qq.com/s/jDFcwdEsU9zeAV0LiJoZ7Q)
