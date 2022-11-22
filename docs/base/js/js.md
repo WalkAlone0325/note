@@ -142,4 +142,5 @@
 140. [图文结合简单易学的 npm 包的发布流程](https://mp.weixin.qq.com/s/Omn48Jd9v6qltTFW3hxpCA)
 141. [抓包理解 DNS 流程和 CDN 原理](https://mp.weixin.qq.com/s/ywg7J8sZm6elkuNQ7WKfJw)
 142. [如何通过 Git 和 Husky 添加提交钩子并实现代码任务自动化](https://mp.weixin.qq.com/s/jDFcwdEsU9zeAV0LiJoZ7Q)
-143. ]前端 ES6 之 Promise 实践应用与控制反转](https://mp.weixin.qq.com/s/36he_7HHuYNKyKS53B8nFQ)
+143. [前端 ES6 之 Promise 实践应用与控制反转](https://mp.weixin.qq.com/s/36he_7HHuYNKyKS53B8nFQ)
+144. [有了for循环 为什么还要forEach？](https://mp.weixin.qq.com/s/Rzykk97KjC5hrjzxfxgVNw)
