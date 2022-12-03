@@ -148,3 +148,4 @@
 146. [如何解决前端领域的竞态问题？](https://mp.weixin.qq.com/s/M2-XXPdLKlTqzGefz7UPvA)
 147. [抓包理解 DNS 流程和 CDN 原理](https://mp.weixin.qq.com/s/ywg7J8sZm6elkuNQ7WKfJw)
 148. [手摸手教你 docker+jenkins+gitlab 部署你的前端项目](https://mp.weixin.qq.com/s/2M4HJgAWGrbC-6_Vi2snuQ)
+149. [浏览器的存储 API 会被整合到一起了？](https://mp.weixin.qq.com/s/eNSK6SxAxhdVKBNmpok67g)
