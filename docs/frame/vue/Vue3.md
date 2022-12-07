@@ -112,4 +112,5 @@
 112. [Vue3.0通关秘籍](https://juejin.cn/post/7142769223041974286#heading-69)
 113. [封装几个有用的 Vue3 组合式API](https://mp.weixin.qq.com/s/HKWA6rJQUyULApXRerE5fQ)
 114. [如何实现在线预览和调试组件？](https://mp.weixin.qq.com/s/pbk6kP3YgurF3ypcQOaLIg)
+115. [保证你不知道的Vue 3技巧](https://mp.weixin.qq.com/s/CBEV9vwcbt5RefqQlHrfjA)
 ~~~~
