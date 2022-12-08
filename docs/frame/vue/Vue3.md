@@ -113,4 +113,5 @@
 113. [封装几个有用的 Vue3 组合式API](https://mp.weixin.qq.com/s/HKWA6rJQUyULApXRerE5fQ)
 114. [如何实现在线预览和调试组件？](https://mp.weixin.qq.com/s/pbk6kP3YgurF3ypcQOaLIg)
 115. [保证你不知道的Vue 3技巧](https://mp.weixin.qq.com/s/CBEV9vwcbt5RefqQlHrfjA)
+116. [关于 Vue 项目打包部署知识点总结](https://mp.weixin.qq.com/s/FwmV9lNWsogWJNyBvL_5XA)
 ~~~~
