@@ -150,3 +150,4 @@
 148. [手摸手教你 docker+jenkins+gitlab 部署你的前端项目](https://mp.weixin.qq.com/s/2M4HJgAWGrbC-6_Vi2snuQ)
 149. [浏览器的存储 API 会被整合到一起了？](https://mp.weixin.qq.com/s/eNSK6SxAxhdVKBNmpok67g)
 150. [包管理工具的演进](https://mp.weixin.qq.com/s/beP1bxgbTT1Z91KS3svDvw)
+151. [为什么使用pnpm可以光速建立好用的monorepo（比yarn/lerna效率高）](https://mp.weixin.qq.com/s/0dMj-oGgnj4yMMgjw61bIw)
