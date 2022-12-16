@@ -153,3 +153,4 @@
 151. [为什么使用pnpm可以光速建立好用的monorepo（比yarn/lerna效率高）](https://mp.weixin.qq.com/s/0dMj-oGgnj4yMMgjw61bIw)
 152. [还不会用 TS 封装 Axios？我教你啊](https://mp.weixin.qq.com/s/yLduQY-9aYnpwyT6SNlZGg)
 153. [造轮子利器：AST与前端编译](https://mp.weixin.qq.com/s/d3Kk8nXL1ClY3voNr_qPbw)
+154. [【实战】前端实现电子签名（web、移动端）通用组件](https://mp.weixin.qq.com/s/Q_fauZiauj06GneBrUQKtg)
