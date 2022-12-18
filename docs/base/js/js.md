@@ -154,3 +154,4 @@
 152. [还不会用 TS 封装 Axios？我教你啊](https://mp.weixin.qq.com/s/yLduQY-9aYnpwyT6SNlZGg)
 153. [造轮子利器：AST与前端编译](https://mp.weixin.qq.com/s/d3Kk8nXL1ClY3voNr_qPbw)
 154. [【实战】前端实现电子签名（web、移动端）通用组件](https://mp.weixin.qq.com/s/Q_fauZiauj06GneBrUQKtg)
+155. [前端本地化部署](https://mp.weixin.qq.com/s/IllKMBSMQwcUa08MQQOWyQ)
