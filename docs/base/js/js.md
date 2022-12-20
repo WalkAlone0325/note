@@ -155,3 +155,4 @@
 153. [造轮子利器：AST与前端编译](https://mp.weixin.qq.com/s/d3Kk8nXL1ClY3voNr_qPbw)
 154. [【实战】前端实现电子签名（web、移动端）通用组件](https://mp.weixin.qq.com/s/Q_fauZiauj06GneBrUQKtg)
 155. [前端本地化部署](https://mp.weixin.qq.com/s/IllKMBSMQwcUa08MQQOWyQ)
+156. [每个 JavaScript 程序员都应该掌握这个工具!](https://mp.weixin.qq.com/s/Q9ZuPlZGdjrCxAORoK_igw)
