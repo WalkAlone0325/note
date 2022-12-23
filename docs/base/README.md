@@ -3,7 +3,8 @@
 ## 待开发。。。
 
 1. [会写 TypeScript 但你真的会 TS 编译配置吗？](https://mp.weixin.qq.com/s/qKjshvVnMmEfN1Mj1rsfqg)
-2. [2022年我的面试万字总结（浏览器网络篇）](https://mp.weixin.qq.com/s/cH6sTLX-LJT0wbahMxLW2g)
+2. [对于“前端状态”相关问题，如何思考比较全面](https://mp.weixin.qq.com/s/y7JzwBcbOobjWQdYEQ7KqA)
+3. [2022年我的面试万字总结（浏览器网络篇）](https://mp.weixin.qq.com/s/cH6sTLX-LJT0wbahMxLW2g)
 
 ## 面试题外链合集
 
