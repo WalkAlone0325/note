@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "p": "delay.sh"
+    "p": "./delay.sh"
   },
   "devDependencies": {
     "vuepress": "^1.9.5"
