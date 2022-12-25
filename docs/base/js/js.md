@@ -157,3 +157,4 @@
 155. [前端本地化部署](https://mp.weixin.qq.com/s/IllKMBSMQwcUa08MQQOWyQ)
 156. [每个 JavaScript 程序员都应该掌握这个工具!](https://mp.weixin.qq.com/s/Q9ZuPlZGdjrCxAORoK_igw)
 157. [webpack5之output和devServer的publicPath区别](https://juejin.cn/post/7179549334227140666)
+158. [你应该知道的 13 个数组技巧【略骚】](https://mp.weixin.qq.com/s/RIZDSUuhF49OCoVjUYDODg)
