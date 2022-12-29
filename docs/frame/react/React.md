@@ -33,3 +33,4 @@
 33. [React-Router-Dom6 最佳实践](https://juejin.cn/post/7079778169581994021)
 34. [「React 深入」一文吃透React v18 全部 Api（1.3w+ 字）](https://mp.weixin.qq.com/s/9k7wMxYoXCOoVhsK5zPwIw)
 35. [一文弄懂 React ref 原理](https://mp.weixin.qq.com/s/YIhcmtbTS-wSv8x6igPcuw)
+36. [React 中的关注点分离——如何使用容器组件和展示组件](https://mp.weixin.qq.com/s/hfnpt2gaxHrIt1UhXO_t3g)
