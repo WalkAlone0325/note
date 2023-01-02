@@ -40,3 +40,4 @@
 38. [图解 CSS Grid 布局](https://mp.weixin.qq.com/s/_e-wGKRvVyAPfeqMqWou3w)
 39. [CSS 中的 : 和 :: 有什么区别？](https://mp.weixin.qq.com/s/9Xkl2IuYN5AjmdweWUpDwg)
 40. [非常强大的 CSS 选择器 :has()](https://mp.weixin.qq.com/s/O0_pbcMvpGikvvEfWxyfow)
+41. [新的 CSS 属性：aspect-ratio 为元素设置宽高比](https://mp.weixin.qq.com/s/gecmbOG9lsbAUvqvvDgPGQ)
