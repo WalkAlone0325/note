@@ -36,3 +36,4 @@
 36. [React 中的关注点分离——如何使用容器组件和展示组件](https://mp.weixin.qq.com/s/hfnpt2gaxHrIt1UhXO_t3g)
 37. [10个yyds的Vue、React源码解析开源项目！](https://mp.weixin.qq.com/s/_QbYVXIe1sBU6P8CGZGgTA)
 38. [React Hooks 入门教程](https://mp.weixin.qq.com/s/GMMbHwL50HiLMwBcdLOQQw)
+39. [React + TypeScript：如何处理常见事件？](https://mp.weixin.qq.com/s/lPbMEPSlLZLZW3uK-RgXFQ)
