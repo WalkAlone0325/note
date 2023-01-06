@@ -37,3 +37,4 @@
 37. [10个yyds的Vue、React源码解析开源项目！](https://mp.weixin.qq.com/s/_QbYVXIe1sBU6P8CGZGgTA)
 38. [React Hooks 入门教程](https://mp.weixin.qq.com/s/GMMbHwL50HiLMwBcdLOQQw)
 39. [React + TypeScript：如何处理常见事件？](https://mp.weixin.qq.com/s/lPbMEPSlLZLZW3uK-RgXFQ)
+40. [你好，Next.js 13](https://mp.weixin.qq.com/s/r_dhDNuP6ZAyHLsEGDw-2g)
