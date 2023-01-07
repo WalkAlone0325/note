@@ -161,3 +161,4 @@
 159. [谈谈JS二进制：File、Blob、FileReader、ArrayBuffer、Base64](https://mp.weixin.qq.com/s/nQaztWx6rhky8hN5Er4eMg)
 160. [UI 提供的【progress-step】要怎么实现](https://mp.weixin.qq.com/s/2nsS3wT6N1pBoNB0elnuyA)
 161. [2022年我的面试万字总结（代码篇）](https://mp.weixin.qq.com/s/UJ59FyXlpTHzj5pzXvk5bQ)
+162. [【实战】前端实现电子签名（web、移动端）通用组件](https://mp.weixin.qq.com/s/ksIp5e24Jy5IXGCG0kAXog)
