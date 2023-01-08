@@ -39,3 +39,4 @@
 39. [React + TypeScript：如何处理常见事件？](https://mp.weixin.qq.com/s/lPbMEPSlLZLZW3uK-RgXFQ)
 40. [你好，Next.js 13](https://mp.weixin.qq.com/s/r_dhDNuP6ZAyHLsEGDw-2g)
 41. [我的 React 最佳实践](https://juejin.cn/post/7161244682008133639)
+42. [useMemo、useCallback、useContext 你真的玩明白了吗](https://juejin.cn/post/7146107198215553055)
