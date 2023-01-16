@@ -41,3 +41,4 @@
 39. [CSS 中的 : 和 :: 有什么区别？](https://mp.weixin.qq.com/s/9Xkl2IuYN5AjmdweWUpDwg)
 40. [非常强大的 CSS 选择器 :has()](https://mp.weixin.qq.com/s/O0_pbcMvpGikvvEfWxyfow)
 41. [新的 CSS 属性：aspect-ratio 为元素设置宽高比](https://mp.weixin.qq.com/s/gecmbOG9lsbAUvqvvDgPGQ)
+42. [2022 年 CSS 新增了这么多牛逼的特性](https://mp.weixin.qq.com/s/DWVoOTSzY6WykNY4s4w4CA)
