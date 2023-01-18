@@ -165,3 +165,4 @@
 163. [虚拟列表，我真的会了！！！](https://mp.weixin.qq.com/s/iH87EmrGXa_cmWjH2LD7NA)
 164. [JS 实现网络测速](https://mp.weixin.qq.com/s/HcOaK-2NpS3Wi23BUFWRwg)
 165. [Web Component 探索之旅](https://mp.weixin.qq.com/s/aTF6aajnfBkHbbW5blnw8A)
+166. [这才是现代 JavaScript 库打包指南！](https://mp.weixin.qq.com/s/-Hb6d4EGZrmegmsmoinjSA)
