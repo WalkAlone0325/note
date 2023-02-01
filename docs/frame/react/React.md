@@ -44,3 +44,4 @@
 44. [How to build your own React: Didact 解析](https://mp.weixin.qq.com/s/EL3Qu6SB9pct4d_vF7XVtQ)
 45. [React 实现自动上报 pv/click 的埋点 Hooks](https://mp.weixin.qq.com/s/3OkDEmGLckRmJWkS0e1o8A)
 46. [基于react/vue搭建一个通用的表单管理配置平台](https://mp.weixin.qq.com/s/aoJwa28MadaZoRlGcFKDSQ)
+47. [如何在 React 应用中使用 Hooks、Redux 等管理状态](https://mp.weixin.qq.com/s/lPndIOUmLA_X_9C06uod8w)
