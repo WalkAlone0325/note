@@ -114,4 +114,5 @@
 114. [如何实现在线预览和调试组件？](https://mp.weixin.qq.com/s/pbk6kP3YgurF3ypcQOaLIg)
 115. [保证你不知道的Vue 3技巧](https://mp.weixin.qq.com/s/CBEV9vwcbt5RefqQlHrfjA)
 116. [关于 Vue 项目打包部署知识点总结](https://mp.weixin.qq.com/s/FwmV9lNWsogWJNyBvL_5XA)
+117. [一起玩转Vue中的JSX：让你一次性掌握它的特性!](https://mp.weixin.qq.com/s/Ear2yeHfbNdnJnP8S2xTIQ)
 ~~~~
