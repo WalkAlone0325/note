@@ -116,4 +116,5 @@
 116. [关于 Vue 项目打包部署知识点总结](https://mp.weixin.qq.com/s/FwmV9lNWsogWJNyBvL_5XA)
 117. [一起玩转Vue中的JSX：让你一次性掌握它的特性!](https://mp.weixin.qq.com/s/Ear2yeHfbNdnJnP8S2xTIQ)
 118. [了解 Vue3 的响应式利器，让你开发效率大大提升](https://mp.weixin.qq.com/s/bNrXiSYIDoNMHApfPXlh0A)
+119. [在VUE3中调用 createApp 时，Vue 为我们做了那些工作？](https://mp.weixin.qq.com/s/Q_1XD-Ez6pEfuEHVlcrprg)
 ~~~~
