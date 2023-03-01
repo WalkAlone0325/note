@@ -117,4 +117,5 @@
 117. [一起玩转Vue中的JSX：让你一次性掌握它的特性!](https://mp.weixin.qq.com/s/Ear2yeHfbNdnJnP8S2xTIQ)
 118. [了解 Vue3 的响应式利器，让你开发效率大大提升](https://mp.weixin.qq.com/s/bNrXiSYIDoNMHApfPXlh0A)
 119. [在VUE3中调用 createApp 时，Vue 为我们做了那些工作？](https://mp.weixin.qq.com/s/Q_1XD-Ez6pEfuEHVlcrprg)
+120. [「2021」高频前端面试题汇总之Vue篇 （上）](https://juejin.cn/post/6919373017218809864?share_token=5f9f8ee6-5028-42c1-b3f2-095df029f926)
 ~~~~
