@@ -70,3 +70,4 @@
 70. [图解 React 的 diff 算法：核心就两个字 —— 复用](https://mp.weixin.qq.com/s/g7mbJlKqIjaHUU4UyA28pQ)
 71. [React 最新的路由库，玩出了什么花样？](https://mp.weixin.qq.com/s/lvcORpIe_XsGQtiZGj2raw)
 72. [写给 React 开发者的 TypeScript 指南](https://mp.weixin.qq.com/s/ZeSfPwVvEOZ9xHR4R4rA-Q)
+73. [如何在 React 应用中使用 Hooks、Redux 等管理状态](https://mp.weixin.qq.com/s/lPndIOUmLA_X_9C06uod8w)
