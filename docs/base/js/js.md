@@ -170,3 +170,4 @@
 168. [性能优化经验分享](https://mp.weixin.qq.com/s/ZfIWKRbF3Yq7sNFG2TsQFw)
 169. [屏幕适配的两种方案，超详细！](https://mp.weixin.qq.com/s/NYd4UGX9RV64XNL2ndg_1Q)
 170. [Web GIS 开发入门](https://mp.weixin.qq.com/s/CjSXdns1URlJ8Yztk0vbtw)
+171. [2023 年静态站点生成器 (SSG) 指南](https://mp.weixin.qq.com/s/A3LqxqrIV_Lrq25YQJztVg)
