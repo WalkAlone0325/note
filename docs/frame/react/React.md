@@ -45,3 +45,4 @@
 45. [React 实现自动上报 pv/click 的埋点 Hooks](https://mp.weixin.qq.com/s/3OkDEmGLckRmJWkS0e1o8A)
 46. [基于react/vue搭建一个通用的表单管理配置平台](https://mp.weixin.qq.com/s/aoJwa28MadaZoRlGcFKDSQ)
 47. [如何在 React 应用中使用 Hooks、Redux 等管理状态](https://mp.weixin.qq.com/s/lPndIOUmLA_X_9C06uod8w)
+48. [使用 React18 + Vite + TypeScript 完成公司项目经验总结，学到了很多](https://mp.weixin.qq.com/s/G-dGRGZua8eeWJyOcOk5oA)
