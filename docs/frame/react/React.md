@@ -46,5 +46,5 @@
 46. [基于react/vue搭建一个通用的表单管理配置平台](https://mp.weixin.qq.com/s/aoJwa28MadaZoRlGcFKDSQ)
 47. [如何在 React 应用中使用 Hooks、Redux 等管理状态](https://mp.weixin.qq.com/s/lPndIOUmLA_X_9C06uod8w)
 48. [使用 React18 + Vite + TypeScript 完成公司项目经验总结，学到了很多](https://mp.weixin.qq.com/s/G-dGRGZua8eeWJyOcOk5oA)
-49. [如何在 React 应用中使用 Hooks、Redux 等管理状态]()
+49. [如何在 React 应用中使用 Hooks、Redux 等管理状态](https://mp.weixin.qq.com/s/lPndIOUmLA_X_9C06uod8w)
 50. [微前端项目会碰到哪些棘手的问题](https://mp.weixin.qq.com/s/3OX1ZObOGs0AWW5_tSTnog)
