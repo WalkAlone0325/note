@@ -119,4 +119,5 @@
 119. [在VUE3中调用 createApp 时，Vue 为我们做了那些工作？](https://mp.weixin.qq.com/s/Q_1XD-Ez6pEfuEHVlcrprg)
 120. [「2021」高频前端面试题汇总之Vue篇 （上）](https://juejin.cn/post/6919373017218809864?share_token=5f9f8ee6-5028-42c1-b3f2-095df029f926)
 121. [一起玩转Vue中的JSX：让你一次性掌握它的特性!](https://mp.weixin.qq.com/s/wvCIvXcjcpYMyCW4tUfpOg)
+122. [结合Vue案例梳理前端设计模式](https://mp.weixin.qq.com/s/3ArqKPValhMWy_XKWvPwjg)
 ~~~~
