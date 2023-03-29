@@ -174,3 +174,4 @@
 172. [浅谈 Canvas 渲染引擎设计](https://mp.weixin.qq.com/s/HCdceL7lFtSWmxfPfXzufg)
 173. [「深入浅出」实现JSX的转换](https://mp.weixin.qq.com/s/qaU9aCV1FdT2kwekulZh3A)
 174. [前端如何实现请求中断](https://mp.weixin.qq.com/s/QA91Hly1vxRaIezztHMqZg)
+175. [提升代码可读性，减少 if-else 的几个小技巧](https://mp.weixin.qq.com/s/zpmXYZ-eoUz1A4Glm72rlAf)
