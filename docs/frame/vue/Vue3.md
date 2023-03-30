@@ -120,4 +120,5 @@
 120. [「2021」高频前端面试题汇总之Vue篇 （上）](https://juejin.cn/post/6919373017218809864?share_token=5f9f8ee6-5028-42c1-b3f2-095df029f926)
 121. [一起玩转Vue中的JSX：让你一次性掌握它的特性!](https://mp.weixin.qq.com/s/wvCIvXcjcpYMyCW4tUfpOg)
 122. [结合Vue案例梳理前端设计模式](https://mp.weixin.qq.com/s/3ArqKPValhMWy_XKWvPwjg)
+123. [Vue2与Vue3响应式原理与依赖收集详解](https://mp.weixin.qq.com/s/guMRG3C1cyyY3_HAQu-MHQ)
 ~~~~
