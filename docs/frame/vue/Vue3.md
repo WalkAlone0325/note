@@ -122,4 +122,5 @@
 122. [结合Vue案例梳理前端设计模式](https://mp.weixin.qq.com/s/3ArqKPValhMWy_XKWvPwjg)
 123. [Vue2与Vue3响应式原理与依赖收集详解](https://mp.weixin.qq.com/s/guMRG3C1cyyY3_HAQu-MHQ)
 124. [vue3.2组件通讯的七种方式](https://mp.weixin.qq.com/s/sL03ltYKig3-tMHy4Kv2AA)
+125. [最新，Vue 改进了响应式 API 中 getter 的用法！](https://mp.weixin.qq.com/s/UzcF4sqF4MOYrlwftswp8g)
 ~~~~
