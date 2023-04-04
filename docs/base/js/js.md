@@ -175,3 +175,4 @@
 173. [「深入浅出」实现JSX的转换](https://mp.weixin.qq.com/s/qaU9aCV1FdT2kwekulZh3A)
 174. [前端如何实现请求中断](https://mp.weixin.qq.com/s/QA91Hly1vxRaIezztHMqZg)
 175. [提升代码可读性，减少 if-else 的几个小技巧](https://mp.weixin.qq.com/s/zpmXYZ-eoUz1A4Glm72rlAf)
+176. [前端开发者应该知道的 Centos / Docker / Nginx / Node / Jenkins 操作](https://mp.weixin.qq.com/s/TlORnvHN3hxuU8lhwkMywg)
