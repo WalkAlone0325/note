@@ -32,3 +32,4 @@
 32. [10w字！前端知识体系+大厂面试笔记（框架篇）](https://mp.weixin.qq.com/s/LGRS00ayaHS4CCXhLFVQNg)
 33. [从零实现一个迷你 Webpack](https://mp.weixin.qq.com/s/jy6tZfecEZ_7-GRLf9qU0g)
 34. [一个极简的 webpack，针对单入口文件进行打包，来学习原理](https://mp.weixin.qq.com/s/JndBu8maXC-f9r1Ghw8kgg)
+35. [性能优化经验分享](https://mp.weixin.qq.com/s/ZfIWKRbF3Yq7sNFG2TsQFw)
