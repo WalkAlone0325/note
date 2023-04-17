@@ -179,3 +179,4 @@
 177. [Web前端工程师生存攻略](https://mp.weixin.qq.com/s/JnDO0Uv0_qAB8K0AuYrz_Q)
 178. [原来 JS 中的 Symbol 还有这么多的妙用？](https://mp.weixin.qq.com/s/IC9qlNrZAqNEAE8uEWpOzA)
 179. [闲来无事，摸鱼时让 chatgpt 帮忙，写了一个 console 样式增强库并发布 npm](https://mp.weixin.qq.com/s/-nYnPXFy-MdV_kmjlGFrpg)
+180. [十个超级好用的Javascript技巧](https://mp.weixin.qq.com/s/CFvXjERT8z3k7O7VXR8mwg)
