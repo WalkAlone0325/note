@@ -181,3 +181,4 @@
 179. [闲来无事，摸鱼时让 chatgpt 帮忙，写了一个 console 样式增强库并发布 npm](https://mp.weixin.qq.com/s/-nYnPXFy-MdV_kmjlGFrpg)
 180. [十个超级好用的Javascript技巧](https://mp.weixin.qq.com/s/CFvXjERT8z3k7O7VXR8mwg)
 181. [前端正确处理“文字溢出”的思路](https://mp.weixin.qq.com/s/x6juzfRSs4KuWLP8dt3TZQ)
+182. [JavaScript 包管理器——NPM 和 Yarn 完整指南](https://mp.weixin.qq.com/s/-9wNPiP1jTW-vW9DlJ9FdQ)
