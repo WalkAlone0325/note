@@ -34,4 +34,5 @@
 30. [详解 Vite 依赖预构建流程](https://mp.weixin.qq.com/s/2zZcjo9Wfg7wZBjsyCnT_w)
 31. [中杯超大杯中间的新选择—— Vue2.7 + Vite + TS 实践](https://mp.weixin.qq.com/s/UEtXpC4_8zX7s0Q8ZxZ71Q)
 32. [Vite入门从手写一个乞丐版的Vite开始（上）](https://mp.weixin.qq.com/s/IHDKQECb3qRwZgQ8HCx5Hw)
-33. [vite+vue3 项目在手机上预览](https://mp.weixin.qq.com/s/ipM-9XkThaNA2EQwxmXqpw)
+33. [vite+vue3 项目在手机上预览](https://mp.weixin.qq.com/s/ipM-9XkThaNA2EQwxmXqpw)Vite 4.3 正式发布，速度全面提升！
+34. [Vite 4.3 正式发布，速度全面提升！](https://mp.weixin.qq.com/s/_8t3V8kmhhL-3nrp6rzUSg)
