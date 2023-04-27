@@ -124,4 +124,5 @@
 124. [vue3.2组件通讯的七种方式](https://mp.weixin.qq.com/s/sL03ltYKig3-tMHy4Kv2AA)
 125. [最新，Vue 改进了响应式 API 中 getter 的用法！](https://mp.weixin.qq.com/s/UzcF4sqF4MOYrlwftswp8g)
 126. [如何在 Axios 中去控制 Loading？大有学问](https://mp.weixin.qq.com/s/R-7c9LPseZdwThrNe7cOcQ)
+127. [图形编辑器vue-fabric-editor开源](https://mp.weixin.qq.com/s/p4jsrJxcr5F8VXBsrGiNOA)
 ~~~~
