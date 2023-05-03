@@ -126,4 +126,5 @@
 126. [如何在 Axios 中去控制 Loading？大有学问](https://mp.weixin.qq.com/s/R-7c9LPseZdwThrNe7cOcQ)
 127. [图形编辑器vue-fabric-editor开源](https://mp.weixin.qq.com/s/p4jsrJxcr5F8VXBsrGiNOA)
 128. [用这招监听 Vue 的插槽变化](https://mp.weixin.qq.com/s/D1fvKaJhSBd462qn6mXtpw)
+129. [使用 Vue 3 时应避免的 10 个错误](https://mp.weixin.qq.com/s/axebEr7_JbQ3wwMpWC_yJA)
 ~~~~
