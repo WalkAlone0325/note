@@ -127,4 +127,5 @@
 127. [图形编辑器vue-fabric-editor开源](https://mp.weixin.qq.com/s/p4jsrJxcr5F8VXBsrGiNOA)
 128. [用这招监听 Vue 的插槽变化](https://mp.weixin.qq.com/s/D1fvKaJhSBd462qn6mXtpw)
 129. [使用 Vue 3 时应避免的 10 个错误](https://mp.weixin.qq.com/s/axebEr7_JbQ3wwMpWC_yJA)
+130. [什么是 ”无渲染组件“ ？](https://mp.weixin.qq.com/s/b5Q8uPFkZ9HYi3b_npq2IQ)
 ~~~~
