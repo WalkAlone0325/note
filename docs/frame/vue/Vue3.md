@@ -128,4 +128,5 @@
 128. [用这招监听 Vue 的插槽变化](https://mp.weixin.qq.com/s/D1fvKaJhSBd462qn6mXtpw)
 129. [使用 Vue 3 时应避免的 10 个错误](https://mp.weixin.qq.com/s/axebEr7_JbQ3wwMpWC_yJA)
 130. [什么是 ”无渲染组件“ ？](https://mp.weixin.qq.com/s/b5Q8uPFkZ9HYi3b_npq2IQ)
+131. [写一个Vue DevTools，让开发体验飞一会](https://mp.weixin.qq.com/s/rqqV74ueH3P6-gDcVvyT_w)
 ~~~~
