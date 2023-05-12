@@ -129,4 +129,5 @@
 129. [使用 Vue 3 时应避免的 10 个错误](https://mp.weixin.qq.com/s/axebEr7_JbQ3wwMpWC_yJA)
 130. [什么是 ”无渲染组件“ ？](https://mp.weixin.qq.com/s/b5Q8uPFkZ9HYi3b_npq2IQ)
 131. [写一个Vue DevTools，让开发体验飞一会](https://mp.weixin.qq.com/s/rqqV74ueH3P6-gDcVvyT_w)
+132. [Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s/Jaocnec9XBFq0HTJL98Eig)
 ~~~~
