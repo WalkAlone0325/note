@@ -49,3 +49,4 @@
 49. [如何在 React 应用中使用 Hooks、Redux 等管理状态](https://mp.weixin.qq.com/s/lPndIOUmLA_X_9C06uod8w)
 50. [微前端项目会碰到哪些棘手的问题](https://mp.weixin.qq.com/s/3OX1ZObOGs0AWW5_tSTnog)
 51. [一文吃透 React v18 全部Api（1.3w 字）](https://mp.weixin.qq.com/s/Mw1-a6tHOrv-k2VM7NkRdg)
+52. [记录改造一个2018年的react老项目到vite4.3全过程](https://mp.weixin.qq.com/s/QtDxj10ojmsIhhzbwIqlHQ)
