@@ -131,4 +131,5 @@
 131. [写一个Vue DevTools，让开发体验飞一会](https://mp.weixin.qq.com/s/rqqV74ueH3P6-gDcVvyT_w)
 132. [Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s/Jaocnec9XBFq0HTJL98Eig)
 133. [Nuxt 3.5.0发布了，Vue 3.3 加持！](https://mp.weixin.qq.com/s/wtIyTy0F84XYeOm2QSZ1VA)
+134. [Vue 前端设计模式梳理：拯救你的前端代码](https://mp.weixin.qq.com/s/qJVZl6dwjODyrCdkVedYlw)
 ~~~~
