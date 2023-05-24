@@ -200,3 +200,4 @@
 198. [new Date() 我忍你很久了！](https://mp.weixin.qq.com/s/ZL9HyBokrR7oj22HBgagPg)
 199. [在JavaScript中 4 种创建枚举方式](https://mp.weixin.qq.com/s/_5SYPbTWRclkUkyucZaJ8w)
 200. [因为写不出拖拽移动效果，我恶补了一下Dom中的各种距离](https://mp.weixin.qq.com/s/tpto7JQKeJcBltzZWei-wA)
+201. [5 种JavaScript 中的高级异常处理方法](https://mp.weixin.qq.com/s/qrgSvnALdegRgtG3HBU36g)
