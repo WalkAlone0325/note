@@ -12,3 +12,4 @@
 12. [收藏 | 移动端 H5 开发常用技巧总结](https://mp.weixin.qq.com/s/cHTCu3xF5wQSYiqsUZ7kBQ)
 13. [一些常见的移动端适配方案，你了解吗？](https://mp.weixin.qq.com/s/wrmr3QOH4XM4B4Pnjw-mJw)
 14. [一次搞懂数据大屏适配方案 (vw vh、rem、scale)](https://mp.weixin.qq.com/s/iybivItaK5fAU2yPX1OrJQ)
+15. [这40条移动端H5排坑指南也许能让你工作少走弯路](https://mp.weixin.qq.com/s/r4G9fB7bL3GqvA0s4E9ImQ)
