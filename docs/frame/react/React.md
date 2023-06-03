@@ -53,3 +53,4 @@
 53. [2023 Vue开发者的React入门](https://mp.weixin.qq.com/s/p9srauSThg0VC9Cy7JaNUw)
 54. [开发 React 组件库时，可能没注意到的小细节！](https://mp.weixin.qq.com/s/3nEJwjCJMNl4MLRwauSLRQ)
 55. [【5年以上前端】Vue 和 React 的区别看这里](https://mp.weixin.qq.com/s/NtBuvsp9ql50nj5ke-nA_Q)
+56. [Vue 转 React的开发者，常犯的10个错误~](Vue 转 React的开发者，常犯的10个错误~)
