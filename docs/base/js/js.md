@@ -203,3 +203,4 @@
 201. [5 种JavaScript 中的高级异常处理方法](https://mp.weixin.qq.com/s/qrgSvnALdegRgtG3HBU36g)
 202. [设计一个支持并发的前端接口缓存](设计一个支持并发的前端接口缓存)
 203. [从浏览器到 Node.js 环境，一文彻底搞懂前端沙箱](https://mp.weixin.qq.com/s/U5AP1f9WKdJCUo4HVqrjxA)
+204. [别再被牵着走了！命令模式让你做回真正的主人](https://mp.weixin.qq.com/s/tW5tOEjeO1QF3Ng-tDgXhA)
