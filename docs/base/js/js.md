@@ -206,3 +206,4 @@
 204. [别再被牵着走了！命令模式让你做回真正的主人](https://mp.weixin.qq.com/s/tW5tOEjeO1QF3Ng-tDgXhA)
 205. [你们喜欢用forEach吗？说说我为啥不喜欢用forEach~](https://mp.weixin.qq.com/s/L8D9GXIXiZwNLdjy85dJcg)
 206. [工厂模式初探：从基础到实战](https://mp.weixin.qq.com/s/4ejRITV6g0UHofXoGCPHnA)
+207. [JS中数组22种常用API总结，slice、splice、map、reduce、shift、filter....](JS中数组22种常用API总结，slice、splice、map、reduce、shift、filter....)
