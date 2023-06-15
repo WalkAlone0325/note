@@ -4,3 +4,4 @@
 - 首屏渲染时间长 （预渲染 Prerendering）
 
 1. [如何排查 nuxt 的内存泄露问题 & 优化](https://mp.weixin.qq.com/s/ZfhKh7BkfzCXA7C6D3Waaw)
+2. [Nuxt.js 官方开源的 3 个基于Nuxt + Vue的实战项目！](https://mp.weixin.qq.com/s/oVCLER3RRAHHNDzfJhru8g)
