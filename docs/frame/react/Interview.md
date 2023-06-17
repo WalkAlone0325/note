@@ -73,3 +73,4 @@
 73. [如何在 React 应用中使用 Hooks、Redux 等管理状态](https://mp.weixin.qq.com/s/lPndIOUmLA_X_9C06uod8w)
 74. [通过 React Router V6 源码，掌握前端路由](https://mp.weixin.qq.com/s/UIeTIenNBBSUC5Bd0oVAVA)
 75. [leader要我三天时间搭一套react-cli出来，我答应了...](https://mp.weixin.qq.com/s/WLyl15SmnZmbdnzr2RfqGQ)
+76. [React中几种编写弹窗的方式](https://mp.weixin.qq.com/s/Vx-MsGvKGdRAXCFrrTStzQ)
