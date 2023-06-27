@@ -210,3 +210,4 @@
 208. [Babel？No！AST！](https://mp.weixin.qq.com/s/bRk9exa31Lbzz8JeOsKBNQs)
 209. [常见的 HTTP Header 字段](https://mp.weixin.qq.com/s/1YUGpfCZC1GClbK303SkZQ)
 210. [掌握这 5 个技巧，让你的 Dockerfile 像个大师！](https://mp.weixin.qq.com/s/v9kznJ1OezUxA49-nd_r_Q)
+211. [页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s/powFjsVhJL43hM2j-gA_Og)
