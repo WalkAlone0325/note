@@ -36,3 +36,4 @@
 32. [Vite入门从手写一个乞丐版的Vite开始（上）](https://mp.weixin.qq.com/s/IHDKQECb3qRwZgQ8HCx5Hw)
 33. [vite+vue3 项目在手机上预览](https://mp.weixin.qq.com/s/ipM-9XkThaNA2EQwxmXqpw)Vite 4.3 正式发布，速度全面提升！
 34. [Vite 4.3 正式发布，速度全面提升！](https://mp.weixin.qq.com/s/_8t3V8kmhhL-3nrp6rzUSg)
+35. [深入浅出Vite：如何开发一个Vite插件](https://mp.weixin.qq.com/s/Iy7jTlpvg2-jT8rDK530Vw)
