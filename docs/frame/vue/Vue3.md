@@ -134,4 +134,5 @@
 134. [Vue 前端设计模式梳理：拯救你的前端代码](https://mp.weixin.qq.com/s/qJVZl6dwjODyrCdkVedYlw)
 135. [面试官：你觉得Vue的响应式系统仅仅是一个Proxy？](https://mp.weixin.qq.com/s/ncPgUrQ8ZddR2AAGVmeojw)
 136. [极致舒适的 Vue 可编辑表格](https://mp.weixin.qq.com/s/BsjD9VgyhOK_YvZ6_4KAyw)
+137. [Vue源码响应式: Reactive分析](https://mp.weixin.qq.com/s/hdvxZk7EqxY-iM-kZU0XXA)
 ~~~~
