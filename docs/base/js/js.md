@@ -213,3 +213,4 @@
 211. [页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s/powFjsVhJL43hM2j-gA_Og)
 212. [解决前端常见问题：竞态条件](https://mp.weixin.qq.com/s/c-vDWMV0XHnbpmR6tvzL8A)
 213. [JS基础梳理: 数据类型及检测方法](https://mp.weixin.qq.com/s/NJ2dnLeXCF6C2A2IAYmGoQ)
+214. [前端大概要的知道 AST](https://mp.weixin.qq.com/s/7LhZS263m35izWrQ0Bj7Mg)
