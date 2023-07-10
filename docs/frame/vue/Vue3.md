@@ -135,4 +135,5 @@
 135. [面试官：你觉得Vue的响应式系统仅仅是一个Proxy？](https://mp.weixin.qq.com/s/ncPgUrQ8ZddR2AAGVmeojw)
 136. [极致舒适的 Vue 可编辑表格](https://mp.weixin.qq.com/s/BsjD9VgyhOK_YvZ6_4KAyw)
 137. [Vue源码响应式: Reactive分析](https://mp.weixin.qq.com/s/hdvxZk7EqxY-iM-kZU0XXA)
+138. [vue3.3正式发布，快来尝鲜！！！](https://mp.weixin.qq.com/s/H64SD7lO4WKcW22JEe14MA)
 ~~~~
