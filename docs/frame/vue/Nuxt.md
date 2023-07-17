@@ -7,3 +7,4 @@
 2. [Nuxt.js 官方开源的 3 个基于Nuxt + Vue的实战项目！](https://mp.weixin.qq.com/s/oVCLER3RRAHHNDzfJhru8g)
 3. [Nuxt.js 官方开源的 3 个基于Nuxt + Vue的实战项目！](https://mp.weixin.qq.com/s/oVCLER3RRAHHNDzfJhru8g)
 4. [没几个前端知道这种 字符串分割技巧](https://mp.weixin.qq.com/s/AsI71qlGH57v0c_-OwVDvQ)
+5. [Nuxt 3 Data Fetching 完全指南](https://mp.weixin.qq.com/s/52KyBnZ2_nQVH53ftyB_jw)
