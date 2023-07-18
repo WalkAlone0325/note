@@ -218,3 +218,4 @@
 216. [ES7、ES8、ES9、ES10、ES11、ES12都增加了哪些新特性？](https://mp.weixin.qq.com/s/mSwuDfLQlBep3-cn_l_Oww)
 217. [上手 Day.js 日期处理库](https://mp.weixin.qq.com/s/GFc5QqaKTpBKKrDtwuM1cQ)
 218. [TypeScript 5.2 将引入新关键字 using ！](https://mp.weixin.qq.com/s/Sw7G5GEZ3JUNUIo7x4W2AA)
+219. [请用 TS 写出 20 个数组方法的声明](https://mp.weixin.qq.com/s/JqN6vm3YaSxT2HIWJ7k99w)
