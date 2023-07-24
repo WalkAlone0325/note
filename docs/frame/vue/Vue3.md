@@ -139,4 +139,5 @@
 139. [vue3 admin 保姆教学指南｜后台管理系统的Layout实现](https://mp.weixin.qq.com/s/IR4Jyf_DLaeJWfW0UAzP2w)
 140. [React、Vue3、Svelte 写法大 PK](https://mp.weixin.qq.com/s/EwlTZTxSRVfX2OrkMjYHEg)
 141. [前端Vuer，请收好这份《Vue组件单元测试》宝典，给自己多一些安全感](https://mp.weixin.qq.com/s/7Q5cpjqPBoz6w5Zoe7rBiQ)
+142. [前端Vuer，请收好这份《Vue组件单元测试》宝典，给自己多一些安全感](https://mp.weixin.qq.com/s/7Q5cpjqPBoz6w5Zoe7rBiQ)
 ~~~~
