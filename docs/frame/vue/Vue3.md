@@ -140,4 +140,5 @@
 140. [React、Vue3、Svelte 写法大 PK](https://mp.weixin.qq.com/s/EwlTZTxSRVfX2OrkMjYHEg)
 141. [前端Vuer，请收好这份《Vue组件单元测试》宝典，给自己多一些安全感](https://mp.weixin.qq.com/s/7Q5cpjqPBoz6w5Zoe7rBiQ)
 142. [前端Vuer，请收好这份《Vue组件单元测试》宝典，给自己多一些安全感](https://mp.weixin.qq.com/s/7Q5cpjqPBoz6w5Zoe7rBiQ)
+143. [极致舒适的 Vue 弹窗使用方案](极致舒适的 Vue 弹窗使用方案)
 ~~~~
