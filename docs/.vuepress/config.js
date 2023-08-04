@@ -80,6 +80,7 @@ module.exports = {
             ['/frame/vue/interview-link', '面试题链接'],
             ['/frame/vue/vue-admin', 'VUE_ADMIN'],
             ['/frame/vue/Vite', 'Vite'],
+            ['/frame/vue/UniApp', 'UniApp']
           ],
         },
         {
