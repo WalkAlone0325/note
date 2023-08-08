@@ -143,4 +143,5 @@
 143. [极致舒适的 Vue 弹窗使用方案](极致舒适的 Vue 弹窗使用方案)
 144. [vue3 清空reactive的多种方式](https://mp.weixin.qq.com/s/t9rvs1kWv5GsQzIgxs_giA)
 145. [Vue Vine：创造另一种书写 Vue 组件的方式](https://mp.weixin.qq.com/s/S2E9EvDs2CQKvP_IJtjTig)
+146. [Vue组件的Prop命名约定](https://mp.weixin.qq.com/s/lMi2Tc7mRIMehFyKJLcjJg)
 ~~~~
