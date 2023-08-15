@@ -145,4 +145,5 @@
 145. [Vue Vine：创造另一种书写 Vue 组件的方式](https://mp.weixin.qq.com/s/S2E9EvDs2CQKvP_IJtjTig)
 146. [Vue组件的Prop命名约定](https://mp.weixin.qq.com/s/lMi2Tc7mRIMehFyKJLcjJg)
 147. [Vue3使用@vueuse/core的createFetch代替axios封装网络请求](https://mp.weixin.qq.com/s/0zGGx1qha13lMtIp-ylMkg)
+148. [Vue3使用vue-router路由管理工具](https://mp.weixin.qq.com/s/nrg1CEVNAAfLoZPCD9Ldvw)
 ~~~~
