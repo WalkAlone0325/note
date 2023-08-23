@@ -226,3 +226,4 @@
 224. [说 Lottie 谁是 Lottie？](https://mp.weixin.qq.com/s/siuw5PN6J9szuFb3uBqV6w)
 225. [重学 call/apply/bind ，面试不慌了！](https://mp.weixin.qq.com/s/A6jCVP6qFPkjwoI8erERQA)
 226. [聊聊前端模块化](https://mp.weixin.qq.com/s/CPUf0LtBEuwGXGkL_vgdVA)
+227. [恕我直言，不懂 Map 就是犯罪！](恕我直言，不懂 Map 就是犯罪！)
