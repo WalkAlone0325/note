@@ -6,3 +6,4 @@
 2. [10个开源微信小程序实战项目，yyds](https://mp.weixin.qq.com/s/h3UB5V1ehfhn6Ce_jyWluQ)
 3. [uni-app 获取当前小程序appid以及存储数据](https://mp.weixin.qq.com/s/CrB8U-JDSSa-pzuetDdNuQ)
 4. [uni-app 获取当前环境信息以及存储数据](https://mp.weixin.qq.com/s/uOFJEoP6byjjYYrTy2CF-g)
+5. [uni-app 自定义导航栏](https://mp.weixin.qq.com/s/0Km2JDDxMhx8WwxQZBNHgA)
