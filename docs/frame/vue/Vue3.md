@@ -148,4 +148,5 @@
 148. [Vue3使用vue-router路由管理工具](https://mp.weixin.qq.com/s/nrg1CEVNAAfLoZPCD9Ldvw)
 149. [3种使用Vue 3创建多布局系统的方法](https://mp.weixin.qq.com/s/5yQAmiIn6m8lr90Vm5iIdA)
 150. [使用Vue Query进行高级数据获取](使用Vue Query进行高级数据获取)
+151. [Pinia被鼓吹的setup写法真的好用吗](https://mp.weixin.qq.com/s/mn0y4EEbDNN_80LG8G3WzQ)
 ~~~~
