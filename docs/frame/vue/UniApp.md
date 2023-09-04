@@ -8,3 +8,4 @@
 4. [uni-app 获取当前环境信息以及存储数据](https://mp.weixin.qq.com/s/uOFJEoP6byjjYYrTy2CF-g)
 5. [uni-app 自定义导航栏](https://mp.weixin.qq.com/s/0Km2JDDxMhx8WwxQZBNHgA)
 6. [微信小程序 —— 自定义顶部、底部导航栏以及获取胶囊体位置信息](https://juejin.cn/post/7265125368552783930)
+7. [uni-app开发小程序：项目架构以及经验分享](https://juejin.cn/post/7259589417736847416?searchId=2023090109542812ACEAB19E38308F4217)
