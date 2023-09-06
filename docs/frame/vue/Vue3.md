@@ -149,4 +149,5 @@
 149. [3种使用Vue 3创建多布局系统的方法](https://mp.weixin.qq.com/s/5yQAmiIn6m8lr90Vm5iIdA)
 150. [使用Vue Query进行高级数据获取](使用Vue Query进行高级数据获取)
 151. [Pinia被鼓吹的setup写法真的好用吗](https://mp.weixin.qq.com/s/mn0y4EEbDNN_80LG8G3WzQ)
+152. [极致舒适的 Vue3【Provide/Inject】食用指南](https://mp.weixin.qq.com/s/I8cVjyfGeBJFjNiDm3pW3Q)
 ~~~~
