@@ -11,3 +11,4 @@
 7. [uni-app开发小程序：项目架构以及经验分享](https://juejin.cn/post/7259589417736847416?searchId=2023090109542812ACEAB19E38308F4217)
 8. [uni-app 自定义swiper组件](https://mp.weixin.qq.com/s/hOPClL12nhkQ4-5oVp4S2w)
 9. [uni-app 中的接口请求封装](https://juejin.cn/post/7239923199609241658)
+10. [数据字典请求与缓存方案](https://juejin.cn/post/7260070602613653565)
