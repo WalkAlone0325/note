@@ -12,3 +12,4 @@
 8. [uni-app 自定义swiper组件](https://mp.weixin.qq.com/s/hOPClL12nhkQ4-5oVp4S2w)
 9. [uni-app 中的接口请求封装](https://juejin.cn/post/7239923199609241658)
 10. [数据字典请求与缓存方案](https://juejin.cn/post/7260070602613653565)
+11. [uniApp新模式：使用Vue3 + Vite4 + Pinia + Axios技术栈构建](https://mp.weixin.qq.com/s/Hz2085-S7sJQSizqKYLQHw)
