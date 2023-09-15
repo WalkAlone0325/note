@@ -10,3 +10,4 @@
 5. [Nuxt 3 Data Fetching 完全指南](https://mp.weixin.qq.com/s/52KyBnZ2_nQVH53ftyB_jw)
 6. [Nuxt 3.7 正式发布，带来全新CLI工具！](Nuxt 3.7 正式发布，带来全新CLI工具！)
 7. [如何在 Vue.js 和 Nuxt.js 之间做出选择？](https://mp.weixin.qq.com/s/TmByCJXeczIkWLepxAtxUA)
+8. [除了 SSR、CSR 还有 ISR 和 SSG？五分钟搞懂它们的区别](https://mp.weixin.qq.com/s/rXCCStpJfbXpqhWYF4nz6A)
