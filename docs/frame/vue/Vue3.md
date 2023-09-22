@@ -150,5 +150,5 @@
 150. [使用Vue Query进行高级数据获取](使用Vue Query进行高级数据获取)
 151. [Pinia被鼓吹的setup写法真的好用吗](https://mp.weixin.qq.com/s/mn0y4EEbDNN_80LG8G3WzQ)
 152. [极致舒适的 Vue3【Provide/Inject】食用指南](https://mp.weixin.qq.com/s/I8cVjyfGeBJFjNiDm3pW3Q)
-153. [每个前端人都应该看看的Vue3开源项目](https://mp.weixin.qq.com/s/p1JoMmVoPofzKD3_s2K81g)
+153. [必不可少的UI组件一——组件的基础知识](https://mp.weixin.qq.com/s/PCM6Op9tZwilvBh4hGH8pA)
 ~~~~
