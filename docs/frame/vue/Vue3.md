@@ -151,4 +151,5 @@
 151. [Pinia被鼓吹的setup写法真的好用吗](https://mp.weixin.qq.com/s/mn0y4EEbDNN_80LG8G3WzQ)
 152. [极致舒适的 Vue3【Provide/Inject】食用指南](https://mp.weixin.qq.com/s/I8cVjyfGeBJFjNiDm3pW3Q)
 153. [必不可少的UI组件一——组件的基础知识](https://mp.weixin.qq.com/s/PCM6Op9tZwilvBh4hGH8pA)
+154. [HTML如何使用Vue3、Element-plus、Axios](https://mp.weixin.qq.com/s/2NspbSXpuSp5u5oJaQEyHg)
 ~~~~
