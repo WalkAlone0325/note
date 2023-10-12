@@ -37,3 +37,4 @@
 33. [vite+vue3 项目在手机上预览](https://mp.weixin.qq.com/s/ipM-9XkThaNA2EQwxmXqpw)Vite 4.3 正式发布，速度全面提升！
 34. [Vite 4.3 正式发布，速度全面提升！](https://mp.weixin.qq.com/s/_8t3V8kmhhL-3nrp6rzUSg)
 35. [深入浅出Vite：如何开发一个Vite插件](https://mp.weixin.qq.com/s/Iy7jTlpvg2-jT8rDK530Vw)
+36. [Vite 4.3 正式发布，极致的性能优化！](https://mp.weixin.qq.com/s/79WfQNSbf6i2Yh_pY_5QDA)
