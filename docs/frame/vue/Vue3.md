@@ -155,4 +155,5 @@
 155. [Vue3与JSX：前端开发的完美结合](https://mp.weixin.qq.com/s/j7QTlSCNHVDl-6uwDj_nDw)
 156. [vuejs中使用axios时如何追加数据](https://mp.weixin.qq.com/s/Y0CVBM-hP4zCo7OKsi6h5w)
 157. [前端 按钮级别 权限校验 directive VS 装饰器](https://mp.weixin.qq.com/s/mI2kRRxRqaMFnstgtYQRnA)
+158. [基于vue3+threejs实现可视化大屏](https://mp.weixin.qq.com/s/Hhf5m4DCQaWbynvVyD6DEQ)
 ~~~~
