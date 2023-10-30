@@ -233,3 +233,4 @@
 231. [改变axios的用法后，我的工作效率提升了3倍](https://mp.weixin.qq.com/s/P8Z8opPvZEHUldbIMIKTkQ)
 232. [leaferjs，全新的 Canvas 渲染引擎](https://mp.weixin.qq.com/s/IF1bfWPaIuYmZxFuk0srCw)
 233. [有哪些必看的 JS 库？](https://mp.weixin.qq.com/s/sJLHUB1pEecN-gBbOBWaFQ)
+234. [Astro，一个不一样的前端框架](https://mp.weixin.qq.com/s/bJQaepBHFoii4Yir3-AICA)
