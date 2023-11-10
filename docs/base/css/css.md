@@ -43,3 +43,4 @@
 41. [新的 CSS 属性：aspect-ratio 为元素设置宽高比](https://mp.weixin.qq.com/s/gecmbOG9lsbAUvqvvDgPGQ)
 42. [2022 年 CSS 新增了这么多牛逼的特性](https://mp.weixin.qq.com/s/DWVoOTSzY6WykNY4s4w4CA)
 43. [有趣的CSS - 新拟态输入框](https://mp.weixin.qq.com/s/z3sdHToTZgflvEKYNOAPTA)
+44. [normalize.css 与 reset.css 又何区别](https://mp.weixin.qq.com/s/UAyDTpl82B18h5KG6BxjBA)
