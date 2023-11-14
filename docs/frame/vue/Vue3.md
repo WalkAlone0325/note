@@ -157,4 +157,5 @@
 157. [前端 按钮级别 权限校验 directive VS 装饰器](https://mp.weixin.qq.com/s/mI2kRRxRqaMFnstgtYQRnA)
 158. [基于vue3+threejs实现可视化大屏](https://mp.weixin.qq.com/s/Hhf5m4DCQaWbynvVyD6DEQ)
 159. [如何在 Vue TypeScript 项目使用 emits 事件](https://mp.weixin.qq.com/s/i4i-0vp2SmgXPcHSwFZ57Q)
+160. [即将到来的 Vue 3 “Vapor Mode”](https://mp.weixin.qq.com/s/liS8Qq0xCj9e_QlfZu27rw)
 ~~~~
