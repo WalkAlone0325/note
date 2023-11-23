@@ -158,4 +158,5 @@
 158. [基于vue3+threejs实现可视化大屏](https://mp.weixin.qq.com/s/Hhf5m4DCQaWbynvVyD6DEQ)
 159. [如何在 Vue TypeScript 项目使用 emits 事件](https://mp.weixin.qq.com/s/i4i-0vp2SmgXPcHSwFZ57Q)
 160. [即将到来的 Vue 3 “Vapor Mode”](https://mp.weixin.qq.com/s/liS8Qq0xCj9e_QlfZu27rw)
+161. [vue3全局存储的使用](https://mp.weixin.qq.com/s/XJR0R_IqueXj_YEVAkZe_Q)
 ~~~~
