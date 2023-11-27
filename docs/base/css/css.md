@@ -44,3 +44,4 @@
 42. [2022 年 CSS 新增了这么多牛逼的特性](https://mp.weixin.qq.com/s/DWVoOTSzY6WykNY4s4w4CA)
 43. [有趣的CSS - 新拟态输入框](https://mp.weixin.qq.com/s/z3sdHToTZgflvEKYNOAPTA)
 44. [normalize.css 与 reset.css 又何区别](https://mp.weixin.qq.com/s/UAyDTpl82B18h5KG6BxjBA)
+45. [CSS前瞻：@media (scripting)助你优雅降级](https://mp.weixin.qq.com/s/7g6JkjkAZ7_6XjTn8wTVWg)
