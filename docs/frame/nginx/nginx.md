@@ -5,3 +5,4 @@
 5. [Nginx 极简教程 — 帮助新手快速入门](https://mp.weixin.qq.com/s/91ZMqBEg0aIRI59ppUKAoQ)
 6. [看完这篇保姆级教程，彻底掌握 Nginx](https://mp.weixin.qq.com/s/1SjzSYZqWMDoBrYsFVoCZg)
 7. [看完这篇保姆级教程，彻底掌握 Nginx](https://mp.weixin.qq.com/s/1SjzSYZqWMDoBrYsFVoCZg)
+8. [三年前端还不会配置Nginx，被老板打了，今天一口气学完](https://mp.weixin.qq.com/s/hMxT2IUTHZYi1KWozETswg)
