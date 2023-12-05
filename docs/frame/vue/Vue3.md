@@ -160,4 +160,5 @@
 160. [即将到来的 Vue 3 “Vapor Mode”](https://mp.weixin.qq.com/s/liS8Qq0xCj9e_QlfZu27rw)
 161. [vue3全局存储的使用](https://mp.weixin.qq.com/s/XJR0R_IqueXj_YEVAkZe_Q)
 162. [最全 vue3 开源管理系统汇总](https://mp.weixin.qq.com/s/FeqqCKSw9NhlDR_ab6xuAg)
+163. [前端组长应该如何管理前端团队](https://mp.weixin.qq.com/s/sT6ZE0-tGnInjzywsU0GUQ)
 ~~~~
