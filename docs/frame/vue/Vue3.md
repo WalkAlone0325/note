@@ -163,4 +163,5 @@
 163. [前端组长应该如何管理前端团队](https://mp.weixin.qq.com/s/sT6ZE0-tGnInjzywsU0GUQ)
 164. [Vitest 1.0 正式发布：Vue 团队打造的下一代测试框架！](https://mp.weixin.qq.com/s/Da31cYCVOD8HWL9ha_K3rw)
 165. [前端 vue 项目搭建](https://mp.weixin.qq.com/s/Bo1Kh3CsLTSqylHeeNh-hg)
+166. [Vue3项目我做到让组员的表单开发效率提示30%！](https://mp.weixin.qq.com/s/qVYPFvAEV7HpqiTkVO0GjA)
 ~~~~
