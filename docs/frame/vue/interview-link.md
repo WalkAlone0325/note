@@ -119,3 +119,4 @@
 119. [Vue超全资源，收藏！](https://mp.weixin.qq.com/s/jsscIOb0IFbI69tq6wTHLg)
 120. [专为Element UI搭配的富文本编辑器](https://mp.weixin.qq.com/s/XwUTbh4TmuM7Xlp5uZ9klg)
 121. [我是怎么调试 Element UI 源码的](https://mp.weixin.qq.com/s/J_ePb4DlZed0j7AqyDBlBw)
+122. [比 Eslint 快 100 倍！新一代 JS Linter 发布！](https://mp.weixin.qq.com/s/HvaUv0R7fV5QoL24PqFCgw)
