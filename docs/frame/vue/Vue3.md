@@ -72,7 +72,7 @@
 72. [做好这 16 个方向，逐步搭建出团队的 vue3 前端架构](https://mp.weixin.qq.com/s/oXnfm4nXYgwYmns3xR0rRw)
 73. [基于 Vue3 和 TS4 项目大量实践后的总结](https://mp.weixin.qq.com/s/5tWOqRHUhhkGntvu6JzJNA)
 74. [如何做到修改 node_module 中的包，却不受重新安装的影响](https://mp.weixin.qq.com/s/oOXssGmNA6vYLJhv7oQq5g)
-75. [Vue3 <script setup lang="ts"> 使用指南](https://mp.weixin.qq.com/s/Mvc16II45cr4LwBNQSBPOg)
+75. [Vue3 script setup lang="ts" 使用指南](https://mp.weixin.qq.com/s/Mvc16II45cr4LwBNQSBPOg)
 76. [3k 字，从 0 开始了解 16 个 Vue 指令到手动封装自定义指令](https://mp.weixin.qq.com/s/IXtsqY1t72liZ7rDIbyaIQ)
 77. [梳理 Vue3 相比于 Vue2 的有哪些 “与众不同” ？](https://mp.weixin.qq.com/s/PdG6YYi4_QkUXA0PC_I5JQ)
 78. [Vue 组件递归——组件化开发的必备技能！](https://mp.weixin.qq.com/s/6cVW03HrjpVt0fY6D2rqNQ)
