@@ -167,4 +167,5 @@
 167. [极致舒适的Vue可编辑表格](https://mp.weixin.qq.com/s/7pA2u5uMWhc21fCIRunrbg)
 168. [Vue 微前端开发的七大神器（译）](https://mp.weixin.qq.com/s/JUPxD3pSZt7Kl4UFJ68CPQ)
 169. [总结了十个Vue3超级实用但是很冷门的API](https://mp.weixin.qq.com/s/0S_IGopSeqD6h6QV9TqLWA)
+170. [Vue 组件 v-model 等价展开、computed 和 watch 三种写法谁更优雅？](https://mp.weixin.qq.com/s/XK-WCBdB7CYRG_5WE-jgLA)
 ~~~~
