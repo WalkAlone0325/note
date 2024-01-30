@@ -170,4 +170,5 @@
 170. [Vue 组件 v-model 等价展开、computed 和 watch 三种写法谁更优雅？](https://mp.weixin.qq.com/s/XK-WCBdB7CYRG_5WE-jgLA)
 171. [Vue的@input怎么做到不监听输入法拼音的？90%人不知道~](https://mp.weixin.qq.com/s/eFzMG9uM9I9JLoJt7Qr4yg)
 172. [诉诸 Vue 组合式 API 解构 props](https://mp.weixin.qq.com/s/hDO2Jeusc4CWBg91eUFvqA)
+173. [想提升技术，必看的8个开源库，都很通俗易懂~](https://mp.weixin.qq.com/s/VntxWyHfMESPV0UTAhTOcg)
 ~~~~
