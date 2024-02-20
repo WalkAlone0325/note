@@ -238,3 +238,4 @@
 236. [WebSocket 从入门到入土](https://mp.weixin.qq.com/s/B1YaeuCXrCrq_hJaGSqmgQ)
 237. [推荐一个页面引导库 driver.js](https://mp.weixin.qq.com/s/y71Pi7COEwIHneR6yKwe7A)
 238. [TypeScript 5.4：带来新的类型和一些 Break Change](https://mp.weixin.qq.com/s/FJzcNPGmbQSbMFMHpxCkRQ)
+239. [前端部署真的不简单](https://mp.weixin.qq.com/s/h1MKxBrxBV6VlqybRE8bmA)
