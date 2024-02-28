@@ -5,6 +5,7 @@
 ## GIT
 
 1. [Git 使用教程｜最详细、最傻瓜、最浅显真正手把手教](https://mp.weixin.qq.com/s/G7Nz0aMnbBzo6aDi9JNZrw)
+2. [Git 不用背](https://mp.weixin.qq.com/s/EGgCILQvqJLhEarfZuCdHQ)
 
 ## Nodejs
 
