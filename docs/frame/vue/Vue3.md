@@ -171,4 +171,5 @@
 171. [Vue的@input怎么做到不监听输入法拼音的？90%人不知道~](https://mp.weixin.qq.com/s/eFzMG9uM9I9JLoJt7Qr4yg)
 172. [诉诸 Vue 组合式 API 解构 props](https://mp.weixin.qq.com/s/hDO2Jeusc4CWBg91eUFvqA)
 173. [想提升技术，必看的8个开源库，都很通俗易懂~](https://mp.weixin.qq.com/s/VntxWyHfMESPV0UTAhTOcg)
+174. [有了Composition API后，有些场景或许你不需要pinia了](https://mp.weixin.qq.com/s/SU27jy2AQYg1O4PNeaCW7w)
 ~~~~
