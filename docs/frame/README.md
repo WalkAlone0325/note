@@ -7,6 +7,7 @@
 1. [Git 使用教程｜最详细、最傻瓜、最浅显真正手把手教](https://mp.weixin.qq.com/s/G7Nz0aMnbBzo6aDi9JNZrw)
 2. [Git 不用背](https://mp.weixin.qq.com/s/EGgCILQvqJLhEarfZuCdHQ)
 3. [Git分支全攻略：日常开发与项目维护必备技巧](https://mp.weixin.qq.com/s/tPtG9_9qFU9giobX1GkCRA)
+4. [简述 packages.json 中 41 个常用的配置字段，了解一下还挺有用~](https://mp.weixin.qq.com/s/hK-pmmIpiP-FQiHdR89Zxg)
 
 ## Nodejs
 
