@@ -8,6 +8,7 @@
 2. [Git 不用背](https://mp.weixin.qq.com/s/EGgCILQvqJLhEarfZuCdHQ)
 3. [Git分支全攻略：日常开发与项目维护必备技巧](https://mp.weixin.qq.com/s/tPtG9_9qFU9giobX1GkCRA)
 4. [简述 packages.json 中 41 个常用的配置字段，了解一下还挺有用~](https://mp.weixin.qq.com/s/hK-pmmIpiP-FQiHdR89Zxg)
+5. [浏览器跨标签页通信的方式都有什么？](https://mp.weixin.qq.com/s/pYsWnIHWcUXCsrHK7mU91g)
 
 ## Nodejs
 
