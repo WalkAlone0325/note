@@ -24,6 +24,7 @@
 5. [前端性能优化到底该怎么做（下）— 直捣黄龙](https://juejin.cn/post/7139661845182300191)
 6. [🤣 省钱 90%！我是这样优化网站图片的](https://mp.weixin.qq.com/s/aJ0KdpDkEHM7q-O2ELlI6A)
 7. [常见的 SPA 首屏优化方式有哪些？](https://mp.weixin.qq.com/s/5MHAeuxpM_99zoZv3niMrw)
+8. [前端实现文件预览img、docx、xlsx、ppt、pdf、md、txt、audio、video](https://mp.weixin.qq.com/s/SoxZ5Yrtq_UfFwKagLoCQw)
 
 ## git
 
