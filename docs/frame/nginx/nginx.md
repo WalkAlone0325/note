@@ -6,3 +6,4 @@
 6. [看完这篇保姆级教程，彻底掌握 Nginx](https://mp.weixin.qq.com/s/1SjzSYZqWMDoBrYsFVoCZg)
 7. [看完这篇保姆级教程，彻底掌握 Nginx](https://mp.weixin.qq.com/s/1SjzSYZqWMDoBrYsFVoCZg)
 8. [三年前端还不会配置Nginx，被老板打了，今天一口气学完](https://mp.weixin.qq.com/s/hMxT2IUTHZYi1KWozETswg)
+9. [作为前端开发，感受下 nginx 带来的魅力！](https://mp.weixin.qq.com/s/ll6KS9fW9O_PZYmRHwuDnA)
