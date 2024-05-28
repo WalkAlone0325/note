@@ -38,6 +38,11 @@
 
 1. [MySQL 从入门到实践，万字详解！](https://mp.weixin.qq.com/s/JWU3yOxZnZRuMUpDP46dCQ)
 
+## Redis
+
+1. [Redis 基础知识](https://mp.weixin.qq.com/s/4kW4oHl0YQx9k9w2oq9j2A)
+2. [3款实用、跨平台的Redis可视化管理工具](https://mp.weixin.qq.com/s/bLA0eTCeipEiGKuxXl--4A)
+
 ## 涵盖
 
 1. React
