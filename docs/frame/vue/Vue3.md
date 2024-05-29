@@ -175,6 +175,7 @@
 175. [Vue3.4 中组件 v-model 双向数据绑定 新玩法](https://mp.weixin.qq.com/s/tjiHWiaXWq2oYAtl5anQDw)
 176. [Vue 3 进阶用法：事件的参数和校验](https://mp.weixin.qq.com/s/hj-t1c6ZVVC2gAxuvP7B8g)
 177. [Vue3组件Props逐级透传解决办法](https://mp.weixin.qq.com/s/jXeGO1uJROBAwOhJ3ehmPw)
+178. [基于Vue的图片文件上传与压缩组件的设计与实现](https://mp.weixin.qq.com/s/1xywoFbRvJ0S6fApjaSKWw)
 
 ```
 
