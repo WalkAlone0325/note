@@ -240,3 +240,4 @@
 238. [TypeScript 5.4：带来新的类型和一些 Break Change](https://mp.weixin.qq.com/s/FJzcNPGmbQSbMFMHpxCkRQ)
 239. [前端部署真的不简单](https://mp.weixin.qq.com/s/h1MKxBrxBV6VlqybRE8bmA)
 240. [Three.js快速入门](https://mp.weixin.qq.com/s/ZjnQNuLxTkQ9dYShF3iBXg)
+241. [原生JS实现单页应用路由，最后的案例让我见识了路由基础的天花板!](https://mp.weixin.qq.com/s/zt0OYhiVpupoj2zK2HgfMQ)
