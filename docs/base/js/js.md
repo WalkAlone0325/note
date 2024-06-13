@@ -241,3 +241,4 @@
 239. [前端部署真的不简单](https://mp.weixin.qq.com/s/h1MKxBrxBV6VlqybRE8bmA)
 240. [Three.js快速入门](https://mp.weixin.qq.com/s/ZjnQNuLxTkQ9dYShF3iBXg)
 241. [原生JS实现单页应用路由，最后的案例让我见识了路由基础的天花板!](https://mp.weixin.qq.com/s/zt0OYhiVpupoj2zK2HgfMQ)
+242. [如何干掉你代码里的if，让请求参数校验变的更加优雅](https://mp.weixin.qq.com/s/J5E8SldyEznNhH8iqB-NqQ)
