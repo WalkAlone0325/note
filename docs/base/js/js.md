@@ -244,3 +244,4 @@
 242. [如何干掉你代码里的if，让请求参数校验变的更加优雅](https://mp.weixin.qq.com/s/J5E8SldyEznNhH8iqB-NqQ)
 243. [Echarts中国地图下钻，支持下钻到县（vue3）](https://mp.weixin.qq.com/s/vgvu4k5kaHgyydBBGI_Ymg)
 244. [几行代码，优雅的避免接口重复请求！](https://mp.weixin.qq.com/s/dUR8bXPZUXTwcilfkRhRZg)
+245. [基于wujie的解决方案来简单聊聊微前端](https://mp.weixin.qq.com/s/itpDF1LCImOLfDfLpF31oA)
