@@ -176,6 +176,7 @@
 176. [Vue 3 进阶用法：事件的参数和校验](https://mp.weixin.qq.com/s/hj-t1c6ZVVC2gAxuvP7B8g)
 177. [Vue3组件Props逐级透传解决办法](https://mp.weixin.qq.com/s/jXeGO1uJROBAwOhJ3ehmPw)
 178. [基于Vue的图片文件上传与压缩组件的设计与实现](https://mp.weixin.qq.com/s/1xywoFbRvJ0S6fApjaSKWw)
+179. [实用的VUE系列——我们怎么用vue实现一个虚拟滚动插件？](https://mp.weixin.qq.com/s/tHKwD7zTMn2kFiqoVFrITA)
 
 ```
 
