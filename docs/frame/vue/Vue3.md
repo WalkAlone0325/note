@@ -178,6 +178,7 @@
 178. [基于Vue的图片文件上传与压缩组件的设计与实现](https://mp.weixin.qq.com/s/1xywoFbRvJ0S6fApjaSKWw)
 179. [实用的VUE系列——我们怎么用vue实现一个虚拟滚动插件？](https://mp.weixin.qq.com/s/tHKwD7zTMn2kFiqoVFrITA)
 180. [浅谈前端出现率高的设计模式](https://mp.weixin.qq.com/s/qWZBvTF_nEBX87B4b4Xn5w)
+181. [Vue 竟然能实现这么多动画效果](https://mp.weixin.qq.com/s/jeJEWbyat7vB1VUQhpez5A)
 
 ```
 
