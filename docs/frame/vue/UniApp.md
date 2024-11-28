@@ -14,3 +14,4 @@
 10. [数据字典请求与缓存方案](https://juejin.cn/post/7260070602613653565)
 11. [uniApp新模式：使用Vue3 + Vite4 + Pinia + Axios技术栈构建](https://mp.weixin.qq.com/s/Hz2085-S7sJQSizqKYLQHw)
 12. [uniapp-小程序支付](https://mp.weixin.qq.com/s/cn-mDqOilBPkTWw0OjT_3A)
+13. [uniapp + vue3 + vite4 + pinia + axios + uniapp-router-next + uview-plus + ts 搭建小程序开发模板，让开发如丝般顺滑](https://juejin.cn/post/7310041127181107209)
