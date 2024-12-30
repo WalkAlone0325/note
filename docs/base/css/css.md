@@ -46,3 +46,4 @@
 44. [normalize.css 与 reset.css 又何区别](https://mp.weixin.qq.com/s/UAyDTpl82B18h5KG6BxjBA)
 45. [CSS前瞻：@media (scripting)助你优雅降级](https://mp.weixin.qq.com/s/7g6JkjkAZ7_6XjTn8wTVWg)
 46. [2023 年 CSS 新特性大盘点](https://mp.weixin.qq.com/s/1-bZAtM4BrLCgg2A3ML4Bg)
+47. [CSS砌体布局：颠覆你认知的最疯狂的CSS最强布局，一行代码解决布局问题！](https://mp.weixin.qq.com/s/K-FlYidwlzhQ02yllYe8pA)
